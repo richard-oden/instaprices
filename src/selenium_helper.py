@@ -1,4 +1,5 @@
 import re
+from time import sleep
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -39,11 +40,12 @@ def try_find_element_then_click(by, value):
     except:
         return False
 
-def try_find_elements_until(find_elements_fn, until_condition_fn, attemptLimit = 5):
+def try_find_elements_until(find_elements_fn, until_condition_fn, attemptLimit = 5, secondDelay = 1):
     elements = find_elements_fn()
     attempts = 0
 
     while not until_condition_fn(elements) and attempts < attemptLimit:
+        sleep(secondDelay)
         elements = find_elements_fn()
         attempts += 1
     
