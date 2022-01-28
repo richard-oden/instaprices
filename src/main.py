@@ -18,11 +18,10 @@ aldi_card.click()
 search_input = selenium_helper.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
 search_input.send_keys('bananas', Keys.ENTER)
 
-item_cards = selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]')
-attempts = 0
-while not any('$' in ic.text.lower() for ic in item_cards) and attempts < 5:
-    item_cards = selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]')
-    attempts += 1
+item_cards = selenium_helper.try_find_elements_until(
+    lambda: selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
+    lambda elements: any('$' in e.text.lower() for e in elements)
+)
 
 raw_results = list(map(lambda fc: selenium_helper.get_item_values(fc, 'bananas'), filter(lambda ic: 'bananas' in ic.text.lower(), item_cards)))
 

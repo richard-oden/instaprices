@@ -39,6 +39,16 @@ def try_find_element_then_click(by, value):
     except:
         return False
 
+def try_find_elements_until(find_elements_fn, until_condition_fn, attemptLimit = 5):
+    elements = find_elements_fn()
+    attempts = 0
+
+    while not until_condition_fn(elements) and attempts < attemptLimit:
+        elements = find_elements_fn()
+        attempts += 1
+    
+    return elements
+
 def get_express_price(price_nodes):
     express_price_node = next(filter(lambda _: 'express' in _.lower(), price_nodes), None)
     if express_price_node is None:
