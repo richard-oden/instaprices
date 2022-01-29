@@ -40,12 +40,12 @@ def try_find_element_then_click(by, value):
     except:
         return False
 
-def try_find_elements_until(find_elements_fn, until_condition_fn, attemptLimit = 5, secondDelay = 1):
+def try_find_elements_until(find_elements_fn, until_condition_fn, attempt_limit = 5, second_delay = 1):
     elements = find_elements_fn()
     attempts = 0
 
-    while not until_condition_fn(elements) and attempts < attemptLimit:
-        sleep(secondDelay)
+    while not until_condition_fn(elements) and attempts < attempt_limit:
+        sleep(second_delay)
         elements = find_elements_fn()
         attempts += 1
     
