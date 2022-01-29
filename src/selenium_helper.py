@@ -1,3 +1,4 @@
+from Item import Item
 import re
 from time import sleep
 from selenium import webdriver
@@ -51,17 +52,6 @@ def try_find_elements_until(find_elements_fn, until_condition_fn, attempt_limit 
     
     return elements
 
-def get_express_price(price_nodes):
-    express_price_node = next(filter(lambda _: 'express' in _.lower(), price_nodes), None)
-    if express_price_node is None:
-        return None
-
-    match = re.search(r'\$ ?(\d+.\d{2})', express_price_node)
-    if match is None:
-        return None
-
-    return float(match.group(1))
-
 def get_total_price(price_nodes):
     total_price_node = next(filter(lambda _: not 'express' in _.lower() and not 'each' in _.lower(), price_nodes), None)
     if total_price_node is None:
@@ -101,11 +91,7 @@ def get_weight_in_grams(text_nodes):
         'g': quantity
     }[unit]
 
-
-def get_price_per_gram(total_price, weight_grams):
-    return total_price / weight_grams
-
-def get_item_values(item_card, search_term):
+def get_items(item_card, search_term):
     text_nodes = list(map(lambda _: _.strip(), item_card.text.split('\n')))
     if len(text_nodes) == 0:
         return None
@@ -126,14 +112,4 @@ def get_item_values(item_card, search_term):
     if price_total is None:
         return None
     
-    price_per_gram = get_price_per_gram(price_total, weight_grams)
-    
-    return {
-        'name': item_name,
-        'weight_grams': weight_grams,
-        'weight_ounces': weight_grams / 28.349,
-        'price_total': price_total,
-        'price_express': get_express_price(price_nodes),
-        'price_per_gram': price_per_gram,
-        'price_per_ounce': price_per_gram * 28.349   
-    }
+    return Item(item_name, price_total, weight_grams)

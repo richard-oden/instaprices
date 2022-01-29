@@ -1,5 +1,4 @@
 import selenium_helper
-from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
@@ -27,7 +26,7 @@ item_cards = selenium_helper.try_find_elements_until(
 )
 
 raw_results = list(
-    map(lambda fc: selenium_helper.get_item_values(fc, 'bananas'), 
+    map(lambda fc: selenium_helper.get_items(fc, 'bananas'), 
     filter(lambda ic: 'bananas' in ic.text.lower(), item_cards))
 )
 
