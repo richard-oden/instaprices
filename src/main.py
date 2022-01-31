@@ -1,6 +1,9 @@
 import selenium_helper
+from Store import Store
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+
+shopping_list = ['banana', 'potato', 'frozen spinach', 'milk', 'eggs', 'peanut butter']
 
 selenium_helper.driver.get('https://www.instacart.com/')
 
@@ -14,20 +17,23 @@ retailer_cards = selenium_helper.try_find_elements_until(
 )
 
 aldi_card = next(filter(lambda rc: 'ALDI' in rc.text, retailer_cards), None)
-
 aldi_card.click()
 
-search_input = selenium_helper.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
-search_input.send_keys('bananas', Keys.ENTER)
+aldi = Store('Aldi')
+for item in shopping_list:
+    search_input = selenium_helper.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
+    search_input.send_keys(Keys.CONTROL, 'a')
+    search_input.send_keys(Keys.DELETE)
+    search_input.send_keys(item, Keys.ENTER)
 
-item_cards = selenium_helper.try_find_elements_until(
-    lambda: selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
-    lambda elements: elements is not None and any('$' in e.text.lower() for e in elements)
-)
+    item_cards = selenium_helper.try_find_elements_until(
+        lambda: selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
+        lambda elements: elements is not None and any('$' in e.text.lower() for e in elements)
+    )
 
-raw_results = list(
-    map(lambda fc: selenium_helper.get_items(fc, 'bananas'), 
-    filter(lambda ic: 'bananas' in ic.text.lower(), item_cards))
-)
+    aldi.items[item] = list(
+        map(lambda fc: selenium_helper.get_items(fc, item), 
+        filter(lambda ic: item in ic.text.lower(), item_cards))
+    )
 
-print(raw_results)
+print(aldi.items)

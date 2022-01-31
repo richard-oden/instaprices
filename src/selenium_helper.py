@@ -82,7 +82,7 @@ def get_weight_in_grams(text_nodes):
     if quantity_match is None:
         return None
     
-    quantity = quantity_match.group(1)
+    quantity = float(quantity_match.group(1))
 
     return {
         'lb': quantity * 453.592,
