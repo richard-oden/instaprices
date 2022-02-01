@@ -1,4 +1,5 @@
-from Item import Item
+from CountedItem import CountedItem 
+from WeighedItem import WeighedItem
 import re
 from time import sleep
 from selenium import webdriver
@@ -64,11 +65,7 @@ def get_total_price(price_nodes):
 
     return float(match.group(1))
 
-def get_weight_in_grams(text_nodes):
-    quantity_node = next(filter(lambda _: re.search(r'\b(?:lb|oz|g|fl oz)\b', _, re.IGNORECASE), text_nodes), None)
-    if quantity_node is None:
-        return None
-    
+def get_weight_in_grams(quantity_node):
     unit_match = re.search(r'\b(lb|oz|fl oz|g)\b', quantity_node, re.IGNORECASE)
     if (unit_match is None):
         return None
@@ -91,6 +88,13 @@ def get_weight_in_grams(text_nodes):
         'g': quantity
     }[unit]
 
+def get_count(count_node):
+    count_match = re.search(r'\b([\d.]+) ct\b', count_node, re.IGNORECASE)
+    if (count_match is None):
+        return None
+
+    return int(count_match.group(1))
+
 def get_items(item_card, search_term):
     text_nodes = list(map(lambda _: _.strip(), item_card.text.split('\n')))
     if len(text_nodes) == 0:
@@ -100,16 +104,28 @@ def get_items(item_card, search_term):
     if len(price_nodes) == 0:
         return None
 
-    item_name = next(filter(lambda _: re.search(fr'\b{search_term}\b', _, re.IGNORECASE), text_nodes), None)
+    item_name = next(filter(lambda _: search_term.lower() in _.lower(), text_nodes), None)
     if item_name is None:
-        return None
-
-    weight_grams = get_weight_in_grams(text_nodes)
-    if weight_grams is None:
         return None
 
     price_total = get_total_price(price_nodes)
     if price_total is None:
         return None
-    
-    return Item(item_name, price_total, weight_grams)
+
+    weight_or_volume_node = next(filter(lambda _: re.search(r'\b(?:lb|oz|g|fl oz)\b', _, re.IGNORECASE), text_nodes), None)
+    if weight_or_volume_node is not None:
+        weight_grams = get_weight_in_grams(weight_or_volume_node)
+        if weight_grams is None:
+            return None
+        
+        return WeighedItem(item_name, price_total, weight_grams)
+
+    count_node = next(filter(lambda _: re.search(r'\bct\b', _, re.IGNORECASE), text_nodes), None)
+    if count_node is not None:
+        count = get_count(count_node)
+        if count is None:
+            return None
+        
+        return CountedItem(item_name, price_total, count)
+
+    return None

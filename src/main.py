@@ -1,5 +1,6 @@
 import selenium_helper
 from Store import Store
+from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
@@ -10,6 +11,7 @@ selenium_helper.driver.get('https://www.instacart.com/')
 address_input = selenium_helper.try_find_element_then_click(By.ID, 'address_input1')
 
 use_location_button = selenium_helper.try_find_element_then_click(By.CSS_SELECTOR, 'button[data-testid="address-results-use-current-location"]')
+sleep(1)
 
 retailer_cards = selenium_helper.try_find_elements_until(
     lambda: selenium_helper.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
