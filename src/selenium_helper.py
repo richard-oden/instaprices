@@ -75,11 +75,19 @@ def get_weight_in_grams(quantity_node):
     if '$' in quantity_node and unit == 'lb':
         return 453.592
 
-    quantity_match = re.search(r'\b([\d.]+)\b', quantity_node, re.IGNORECASE)
-    if quantity_match is None:
-        return None
+    quantity = None
+    multiple_quantity_match = re.search(r'\b([\d.]+) x ([\d.]+)\b', quantity_node, re.IGNORECASE)
+    if multiple_quantity_match is not None:    
+        quantity = float(multiple_quantity_match.group(1)) * float(multiple_quantity_match.group(2))
+    else:
+        quantity_match = re.search(r'\b([\d.]+)\b', quantity_node, re.IGNORECASE)
+        if quantity_match is None:
+            return None
     
-    quantity = float(quantity_match.group(1))
+        quantity = float(quantity_match.group(1))
+    
+    if quantity is None:
+        return None
 
     return {
         'lb': quantity * 453.592,
@@ -90,7 +98,7 @@ def get_weight_in_grams(quantity_node):
     }[unit]
 
 def get_count(count_node):
-    count_match = re.search(r'\b([\d.]+) ct\b', count_node, re.IGNORECASE)
+    count_match = re.search(r'\b([\d.]+) (?:ct|each|ea)\b', count_node, re.IGNORECASE)
     if (count_match is None):
         return None
 
@@ -121,7 +129,7 @@ def get_items(item_card, search_term):
         
         return WeighedItem(item_name, price_total, weight_grams)
 
-    count_node = next(filter(lambda _: re.search(r'\bct\b', _, re.IGNORECASE), text_nodes), None)
+    count_node = next(filter(lambda _: re.search(r'\b(?:ct|each|ea)\b', _, re.IGNORECASE), text_nodes), None)
     if count_node is not None:
         count = get_count(count_node)
         if count is None:

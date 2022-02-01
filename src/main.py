@@ -4,7 +4,7 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
-shopping_list = ['milk']
+shopping_list = ['coke']
 
 selenium_helper.driver.get('https://www.instacart.com/')
 
