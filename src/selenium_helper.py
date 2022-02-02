@@ -66,7 +66,7 @@ def get_total_price(price_nodes):
     return float(match.group(1))
 
 def get_weight_in_grams(quantity_node):
-    unit_match = re.search(r'\b(lb|oz|fl oz|gal|g)\b', quantity_node, re.IGNORECASE)
+    unit_match = re.search(r'\b(lb|oz|fl oz|gal|g|l|ml)\b', quantity_node, re.IGNORECASE)
     if (unit_match is None):
         return None
 
@@ -94,7 +94,9 @@ def get_weight_in_grams(quantity_node):
         'oz': quantity * 28.349,
         'fl oz': quantity * 29.573, #water
         'gal': quantity * 3785.41, #water
-        'g': quantity
+        'g': quantity,
+        'ml': quantity, #water
+        'l': quantity * 1000 #water
     }[unit]
 
 def get_count(count_node):
@@ -121,7 +123,7 @@ def get_items(item_card, search_term):
     if price_total is None:
         return None
 
-    weight_or_volume_node = next(filter(lambda _: re.search(r'\b(?:lb|oz|g|fl oz|gal)\b', _, re.IGNORECASE), text_nodes), None)
+    weight_or_volume_node = next(filter(lambda _: re.search(r'\b(?:lb|oz|g|fl oz|gal|ml|l)\b', _, re.IGNORECASE), text_nodes), None)
     if weight_or_volume_node is not None:
         weight_grams = get_weight_in_grams(weight_or_volume_node)
         if weight_grams is None:
