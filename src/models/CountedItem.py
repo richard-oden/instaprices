@@ -1,4 +1,4 @@
-from AbstractItem import AbstractItem
+from models.AbstractItem import AbstractItem
 
 class CountedItem(AbstractItem):
     def __init__(self, name, price_total, count):

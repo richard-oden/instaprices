@@ -1,4 +1,4 @@
-from AbstractItem import AbstractItem
+from models.AbstractItem import AbstractItem
 
 class WeighedItem(AbstractItem):
     def __init__(self, name, price_total, weight_grams):
