@@ -1,22 +1,32 @@
 import re
-import helpers.selenium_helper as selenium_helper
 from models.CountedItem import CountedItem
 from models.WeighedItem import WeighedItem
 from models.Store import Store
 from selenium.webdriver.common.by import By
 
-def get_retailer_cards():
-    return selenium_helper.try_find_elements_until(
-        lambda: selenium_helper.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
+def navigate_to_stores(selenium_client):
+    selenium_client.driver.get('https://www.instacart.com/')
+
+    was_address_input_clicked = selenium_client.try_find_element_then_click(By.ID, 'address_input1')
+    if not was_address_input_clicked:
+        raise ValueError('Unable to find address input element.')
+
+    was_use_location_button_clicked = selenium_client.try_find_element_then_click(By.CSS_SELECTOR, 'button[data-testid="address-results-use-current-location"]')
+    if not was_use_location_button_clicked:
+        raise ValueError('Unable to find use location button element.')
+
+def get_retailer_cards(selenium_client):
+    return selenium_client.try_find_elements_until(
+        lambda: (selenium_client.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]')),
         lambda elements: elements is not None and len(elements) > 0
     )
 
-def get_stores():
-    return list(map(lambda rc: Store(rc.text.split('\n')[0]), get_retailer_cards()))
+def get_stores(selenium_client):
+    return list(map(lambda rc: Store(rc.text.split('\n')[0]), get_retailer_cards(selenium_client)))
 
-def get_item_cards():
-    return selenium_helper.try_find_elements_until(
-        lambda: selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
+def get_item_cards(selenium_client):
+    return selenium_client.try_find_elements_until(
+        lambda: selenium_client.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
         lambda elements: elements is not None and any('$' in e.text.lower() for e in elements)
     )
 
