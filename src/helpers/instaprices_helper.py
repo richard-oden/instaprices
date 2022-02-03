@@ -17,7 +17,7 @@ def navigate_to_stores(selenium_client):
 
 def get_retailer_cards(selenium_client):
     return selenium_client.try_find_elements_until(
-        lambda: (selenium_client.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]')),
+        lambda: selenium_client.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
         lambda elements: elements is not None and len(elements) > 0
     )
 

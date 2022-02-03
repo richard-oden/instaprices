@@ -44,7 +44,7 @@ class SeleniumClient():
         except:
             return False
 
-    def try_find_elements_until(find_elements_fn, until_condition_fn, attempt_limit = 5, second_delay = 1):
+    def try_find_elements_until(self, find_elements_fn, until_condition_fn, attempt_limit = 5, second_delay = 1):
         elements = find_elements_fn()
         attempts = 0
 
