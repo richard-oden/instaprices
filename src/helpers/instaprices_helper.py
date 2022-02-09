@@ -1,13 +1,15 @@
 import re
+from time import sleep
 from models.CountedItem import CountedItem
 from models.WeighedItem import WeighedItem
 from models.Store import Store
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 def navigate_to_stores(selenium_client):
     selenium_client.driver.get('https://www.instacart.com/')
 
-    was_address_input_clicked = selenium_client.try_find_element_then_click(By.ID, 'address_input1')
+    was_address_input_clicked = selenium_client.try_find_element_then_click(By.CSS_SELECTOR, 'input[id*="address_input"]')
     if not was_address_input_clicked:
         raise ValueError('Unable to find address input element.')
 
@@ -15,14 +17,27 @@ def navigate_to_stores(selenium_client):
     if not was_use_location_button_clicked:
         raise ValueError('Unable to find use location button element.')
 
+    selenium_client.try_find_visible_element(By.CSS_SELECTOR, 'input[id*="address_input"]').send_keys(Keys.ESCAPE)
+
+    sleep(2)
+
 def get_retailer_cards(selenium_client):
     return selenium_client.try_find_elements_until(
         lambda: selenium_client.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
         lambda elements: elements is not None and len(elements) > 0
     )
 
-def get_stores(selenium_client):
-    return list(map(lambda rc: Store(rc.text.split('\n')[0]), get_retailer_cards(selenium_client)))
+def get_store_names(selenium_client):
+    return list(map(lambda rc: rc.text.split('\n')[0], get_retailer_cards(selenium_client)))
+
+def search_items(selenium_client, search_term):
+    search_input = selenium_client.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
+    if search_input is None:
+        raise ValueError('Unable to find search input element.')
+
+    search_input.send_keys(Keys.CONTROL, 'a')
+    search_input.send_keys(Keys.DELETE)
+    search_input.send_keys(search_term, Keys.ENTER)
 
 def get_item_cards(selenium_client):
     return selenium_client.try_find_elements_until(
@@ -83,7 +98,7 @@ def get_count(count_node):
 
     return int(count_match.group(1))
 
-def get_items(item_card, search_term):
+def get_item(item_card, search_term):
     text_nodes = list(map(lambda _: _.strip(), item_card.text.split('\n')))
     if len(text_nodes) == 0:
         return None
