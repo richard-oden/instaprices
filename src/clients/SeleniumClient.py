@@ -9,7 +9,13 @@ class SeleniumClient():
     _service = Service(ChromeDriverManager().install())
 
     def __init__(self):
-        self.driver = webdriver.Chrome(service=self._service)
+        chrome_options = webdriver.ChromeOptions()
+        chrome_options.experimental_options["prefs"] = {
+            "profile.default_content_settings": {"images": 2},
+            "profile.managed_default_content_settings": {"images": 2}
+        }
+
+        self.driver = webdriver.Chrome(service=self._service, chrome_options=chrome_options)
         self.wait = WebDriverWait(self.driver, 5)
 
     def try_find_visible_element(self, by, value):
