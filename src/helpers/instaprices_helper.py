@@ -11,7 +11,8 @@ def navigate_to_stores(selenium_client):
 
     was_address_input_clicked = selenium_client.try_find_element_then_click(By.CSS_SELECTOR, 'input[id*="address_input"]')
     if not was_address_input_clicked:
-        raise ValueError('Unable to find address input element.')
+        print('Unable to find address input element. Attempting to target retailer card...')
+        return
 
     was_use_location_button_clicked = selenium_client.try_find_element_then_click(By.CSS_SELECTOR, 'button[data-testid="address-results-use-current-location"]')
     if not was_use_location_button_clicked:
@@ -33,11 +34,13 @@ def get_store_names(selenium_client):
 def search_items(selenium_client, search_term):
     search_input = selenium_client.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
     if search_input is None:
-        raise ValueError('Unable to find search input element.')
+        print('Unable to find search input element.')
+        return False
 
     search_input.send_keys(Keys.CONTROL, 'a')
     search_input.send_keys(Keys.DELETE)
     search_input.send_keys(search_term, Keys.ENTER)
+    return True
 
 def get_item_cards(selenium_client):
     return selenium_client.try_find_elements_until(
