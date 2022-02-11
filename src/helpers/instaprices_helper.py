@@ -1,10 +1,14 @@
+import inflect
 import re
 from time import sleep
 from models.CountedItem import CountedItem
 from models.WeighedItem import WeighedItem
-from models.Store import Store
+from nltk.corpus import wordnet
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+
+inflect_engine = inflect.engine()
+nouns = {s.name().split('.', 1)[0] for s in wordnet.all_synsets('n')}
 
 def navigate_to_stores(selenium_client):
     selenium_client.driver.get('https://www.instacart.com/')
@@ -41,6 +45,21 @@ def search_items(selenium_client, search_term):
     search_input.send_keys(Keys.DELETE)
     search_input.send_keys(search_term, Keys.ENTER)
     return True
+
+def get_word_variations(search_term):
+    variations = []
+    for word in search_term.split():
+        if not word.lower() in nouns:
+            variations += (word)
+            continue
+
+        singular = inflect_engine.singular_noun(search_term)
+        if not singular:
+            variations += (word, inflect_engine.plural_noun(word))
+            continue
+        
+        variations += (singular, word)
+    return variations
 
 def get_item_cards(selenium_client):
     return selenium_client.try_find_elements_until(
