@@ -11,6 +11,7 @@ _chrome_options.experimental_options["prefs"] = {
     "profile.default_content_settings": {"images": 2},
     "profile.managed_default_content_settings": {"images": 2}
 }
+_chrome_options.add_argument("--log-level=3")
 
 driver = webdriver.Chrome(service=_service, chrome_options=_chrome_options)
 _wait = WebDriverWait(driver, 5)

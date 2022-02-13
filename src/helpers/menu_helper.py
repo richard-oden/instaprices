@@ -8,6 +8,9 @@ def bordered(text):
     width = max(len(s) for s in lines)
     res = [f'┌{"─" * width}┐']
     for s in lines:
-        res += f'│{(s + " " * width)[:width]}│'
-    res += f'└{"─" * width}┘'
+        res.append(f'│{(s + " " * width)[:width]}│')
+    res.append(f'└{"─" * width}┘')
     return '\n'.join(res)
+
+def print_menu(prompt, menu_options):
+    print(bordered('\n'.join([prompt, *[f'  [{menu_options.index(mu)}] {mu.desc}' for mu in menu_options]])))
