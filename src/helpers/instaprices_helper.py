@@ -2,6 +2,7 @@ import inflect
 import nltk
 import re
 from time import sleep
+import helpers.selenium_helper as selenium_helper
 from models.CountedItem import CountedItem
 from models.WeighedItem import WeighedItem
 from nltk.corpus import wordnet
@@ -14,33 +15,37 @@ nltk.download('omw-1.4')
 inflect_engine = inflect.engine()
 nouns = {s.name().split('.', 1)[0] for s in wordnet.all_synsets('n')}
 
-def navigate_to_stores(selenium_client):
-    selenium_client.driver.get('https://www.instacart.com/')
+def navigate_to_stores():
+    selenium_helper.driver.get('https://www.instacart.com/')
 
-    was_address_input_clicked = selenium_client.try_find_element_then_click(By.CSS_SELECTOR, 'input[id*="address_input"]')
+    was_address_input_clicked = selenium_helper.try_find_element_then_click(By.CSS_SELECTOR, 'input[id*="address_input"]')
     if not was_address_input_clicked:
         print('Unable to find address input element. Attempting to target retailer card...')
         return
 
-    was_use_location_button_clicked = selenium_client.try_find_element_then_click(By.CSS_SELECTOR, 'button[data-testid="address-results-use-current-location"]')
+    was_use_location_button_clicked = selenium_helper.try_find_element_then_click(By.CSS_SELECTOR, 'button[data-testid="address-results-use-current-location"]')
     if not was_use_location_button_clicked:
         raise ValueError('Unable to find use location button element.')
 
-    selenium_client.try_find_visible_element(By.CSS_SELECTOR, 'input[id*="address_input"]').send_keys(Keys.ESCAPE)
+    selenium_helper.try_find_visible_element(By.CSS_SELECTOR, 'input[id*="address_input"]').send_keys(Keys.ESCAPE)
 
     sleep(2)
 
-def get_retailer_cards(selenium_client):
-    return selenium_client.try_find_elements_until(
-        lambda: selenium_client.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
+def return_to_stores():
+    if not selenium_helper.try_find_element_then_click(By.CSS_SELECTOR, 'span[class*="Logo"]'):
+        raise ValueError('Unable to find return to stores button element.')
+
+def get_retailer_cards():
+    return selenium_helper.try_find_elements_until(
+        lambda: selenium_helper.try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
         lambda elements: elements is not None and len(elements) > 0
     )
 
-def get_store_names(selenium_client):
-    return list(map(lambda rc: rc.text.split('\n')[0], get_retailer_cards(selenium_client)))
+def get_store_names():
+    return list(map(lambda rc: rc.text.split('\n')[0], get_retailer_cards()))
 
-def search_items(selenium_client, search_term):
-    search_input = selenium_client.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
+def search_items(search_term):
+    search_input = selenium_helper.try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
     if search_input is None:
         print('Unable to find search input element.')
         return False
@@ -65,9 +70,9 @@ def get_word_variations(search_term):
         variations.append((singular, word))
     return variations
 
-def get_item_cards(selenium_client):
-    return selenium_client.try_find_elements_until(
-        lambda: selenium_client.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
+def get_item_cards():
+    return selenium_helper.try_find_elements_until(
+        lambda: selenium_helper.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
         lambda elements: elements is not None and any('$' in e.text.lower() for e in elements)
     )
 
@@ -77,11 +82,11 @@ def filter_item_cards(item_cards, search_term):
         item_cards
     )
 
-def get_items(search_term, selenium_client):
+def get_items(search_term):
     return list(
         map(
             lambda fc: get_item(fc, search_term), 
-            filter_item_cards(get_item_cards(selenium_client), search_term)
+            filter_item_cards(get_item_cards(), search_term)
         )
     )
 
