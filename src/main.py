@@ -1,9 +1,12 @@
+from multiprocessing.pool import ThreadPool
 from clients.SeleniumClient import SeleniumClient
 from models.Store import Store
 import helpers.instaprices_helper as instaprices_helper
-import multiprocessing
+from concurrent.futures import ThreadPoolExecutor
 
-def get_store(store_name, shopping_list):
+shopping_list = ['banana']
+
+def get_store(store_name):
     selenium_client = SeleniumClient()
     instaprices_helper.navigate_to_stores(selenium_client)
 
@@ -11,7 +14,7 @@ def get_store(store_name, shopping_list):
 
     if (retailer_card is None):
         selenium_client.driver.quit()
-        return
+        return None
 
     retailer_card.click()
 
@@ -21,25 +24,19 @@ def get_store(store_name, shopping_list):
             selenium_client.driver.quit()
             continue
 
-        items[search_term] = list(
-            map(lambda fc: instaprices_helper.get_item(fc, search_term), 
-            filter(lambda ic: search_term in ic.text.lower(), instaprices_helper.get_item_cards(selenium_client)))
-        )
+        items[search_term] = instaprices_helper.get_items(search_term, selenium_client)
 
     selenium_client.driver.quit()
 
     return Store(store_name, items)
 
 if __name__ == '__main__':
-    shopping_list = ['banana', 'spinach', 'tomatoes', 'baguette']
-
     initial_selenium_client = SeleniumClient()
     instaprices_helper.navigate_to_stores(initial_selenium_client)
     store_names = instaprices_helper.get_store_names(initial_selenium_client)
     initial_selenium_client.driver.quit()
 
-    pool = multiprocessing.Pool(4)
-    stores = pool.starmap(get_store, map(lambda sn: (sn, shopping_list), store_names))
-    pool.close()
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        stores = list(executor.map(get_store, store_names))
 
     print(store_names)

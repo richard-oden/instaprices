@@ -1,4 +1,5 @@
 import inflect
+import nltk
 import re
 from time import sleep
 from models.CountedItem import CountedItem
@@ -6,6 +7,9 @@ from models.WeighedItem import WeighedItem
 from nltk.corpus import wordnet
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 inflect_engine = inflect.engine()
 nouns = {s.name().split('.', 1)[0] for s in wordnet.all_synsets('n')}
@@ -50,21 +54,35 @@ def get_word_variations(search_term):
     variations = []
     for word in search_term.split():
         if not word.lower() in nouns:
-            variations += (word)
+            variations.append((word))
             continue
 
         singular = inflect_engine.singular_noun(search_term)
         if not singular:
-            variations += (word, inflect_engine.plural_noun(word))
+            variations.append((word, inflect_engine.plural_noun(word)))
             continue
         
-        variations += (singular, word)
+        variations.append((singular, word))
     return variations
 
 def get_item_cards(selenium_client):
     return selenium_client.try_find_elements_until(
         lambda: selenium_client.try_find_visible_elements(By.CSS_SELECTOR, 'div[class*="ItemBCard"]'),
         lambda elements: elements is not None and any('$' in e.text.lower() for e in elements)
+    )
+
+def filter_item_cards(item_cards, search_term):        
+    return filter(
+        lambda ic: all(any(re.search(fr'\b{v}\b', ic.text, re.IGNORECASE) for v in vs) for vs in get_word_variations(search_term)), 
+        item_cards
+    )
+
+def get_items(search_term, selenium_client):
+    return list(
+        map(
+            lambda fc: get_item(fc, search_term), 
+            filter_item_cards(get_item_cards(selenium_client), search_term)
+        )
     )
 
 def get_total_price(price_nodes):
