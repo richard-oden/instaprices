@@ -1,5 +1,4 @@
 import inflect
-import nltk
 import re
 from time import sleep
 import helpers.selenium_helper as selenium_helper
