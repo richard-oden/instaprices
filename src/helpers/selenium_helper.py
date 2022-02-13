@@ -20,26 +20,26 @@ def try_find_visible_element(by, value):
     try:
         return _wait.until(EC.visibility_of_element_located((by, value)))
     except:
-        return None
+        return
 
 def try_find_visible_elements(by, value):
     try:
         return _wait.until(EC.visibility_of_all_elements_located((by, value)))
     except:
-        return None
+        return
 
 def try_find_elements(by, value):
     try:
         return driver.find_elements(by, value)
     except:
-        return None
+        return
 
 def try_find_elements_with_fallbacks(by, *values):
     for value in values:
         elements = try_find_elements(by, value)
         if elements is not None and len(elements) > 0:
             return elements
-    return None
+    return
 
 def try_find_element_then_click(by, value):
     try:

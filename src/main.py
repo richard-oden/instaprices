@@ -1,14 +1,14 @@
 from models.Store import Store
 import helpers.instaprices_helper as instaprices_helper
-import helpers.selenium_helper as selenium_helper
 
-shopping_list = ['banana']
+shopping_list = ['eggs']
 
 def get_store(store_name):
     retailer_card = next(filter(lambda rc: store_name in rc.text, instaprices_helper.get_retailer_cards()), None)
 
     if (retailer_card is None):
-        return None
+        instaprices_helper.return_to_stores()
+        return
 
     retailer_card.click()
 
