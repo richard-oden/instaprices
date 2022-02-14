@@ -24,8 +24,10 @@ def input_loop(prompt, validator_fn):
     valid_input = False
 
     while not valid_input:
-        res = input(prompt + "\n").lower()
+        res = input(prompt).lower()
         valid_input = validator_fn(res)
+        if not valid_input:
+            print("Invalid input.")
 
     return res
 
@@ -35,7 +37,7 @@ def valid_menu_choice(res, menu_options):
 
 def print_menu(prompt, menu_options):
     print(bordered('\n'.join([prompt, *[f'  [{menu_options.index(mu)}] {mu.desc}' for mu in menu_options]])))
-    choice = input_loop('Enter the number for your selection or "Q" to quit.', lambda res: valid_menu_choice(res, menu_options))
+    choice = input_loop('Enter the number for your selection or "Q" to quit: ', lambda res: valid_menu_choice(res, menu_options))
 
     if choice == 'q':
         return
