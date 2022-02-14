@@ -4,5 +4,5 @@ class MenuOption:
         self.fn = fn
 
     def execute(self):
-        self.fn()
+        return self.fn()
     

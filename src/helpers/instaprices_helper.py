@@ -2,6 +2,7 @@ import inflect
 import re
 import helpers.selenium_helper as selenium_helper
 from models.CountedItem import CountedItem
+from models.Store import Store
 from models.WeighedItem import WeighedItem
 
 inflect_engine = inflect.engine()
@@ -131,3 +132,28 @@ def get_item(item_text, search_term_variations):
         return CountedItem(item_name, price_total, count)
 
     return
+
+def get_store(store_name, shopping_list):
+    retailer_card = next(filter(lambda rc: store_name in rc.text, selenium_helper.get_retailer_cards()), None)
+
+    if (retailer_card is None):
+        selenium_helper.return_to_stores()
+        return
+
+    retailer_card.click()
+
+    items = {}
+    for search_term in shopping_list:
+        if not selenium_helper.search_items(search_term):
+            continue
+
+        items[search_term] = get_items(search_term)
+
+    selenium_helper.return_to_stores()
+
+    return Store(store_name, items)
+
+def get_stores(shopping_list):
+    selenium_helper.navigate_to_stores()
+
+    return [get_store(sn, shopping_list) for sn in get_store_names()]
