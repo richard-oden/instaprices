@@ -29,8 +29,8 @@ if __name__ == '__main__':
     menu_helper.print_menu(
         'Enter shopping list manually or import from CSV?',
         [
-            MenuOption('Enter manually', print('')),
-            MenuOption('Import from CSV', print('')),
+            MenuOption('Enter manually', lambda: print('0')),
+            MenuOption('Import from CSV', lambda: print('1')),
         ]
     )
 
