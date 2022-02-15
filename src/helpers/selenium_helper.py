@@ -1,4 +1,5 @@
 import os
+from colorama import Fore
 from time import sleep
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
@@ -101,7 +102,6 @@ def navigate_to_stores():
     was_address_input_clicked = try_find_element_then_click(By.CSS_SELECTOR, 'input[id*="address_input"]')
     if not was_address_input_clicked:
         # Sometimes the location has already been populated. In this case, we exit early.
-        print('Unable to find address input element. Attempting to target retailer card...')
         return
 
     was_use_location_button_clicked = try_find_element_then_click(By.CSS_SELECTOR, 'button[data-testid="address-results-use-current-location"]')
@@ -126,8 +126,7 @@ def get_retailer_cards():
     '''
     return filter(lambda e: e.text != '', try_find_elements_until(
         lambda: try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
-        lambda elements: elements is not None and len(elements) > 0
-    ))
+        lambda elements: elements is not None and len(elements) > 0))
 
 def search_items(search_term):
     '''
@@ -135,7 +134,7 @@ def search_items(search_term):
     '''
     search_input = try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
     if search_input is None:
-        print('Unable to find search input element.')
+        print(Fore.YELLOW + f'  Unable to find search input element while searching for {search_term}.' + Fore.RESET)
         return False
 
     search_input.send_keys(Keys.CONTROL, 'a')

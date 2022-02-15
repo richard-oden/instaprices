@@ -1,6 +1,7 @@
 import inflect
 import re
 import helpers.selenium_helper as selenium_helper
+from colorama import Fore
 from models.CountedItem import CountedItem
 from models.Store import Store
 from models.WeighedItem import WeighedItem
@@ -30,20 +31,21 @@ def filter_items(item_texts, search_term_variations):
         item_texts
     )
 
+def get_item_texts(attempts = 0):
+    try:
+        item_cards = selenium_helper.get_item_cards()
+        return [] if item_cards is None else [ic.text for ic in item_cards]
+    except:
+        return [] if attempts > 3 else get_item_texts(attempts + 1)
+
 def get_items(search_term):
-    print(f'  Searching for {search_term}')
+    print(f'  Searching for {search_term}...', end='\r')
     search_term_variations = get_search_term_variations(search_term)
 
-    item_cards = selenium_helper.get_item_cards()
-    if item_cards is None:
-        return []
-
-    return list(
-        map(
+    return list(map(
             lambda fi: get_item(fi, search_term_variations), 
-            filter_items([ic.text for ic in item_cards], search_term_variations)
-        )
-    )
+            filter_items(get_item_texts(), search_term_variations)
+        ))
 
 def get_total_price(price_nodes):
     total_price_node = next(filter(lambda _: not 'express' in _.lower() and not 'each' in _.lower(), price_nodes), None)
@@ -135,7 +137,7 @@ def get_item(item_text, search_term_variations):
     return
 
 def get_store(store_name, shopping_list):
-    print(f'Retrieving data for {store_name}.')
+    print(f'\nRetrieving data from {store_name}...')
     retailer_card = next(filter(lambda rc: store_name in rc.text, selenium_helper.get_retailer_cards()), None)
 
     if (retailer_card is None):
@@ -148,7 +150,13 @@ def get_store(store_name, shopping_list):
         if not selenium_helper.search_items(search_term):
             continue
 
-        items[search_term] = get_items(search_term)
+        found_items = get_items(search_term)
+        if len(found_items) == 0:
+            print(Fore.YELLOW + f'  No items were found while searching for {search_term}.' + Fore.RESET)
+        else:
+            print(f'  Found {len(found_items)} item(s) while searching for {search_term}.')
+
+        items[search_term] = found_items
 
     selenium_helper.return_to_stores()
 
