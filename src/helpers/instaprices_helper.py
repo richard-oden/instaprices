@@ -31,6 +31,7 @@ def filter_items(item_texts, search_term_variations):
     )
 
 def get_items(search_term):
+    print(f'  Searching for {search_term}')
     search_term_variations = get_search_term_variations(search_term)
 
     item_cards = selenium_helper.get_item_cards()
@@ -91,7 +92,7 @@ def get_weight_in_grams(quantity_node):
     }[unit]
 
 def get_count(count_node):
-    count_match = re.search(r'\b([\d.]+) (?:ct|each|ea)\b', count_node, re.IGNORECASE)
+    count_match = re.search(r'\b([\d.]+) (?:ct|ea)\b', count_node, re.IGNORECASE)
     if (count_match is None):
         return
 
@@ -134,10 +135,10 @@ def get_item(item_text, search_term_variations):
     return
 
 def get_store(store_name, shopping_list):
+    print(f'Retrieving data for {store_name}.')
     retailer_card = next(filter(lambda rc: store_name in rc.text, selenium_helper.get_retailer_cards()), None)
 
     if (retailer_card is None):
-        selenium_helper.return_to_stores()
         return
 
     retailer_card.click()
@@ -155,5 +156,6 @@ def get_store(store_name, shopping_list):
 
 def get_stores(shopping_list):
     selenium_helper.navigate_to_stores()
+    store_names = get_store_names()
 
-    return [get_store(sn, shopping_list) for sn in get_store_names()]
+    return [get_store(sn, shopping_list) for sn in store_names]

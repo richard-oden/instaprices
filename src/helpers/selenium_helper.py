@@ -1,6 +1,8 @@
 import os
 from time import sleep
 from selenium import webdriver
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import StaleElementReferenceException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
@@ -26,7 +28,7 @@ _chrome_options.add_argument("--log-level=3")
 
 # create WebDriver
 driver = webdriver.Chrome(service=_service, chrome_options=_chrome_options)
-_wait = WebDriverWait(driver, 5)
+_wait = WebDriverWait(driver, 5, ignored_exceptions=(NoSuchElementException,StaleElementReferenceException))
     
 
 def try_find_visible_element(by, value):
@@ -122,10 +124,10 @@ def get_retailer_cards():
     '''
     Gets WebElements representing each store that is listed in the stores page.
     '''
-    return try_find_elements_until(
+    return filter(lambda e: e.text != '', try_find_elements_until(
         lambda: try_find_elements_with_fallbacks(By.CSS_SELECTOR, 'button[class*="RetailerCard"]', 'span[class*="StoreCompactCard"]'),
         lambda elements: elements is not None and len(elements) > 0
-    )
+    ))
 
 def search_items(search_term):
     '''
