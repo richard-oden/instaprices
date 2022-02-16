@@ -1,5 +1,6 @@
 import os
 from helpers import instaprices_helper
+from helpers import io_helper
 
 from models.MenuOption import MenuOption
 
@@ -48,7 +49,8 @@ def print_menu(prompt, menu_options):
     print(bordered('\n'.join([prompt, *[f'  [{menu_options.index(mu)}] {mu.desc}' for mu in menu_options]])))
     choice = input_loop(
         'Enter the number for your selection or "Q" to quit: ', 
-        lambda user_input: valid_menu_choice(user_input, menu_options)
+        lambda user_input: valid_menu_choice(user_input, menu_options) and 
+            (menu_options[int(user_input)].validator_fn is None or menu_options[int(user_input)].validate())
     )
 
     if choice == 'q':
@@ -57,17 +59,20 @@ def print_menu(prompt, menu_options):
     clear()
     return menu_options[int(choice)].execute()
 
-def print_main_menu():
-    return print_menu(
-        'Enter shopping list manually or import from CSV?',
+def shopping_list_menu():
+    return print_menu('Enter shopping list manually or import from CSV?',
         [
-            MenuOption('Enter manually', lambda: instaprices_helper.get_stores(input_shopping_list())),
-            MenuOption('Import from CSV', lambda: print('CSV import goes here')),
-        ]
-    )
+            MenuOption('Enter manually', input_shopping_list),
+            MenuOption('Import from CSV', import_menu),
+        ])
+
+def import_menu():
+    return print_menu('Select the file to import from the import directory.', 
+        [MenuOption(f, lambda: import_shopping_list(f), lambda: valid_shopping_list(io_helper.import_file(f))) 
+            for f in io_helper.get_import_files()])
 
 def valid_shopping_list(user_input):
-    list_tuple = try_list(user_input)
+    list_tuple = try_list(user_input.replace('\n', ''))
     return list_tuple[1] and len(list_tuple[0]) > 0
 
 def input_shopping_list():
@@ -76,3 +81,7 @@ def input_shopping_list():
         valid_shopping_list,
         lambda user_input: [s.strip() for s in user_input.split(',')]
     )
+
+def import_shopping_list(file_name):
+    return [s.strip() for s in io_helper.import_file(file_name).split(',')]
+    
