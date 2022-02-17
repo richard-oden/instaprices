@@ -3,10 +3,4 @@ class MenuOption:
         self.desc = desc
         self.fn = fn
         self.validator_fn = validator_fn
-
-    def execute(self):
-        return self.fn()
-
-    def validate(self):
-        return self.validator_fn()
     

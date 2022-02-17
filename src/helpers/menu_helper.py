@@ -1,3 +1,4 @@
+from ast import parse
 import os
 from helpers import instaprices_helper
 from helpers import io_helper
@@ -13,9 +14,12 @@ def try_int(string):
     except ValueError:
         return None, False
 
+def parse_list(string):
+    return [s.strip() for s in string.split(',') if s.strip()]
+
 def try_list(string):
     try:
-        return [s.strip() for s in string.split(',')], True
+        return parse_list(string), True
     except:
         return None, False
 
@@ -43,33 +47,37 @@ def input_loop(prompt, validator_fn, transform_fn = None):
 
 def valid_menu_choice(user_input, menu_options):
     int_tuple = try_int(user_input)
-    return user_input == 'q' or (int_tuple[1] and -1 < int_tuple[0] < len(menu_options))
+    return (user_input == 'q' or 
+        int_tuple[1] and -1 < int_tuple[0] < len(menu_options) and 
+        (menu_options[int(user_input)].validator_fn is None or menu_options[int(user_input)].validator_fn()))
 
 def print_menu(prompt, menu_options):
     print(bordered('\n'.join([prompt, *[f'  [{menu_options.index(mu)}] {mu.desc}' for mu in menu_options]])))
     choice = input_loop(
         'Enter the number for your selection or "Q" to quit: ', 
-        lambda user_input: valid_menu_choice(user_input, menu_options) and 
-            (menu_options[int(user_input)].validator_fn is None or menu_options[int(user_input)].validate())
+        lambda user_input: valid_menu_choice(user_input, menu_options)
     )
 
     if choice == 'q':
         return
     
     clear()
-    return menu_options[int(choice)].execute()
+    return menu_options[int(choice)].fn()
 
 def shopping_list_menu():
     return print_menu('Enter shopping list manually or import from CSV?',
         [
             MenuOption('Enter manually', input_shopping_list),
-            MenuOption('Import from CSV', import_menu),
+            MenuOption('Import from text file', import_menu),
         ])
 
 def import_menu():
+    menu_options = list(map(
+        lambda f: MenuOption(f, lambda: import_shopping_list(f), lambda: valid_shopping_list(io_helper.import_file(f))), 
+        io_helper.get_import_files()))
+
     return print_menu('Select the file to import from the import directory.', 
-        [MenuOption(f, lambda: import_shopping_list(f), lambda: valid_shopping_list(io_helper.import_file(f))) 
-            for f in io_helper.get_import_files()])
+        menu_options)
 
 def valid_shopping_list(user_input):
     list_tuple = try_list(user_input.replace('\n', ''))
@@ -79,9 +87,9 @@ def input_shopping_list():
     return input_loop(
         'Enter a comma-separated shopping list (e.g., "peanut butter, eggs, organic bananas, potatoes"), or "Q" to quit.\n',
         valid_shopping_list,
-        lambda user_input: [s.strip() for s in user_input.split(',')]
+        parse_list
     )
 
 def import_shopping_list(file_name):
-    return [s.strip() for s in io_helper.import_file(file_name).split(',')]
+    return parse_list(io_helper.import_file(file_name))
     

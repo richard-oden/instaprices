@@ -98,7 +98,7 @@ def get_count(count_node):
     if (count_match is None):
         return
 
-    return int(count_match.group(1))
+    return float(count_match.group(1))
 
 def get_item(item_text, search_term_variations):
     text_nodes = list(map(lambda _: _.strip(), item_text.split('\n')))
