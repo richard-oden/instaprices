@@ -1,7 +1,8 @@
-from ast import parse
 import os
-from helpers import instaprices_helper
 from helpers import io_helper
+from models.AnalysisOptions import AnalysisOptions
+from models.AnalysisOptions import PriceAggregate
+from models.AnalysisOptions import PriceType
 
 from models.MenuOption import MenuOption
 
@@ -93,3 +94,34 @@ def input_shopping_list():
 def import_shopping_list(file_name):
     return parse_list(io_helper.import_file(file_name))
     
+def analysis_menu():
+    price_type = print_menu('Compare items by unit price or total price?', 
+        [
+            MenuOption('unit price (per oz)', lambda: PriceType.PER_OZ),
+            MenuOption('unit price (per 100g)', lambda: PriceType.PER_100G),
+            MenuOption('total price', lambda: PriceType.TOTAL)
+        ])
+    
+    if price_type is None:
+        return
+    
+    price_aggregate = print_menu('Compare items by cheapest, mean, or median price?', 
+        [
+            MenuOption('cheapest price', lambda: PriceAggregate.CHEAPEST),
+            MenuOption('mean price', lambda: PriceAggregate.MEAN),
+            MenuOption('median price', lambda: PriceAggregate.MEDIAN)
+        ])
+
+    if price_aggregate is None:
+        return
+    
+    omit_incomplete_stores = print_menu('Omit stores that do not contain all items?', 
+        [
+            MenuOption('yes', lambda: True),
+            MenuOption('no', lambda: False),
+        ])
+
+    if omit_incomplete_stores is None:
+        return
+    
+    return AnalysisOptions(price_type, price_aggregate, omit_incomplete_stores)

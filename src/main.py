@@ -13,6 +13,8 @@ def main():
         return
 
     stores = instaprices_helper.get_stores(shopping_list)
+    analysis_options = menu_helper.analysis_menu()
+    
     print(stores)
 
 if __name__ == '__main__':
