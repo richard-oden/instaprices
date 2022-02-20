@@ -9,7 +9,7 @@ class AnalysisOptions():
 class PriceType(enum.Enum):
     PER_100G = 0
     PER_OZ = 1
-    TOTAL = 2
+    TOTAL = 3
 
 class PriceAggregate(enum.Enum):
     CHEAPEST = 0
