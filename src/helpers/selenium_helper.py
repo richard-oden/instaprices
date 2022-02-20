@@ -2,6 +2,7 @@ import os
 from colorama import Fore
 from time import sleep
 from selenium import webdriver
+from selenium.common.exceptions import WebDriverException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.webdriver.common.by import By
@@ -38,7 +39,7 @@ def try_find_visible_element(by, value):
     '''
     try:
         return _wait.until(EC.visibility_of_element_located((by, value)))
-    except:
+    except WebDriverException:
         return
 
 def try_find_visible_elements(by, value):
@@ -47,7 +48,7 @@ def try_find_visible_elements(by, value):
     '''
     try:
         return _wait.until(EC.visibility_of_all_elements_located((by, value)))
-    except:
+    except WebDriverException:
         return
 
 def try_find_elements(by, value):
@@ -56,7 +57,7 @@ def try_find_elements(by, value):
     '''
     try:
         return driver.find_elements(by, value)
-    except:
+    except WebDriverException:
         return
 
 def try_find_elements_with_fallbacks(by, *values):
@@ -76,7 +77,7 @@ def try_find_element_then_click(by, value):
     try:
         _wait.until(EC.element_to_be_clickable((by, value))).click()
         return True
-    except:
+    except WebDriverException:
         return False
 
 def try_find_elements_until(find_elements_fn, until_condition_fn, attempt_limit = 5, second_delay = 1):
