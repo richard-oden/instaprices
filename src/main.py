@@ -17,7 +17,5 @@ def main():
     analysis_options = menu_helper.analysis_menu()
     analysis_helper.build_chart(stores, shopping_list, analysis_options)
 
-    print(stores)
-
 if __name__ == '__main__':
     main()

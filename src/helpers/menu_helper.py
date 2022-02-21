@@ -95,7 +95,7 @@ def import_shopping_list(file_name):
     return parse_list(io_helper.import_file(file_name))
     
 def analysis_menu():
-    price_type = print_menu('Compare items by unit price or total price? Not that items which are counted, such as eggs, may be compared by count if a unit price is selected.', 
+    price_type = print_menu('Compare items by unit price or total price? Note that items which are counted, such as eggs, may be compared by count if a unit price is selected.', 
         [
             MenuOption('unit price (per oz)', lambda: PriceType.PER_OZ),
             MenuOption('unit price (per 100g)', lambda: PriceType.PER_100G),

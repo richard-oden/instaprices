@@ -13,7 +13,7 @@ def get_store_names():
     '''
     Returns a list of store names listed on Instacart's stores page.
     '''
-    return list(map(lambda rc: rc.text.split('\n')[0], selenium_helper.get_retailer_cards()))
+    return list(set(map(lambda rc: rc.text.split('\n')[0], selenium_helper.get_retailer_cards())))
 
 def get_search_term_variations(search_term):
     '''
@@ -67,6 +67,9 @@ def get_items(search_term):
         )))
 
 def get_total_price(price_nodes):
+    '''
+    Returns the total price of an item. Returns None if the total price could not be found.
+    '''
     total_price_node = next(filter(lambda _: not 'express' in _.lower() and not 'each' in _.lower(), price_nodes), None)
     if total_price_node is None:
         return
@@ -79,6 +82,9 @@ def get_total_price(price_nodes):
     return float(match.group(1))
 
 def get_weight_in_grams(quantity_node):
+    '''
+    Returns the weight of an item in grams. If only a volumetric measurement was found, assumes the density of water. Returns None if a measurement could not be found.
+    '''
     unit_match = re.search(r'\b(lb|oz|fl oz|gal|g|l|ml)\b', quantity_node, re.IGNORECASE)
     if (unit_match is None):
         return
@@ -89,6 +95,8 @@ def get_weight_in_grams(quantity_node):
         return 453.592
 
     quantity = None
+    # Sometimes measurements are listed with a quantity mutliplier. For example, "6 x 12 fl oz". When this happens, 
+    # we multiply the found values to get the total weight/volume.
     multiple_quantity_match = re.search(r'\b([\d.]+) x ([\d.]+)\b', quantity_node, re.IGNORECASE)
     if multiple_quantity_match is not None:    
         quantity = float(multiple_quantity_match.group(1)) * float(multiple_quantity_match.group(2))
@@ -113,6 +121,9 @@ def get_weight_in_grams(quantity_node):
     }[unit]
 
 def get_count(count_node):
+    '''
+    Returns the count of an item. If a count could not be found, returns None.
+    '''
     count_match = re.search(r'\b([\d.]+) (?:ct|ea)\b', count_node, re.IGNORECASE)
     if (count_match is None):
         return
@@ -120,6 +131,9 @@ def get_count(count_node):
     return float(count_match.group(1))
 
 def get_item(item_text, search_term_variations):
+    '''
+    Returns an Item object using the item text. The returned Item may be a WeighedItem or a CountedItem depending on whether or not a weight/volume measurement could be found. If an item name, price, or quantity was not found, returns None.
+    '''
     text_nodes = list(map(lambda _: _.strip(), item_text.split('\n')))
     if len(text_nodes) == 0:
         return
@@ -156,8 +170,11 @@ def get_item(item_text, search_term_variations):
     return
 
 def get_store(store_name, shopping_list):
+    '''
+    Searches an Instacart store for each item in the shopping list and returns a Store object that contains a populated list of items. Navigates the browser back to the stores page upon finishing. If the store could not be found, returns None.
+    '''
     print(f'\nRetrieving data from {store_name}...')
-    retailer_card = next(filter(lambda rc: store_name in rc.text, selenium_helper.get_retailer_cards()), None)
+    retailer_card = next(filter(lambda rc: rc.text.split('\n')[0] == store_name, selenium_helper.get_retailer_cards()), None)
 
     if (retailer_card is None):
         return
@@ -182,7 +199,11 @@ def get_store(store_name, shopping_list):
     return Store(store_name, items)
 
 def get_stores(shopping_list):
+    '''
+    Returns a list of populated Store objects by searching each Instacart store's page for each item on the shopping list.
+    '''
     selenium_helper.navigate_to_stores()
     store_names = get_store_names()
+    print(f'Found the following {len(store_names)} store(s): {store_names}')
 
-    return [get_store(sn, shopping_list) for sn in store_names]
+    return list(filter(lambda s: s is not None, [get_store(sn, shopping_list) for sn in store_names]))

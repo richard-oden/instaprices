@@ -13,7 +13,6 @@ from models.WeighedItem import WeighedItem
 PRICE_TYPES = {
     PriceType.PER_100G: lambda i: i.price_per_100g,
     PriceType.PER_OZ: lambda i: i.price_per_oz,
-    PriceType.PER_COUNT: lambda i: i.price_per_count,
     PriceType.TOTAL: lambda i: i.price_total,
 }
 
@@ -110,8 +109,9 @@ def get_data(stores, shopping_list, analysis_options):
     return data
 
 def render_chart(data, shopping_list):
-    data_frame = pd.DataFrame(data, columns=['Store' *shopping_list])
-    data_frame.plot(x='Store', y='Prices', kind='bar', stacked=True, title='Instaprices Comparison')
+    data_frame = pd.DataFrame(data, columns=['Store', *shopping_list])
+    data_frame.plot(x='Store', kind='bar', stacked=True, title='Instaprices Comparison')
+    plt.show()
 
 def build_chart(stores, shopping_list, analysis_options):
     prep_items(stores, shopping_list)

@@ -80,7 +80,7 @@ def try_find_element_then_click(by, value):
     except WebDriverException:
         return False
 
-def try_find_elements_until(find_elements_fn, until_condition_fn, attempt_limit = 5, second_delay = 1):
+def try_find_elements_until(find_elements_fn, until_condition_fn, attempt_limit = 3, second_delay = 0.5):
     '''
     Attempts to find elements until a condition has been met or the attempt limit has been reached, with a delay between each attempt. If the elements could not be found, returns None.
     '''
