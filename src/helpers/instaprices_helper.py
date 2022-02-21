@@ -5,13 +5,20 @@ from colorama import Fore
 from models.CountedItem import CountedItem
 from models.Store import Store
 from models.WeighedItem import WeighedItem
+from selenium.common.exceptions import WebDriverException
 
 inflect_engine = inflect.engine()
 
 def get_store_names():
+    '''
+    Returns a list of store names listed on Instacart's stores page.
+    '''
     return list(map(lambda rc: rc.text.split('\n')[0], selenium_helper.get_retailer_cards()))
 
 def get_search_term_variations(search_term):
+    '''
+    Returns an array of tuples representing singular/plural variants of each word in the search term.
+    '''
     variations = []
     for word in search_term.split():
         singular = inflect_engine.singular_noun(search_term)
@@ -23,29 +30,41 @@ def get_search_term_variations(search_term):
     return variations
 
 def contains_search_term(text_to_search, search_term_variations):
+    '''
+    Returns true if the text contains at least one variation of each word in the search term as a whole word.
+    '''
     return all(any(re.search(fr'\b{v}\b', text_to_search, re.IGNORECASE) for v in vs) for vs in search_term_variations)
 
-def filter_items(item_texts, search_term_variations):        
+def filter_items(item_texts, search_term_variations):      
+    '''
+    Returns item texts that contain the search term.
+    '''  
     return filter(
         lambda it: contains_search_term(it, search_term_variations), 
         item_texts
     )
 
 def get_item_texts(attempts = 0):
+    '''
+    Returns a list of item texts from an Instacart item search page. If a WebDriverException occurs, reattempts a maximum of 3 times before returning an empty list.
+    '''
     try:
         item_cards = selenium_helper.get_item_cards()
         return [] if item_cards is None else [ic.text for ic in item_cards]
-    except:
+    except WebDriverException:
         return [] if attempts > 3 else get_item_texts(attempts + 1)
 
 def get_items(search_term):
+    '''
+    Searches Instacart and returns a list of Item objects that match the search term.
+    '''
     print(f'  Searching for {search_term}...', end='\r')
     search_term_variations = get_search_term_variations(search_term)
 
-    return list(map(
-            lambda fi: get_item(fi, search_term_variations), 
-            filter_items(get_item_texts(), search_term_variations)
-        ))
+    return list(filter(lambda i: i is not None, # filter out Items that are None
+        map(lambda i: get_item(i, search_term_variations), # create an Item from each item text
+            filter_items(get_item_texts(), search_term_variations) # get item texts that match the search term
+        )))
 
 def get_total_price(price_nodes):
     total_price_node = next(filter(lambda _: not 'express' in _.lower() and not 'each' in _.lower(), price_nodes), None)

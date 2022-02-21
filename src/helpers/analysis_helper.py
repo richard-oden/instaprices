@@ -95,7 +95,7 @@ def get_store_prices(store, shopping_list, analysis_options):
             analysis_options.price_aggregate))
     return prices
 
-def get_data(analysis_options, stores, shopping_list):
+def get_data(stores, shopping_list, analysis_options):
     '''
     Returns data for creating a dataframe in pandas, formatted as a 2d list.
     '''
@@ -112,3 +112,8 @@ def get_data(analysis_options, stores, shopping_list):
 def render_chart(data, shopping_list):
     data_frame = pd.DataFrame(data, columns=['Store' *shopping_list])
     data_frame.plot(x='Store', y='Prices', kind='bar', stacked=True, title='Instaprices Comparison')
+
+def build_chart(stores, shopping_list, analysis_options):
+    prep_items(stores, shopping_list)
+    data = get_data(stores, shopping_list, analysis_options)
+    render_chart(data, shopping_list)
