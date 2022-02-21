@@ -4,6 +4,7 @@ import inspect
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 from models.AnalysisOptions import PriceType
 from models.AnalysisOptions import PriceAggregate
 from models.CountedItem import CountedItem
@@ -96,17 +97,18 @@ def get_store_prices(store, shopping_list, analysis_options):
 
 def get_data(analysis_options, stores, shopping_list):
     '''
-    Returns data for creating a stacked bar chart in matplotlib, formatted as a tuple (labels, bars, legend).
+    Returns data for creating a dataframe in pandas, formatted as a 2d list.
     '''
-    labels = [] # x-axis labels for each bar
-    bars = [] # a 2d list of values to represent stacked bars
-
+    data = []
     for store in stores:
         # if we are omitting incomplete stores, skip over stores where there are no items for an item name:
         if (analysis_options.omit_incomplete_stores and 
             any(none_or_empty(items) for items in iter(store.items.values()))):
             continue
 
-        bars.append(get_store_prices(store, shopping_list, analysis_options))
-        labels.append(store.name)
-    return labels, bars, shopping_list
+        data.append([store.name, *get_store_prices(store, shopping_list, analysis_options)])
+    return data
+
+def render_chart(data, shopping_list):
+    data_frame = pd.DataFrame(data, columns=['Store' *shopping_list])
+    data_frame.plot(x='Store', y='Prices', kind='bar', stacked=True, title='Instaprices Comparison')
