@@ -1,9 +1,6 @@
 from statistics import mean
 from statistics import median
-import inspect
-import matplotlib as mpl
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 from models.AnalysisOptions import PriceType
 from models.AnalysisOptions import PriceAggregate
@@ -39,7 +36,7 @@ def get_predominant_item_type(stores, item_name):
     Returns the predominant type for items from all stores that match an item name.
     '''
     all_items = get_all_items(stores, item_name)
-    percent_weighed = sum(isinstance(i, WeighedItem) for i in all_items) / len(all_items)
+    percent_weighed = sum(type(i) is WeighedItem for i in all_items) / len(all_items)
     return WeighedItem if percent_weighed >= 0.5 else CountedItem
 
 def prep_items(stores, shopping_list):
@@ -58,8 +55,8 @@ def get_item_price(item, price_type):
     '''
     Returns the item price specified by price_type. If the item is a CountedItem and the price type is a unit price, returns the item's price per count.
     '''
-    if (isinstance(item, CountedItem) 
-        and price_type == PriceType.PER_100G or price_type == PriceType.PER_OZ):
+    if (type(item) is CountedItem and
+        (price_type == PriceType.PER_100G or price_type == PriceType.PER_OZ)):
         return item.price_per_count
 
     return {
@@ -106,11 +103,15 @@ def get_data(stores, shopping_list, analysis_options):
             continue
 
         data.append([store.name, *get_store_prices(store, shopping_list, analysis_options)])
+
+    # sort data by price, low to high
+    data.sort(key=lambda d: sum([d[1], d[-1]]))
+
     return data
 
 def render_chart(data, shopping_list):
     data_frame = pd.DataFrame(data, columns=['Store', *shopping_list])
-    data_frame.plot(x='Store', kind='bar', stacked=True, title='Instaprices Comparison')
+    data_frame.plot.bar(x='Store', stacked=True, title='Instaprices Comparison')
     plt.show()
 
 def build_chart(stores, shopping_list, analysis_options):

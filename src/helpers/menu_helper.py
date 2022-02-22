@@ -75,7 +75,7 @@ def shopping_list_menu():
 def import_menu():
     menu_options = list(map(
         lambda f: MenuOption(f, lambda: import_shopping_list(f), lambda: valid_shopping_list(io_helper.import_file(f))), 
-        io_helper.get_import_files()))
+        io_helper.get_import_txt_files()))
 
     return print_menu('Select the file to import from the import directory.', 
         menu_options)

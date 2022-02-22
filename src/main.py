@@ -1,7 +1,4 @@
-from models.MenuOption import MenuOption
-from models.Store import Store
 import helpers.instaprices_helper as instaprices_helper
-import helpers.selenium_helper as selenium_helper
 import helpers.menu_helper as menu_helper
 import helpers.analysis_helper as analysis_helper
 
