@@ -13,19 +13,27 @@ def get_import_json_files():
 def import_file(file_name):
     try:
         with open(f'import/{file_name}', 'r') as file:
-            contents = file.read()
-            file.close()
-        
-        return contents
+            return file.read()
     except:
         return
 
+def export_file(file_name, contents):
+    try:
+        with open(f'export/{file_name}', 'w') as file:
+            file.write(contents)
+        return True
+    except:
+        return False
+
 def parse_item(item_dict):
     if 'price_per_count' in item_dict:
-        return CountedItem(item_dict['name'], item_dict['price_total'], item_dict['count'])
+        return CountedItem(item_dict['name'], float(item_dict['price_total']), float(item_dict['count']))
 
-    return WeighedItem(item_dict['name'], item_dict['price_total'], item_dict['weight_g'])
+    return WeighedItem(item_dict['name'], float(item_dict['price_total']), float(item_dict['weight_g']))
 
-def parse_stores(json_string):
+def deserialize_stores(json_string):
     store_dicts = json.loads(json_string)
-    stores = [Store(s['name'], [parse_item(i) for i in s['items']]) for s in store_dicts]
+    return [Store(s['name'], [parse_item(i) for i in s['items']]) for s in store_dicts]
+
+def serialize_stores(stores):
+    return json.dumps(stores, default=lambda o: o.__dict__, indent=4)
