@@ -1,8 +1,6 @@
 import os
-from helpers import io_helper
-from models.AnalysisOptions import AnalysisOptions
-from models.AnalysisOptions import PriceAggregate
-from models.AnalysisOptions import PriceType
+from helpers import instaprices_helper, io_helper
+from models.AnalysisOptions import AnalysisOptions, PriceAggregate, PriceType
 
 from models.MenuOption import MenuOption
 
@@ -66,9 +64,12 @@ def print_menu(prompt, menu_options):
     return menu_options[int(choice)].fn()
 
 def main_menu():
+    '''
+    The main menu for Instaprices. Returns a tuple containing the shopping list and a list of Store objects either by scraping data via Selenium or importing from a JSON file.
+    '''
     return print_menu('Scrape data using Selenium or import data from JSON?',
         [
-            MenuOption('Use Selenium', import_shopping_list_menu),
+            MenuOption('Use Selenium', get_shopping_list_and_stores),
             MenuOption('Import from JSON file', import_stores_menu)
         ])
 
@@ -101,16 +102,24 @@ def input_shopping_list():
 def import_shopping_list(file_name):
     return parse_list(io_helper.import_file(file_name))
 
+def get_shopping_list_and_stores():
+    shopping_list = shopping_list_menu()
+    stores = instaprices_helper.get_stores(shopping_list)
+    return shopping_list, stores
+
 def import_stores_menu():
     menu_options = list(map(
-        lambda f: MenuOption(f, lambda: import_stores(f)), 
+        lambda f: MenuOption(f, lambda: import_shopping_list_and_stores(f)), 
         io_helper.get_import_json_files()))
 
     return print_menu('Select the file to import from the import directory.', 
         menu_options)
 
-def import_stores(file_name):
-    return io_helper.deserialize_stores(io_helper.import_file(file_name))
+def import_shopping_list_and_stores(file_name):
+    stores = io_helper.deserialize_stores(io_helper.import_file(file_name))
+    shopping_list = []
+    [shopping_list.append(i) for i in [s.items.keys() for s in stores] if i not in shopping_list]
+    return shopping_list, stores
     
 def analysis_menu():
     price_type = print_menu('Compare items by unit price or total price? Note that items which are counted, such as eggs, may be compared by count if a unit price is selected.', 

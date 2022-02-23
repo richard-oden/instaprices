@@ -4,13 +4,12 @@ import helpers.analysis_helper as analysis_helper
 
 def main():
     menu_helper.clear()
-    shopping_list = menu_helper.shopping_list_menu()
-
-    if shopping_list is None:
+    
+    shopping_list, stores = menu_helper.main_menu()
+    if shopping_list is None or stores is None:
         print('Goodbye!')
         return
 
-    stores = instaprices_helper.get_stores(shopping_list)
     analysis_options = menu_helper.analysis_menu()
     analysis_helper.build_chart(stores, shopping_list, analysis_options)
 
