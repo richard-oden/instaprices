@@ -65,14 +65,21 @@ def print_menu(prompt, menu_options):
     clear()
     return menu_options[int(choice)].fn()
 
-def shopping_list_menu():
-    return print_menu('Enter shopping list manually or import from CSV?',
+def main_menu():
+    return print_menu('Scrape data using Selenium or import data from JSON?',
         [
-            MenuOption('Enter manually', input_shopping_list),
-            MenuOption('Import from text file', import_menu),
+            MenuOption('Use Selenium', import_shopping_list_menu),
+            MenuOption('Import from JSON file', import_stores_menu)
         ])
 
-def import_menu():
+def shopping_list_menu():
+    return print_menu('Enter shopping list manually or import from text file?',
+        [
+            MenuOption('Enter manually', input_shopping_list),
+            MenuOption('Import from text file', import_shopping_list_menu),
+        ])
+
+def import_shopping_list_menu():
     menu_options = list(map(
         lambda f: MenuOption(f, lambda: import_shopping_list(f), lambda: valid_shopping_list(io_helper.import_file(f))), 
         io_helper.get_import_txt_files()))
@@ -93,6 +100,17 @@ def input_shopping_list():
 
 def import_shopping_list(file_name):
     return parse_list(io_helper.import_file(file_name))
+
+def import_stores_menu():
+    menu_options = list(map(
+        lambda f: MenuOption(f, lambda: import_stores(f)), 
+        io_helper.get_import_json_files()))
+
+    return print_menu('Select the file to import from the import directory.', 
+        menu_options)
+
+def import_stores(file_name):
+    return io_helper.deserialize_stores(io_helper.import_file(file_name))
     
 def analysis_menu():
     price_type = print_menu('Compare items by unit price or total price? Note that items which are counted, such as eggs, may be compared by count if a unit price is selected.', 
