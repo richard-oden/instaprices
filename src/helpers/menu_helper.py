@@ -1,4 +1,5 @@
 import os
+import re
 from helpers import instaprices_helper, io_helper
 from models.AnalysisOptions import AnalysisOptions, PriceAggregate, PriceType
 
@@ -120,6 +121,25 @@ def import_shopping_list_and_stores(file_name):
     shopping_list = []
     [shopping_list.append(i) for i in [s.items.keys() for s in stores] if i not in shopping_list]
     return shopping_list, stores
+
+def export_stores_menu(stores):
+    return print_menu('Export stores before proceding to analysis?', 
+        [
+            MenuOption('Yes', lambda: export_stores(stores)),
+            MenuOption('No', lambda: None)
+        ])
+
+def export_stores(stores):
+    file_name = input_loop('Enter a file name: ', 
+        lambda user_input: not re.match('[\/\\?%*:|"<>]', user_input),
+        lambda user_input: user_input + '.json')
+    stores_json = io_helper.serialize_stores(stores)
+
+    if io_helper.export_file(file_name, stores_json):
+        print(f'Successfully exported stores to /export/{file_name}.')
+        return
+    
+    print('Failed to export stores.')
     
 def analysis_menu():
     price_type = print_menu('Compare items by unit price or total price? Note that items which are counted, such as eggs, may be compared by count if a unit price is selected.', 
