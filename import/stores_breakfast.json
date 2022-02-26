@@ -1,0 +1,2532 @@
+[
+    {
+        "name": "Big Lots",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Riesa Spaetzle Egg Noodles",
+                    "price_total": 2.79,
+                    "weight_g": 498.9,
+                    "weight_oz": 17.6,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Riesa Paparadelle Wavy Pasta Egg Noodles",
+                    "price_total": 2.79,
+                    "weight_g": 498.9,
+                    "weight_oz": 17.6,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Hormel Real Crumbled Bacon",
+                    "price_total": 15.39,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 2.71,
+                    "price_per_oz": 0.77
+                },
+                {
+                    "name": "Pedigree Chopped Ground Dinner Beef, Bacon & Cheese Flavor Dog Food",
+                    "price_total": 1.99,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Bush's Best Maple & Cured Bacon Baked Beans",
+                    "price_total": 1.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "McCormick\u00ae Imitation Bacon Bits",
+                    "price_total": 2.19,
+                    "weight_g": 124.7,
+                    "weight_oz": 4.4,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Betty Crocker Pasta Salad, Ranch & Bacon",
+                    "price_total": 1.49,
+                    "weight_g": 212.6,
+                    "weight_oz": 7.5,
+                    "price_per_100g": 0.7,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Campbell's\u00ae Chunky\u00ae Baked Potato with Cheddar & Bacon Bits Soup",
+                    "price_total": 2.49,
+                    "weight_g": 533.0,
+                    "weight_oz": 18.8,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Hormel Real Crumbled Bacon",
+                    "price_total": 15.39,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 2.71,
+                    "price_per_oz": 0.77
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Krusteaz Light & Fluffy Buttermilk Complete Pancake Mix",
+                    "price_total": 2.59,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Krusteaz Light & Fluffy Buttermilk Complete Pancake Mix",
+                    "price_total": 2.59,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Hungry Jack Pancake & Waffle Mix, Chocolate Chip",
+                    "price_total": 2.19,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.28,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Hungry Jack Pancake & Waffle Mix, Buttermilk",
+                    "price_total": 4.99,
+                    "weight_g": 2267.9,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.22,
+                    "price_per_oz": 0.06
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "V8 V-Fusion + Energy Orange Pineapple Vegetable & Fruit Juice",
+                    "price_total": 5.09,
+                    "weight_g": 1419.5,
+                    "weight_oz": 50.1,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Dole Mandarin Oranges in 100% Fruit Juice",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                }
+            ],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "Target",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Just Plant-based egg",
+                    "price_total": 4.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Tattooed Chef Egg Roll Bowl, Plant Based",
+                    "price_total": 5.89,
+                    "weight_g": 241.0,
+                    "weight_oz": 8.5,
+                    "price_per_100g": 2.44,
+                    "price_per_oz": 0.69
+                },
+                {
+                    "name": "Simply Balanced Eggs, Fresh, Organic, Cage-Free, Large Brown",
+                    "price_total": 4.19,
+                    "count": 12.0,
+                    "price_per_count": 0.35
+                },
+                {
+                    "name": "Eggland's Best Grade A Large White Eggs",
+                    "price_total": 3.29,
+                    "count": 12.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Eggland's Best Eggs, Extra Large",
+                    "price_total": 5.19,
+                    "count": 18.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "Three Bridges Spinach & Bell Pepper Egg Bites made w/egg white",
+                    "price_total": 4.79,
+                    "weight_g": 130.4,
+                    "weight_oz": 4.6,
+                    "price_per_100g": 3.67,
+                    "price_per_oz": 1.04
+                },
+                {
+                    "name": "Just Plant-based egg",
+                    "price_total": 4.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Eggland's Best Grade A Large White Eggs",
+                    "price_total": 3.29,
+                    "count": 12.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Eggland's Best Eggs, Extra Large",
+                    "price_total": 5.19,
+                    "count": 18.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "Good & Gather Cage-free Hard-cooked Eggs",
+                    "price_total": 1.89,
+                    "count": 2.0,
+                    "price_per_count": 0.94
+                },
+                {
+                    "name": "Cadbury Easter Cr\u00e8me Egg",
+                    "price_total": 1.19,
+                    "weight_g": 34.0,
+                    "weight_oz": 1.2,
+                    "price_per_100g": 3.5,
+                    "price_per_oz": 0.99
+                },
+                {
+                    "name": "Lindt Mini Eggs Pouch Milk Chocolate, Milk Chocolate Eggs with a Crisp Candy Shell",
+                    "price_total": 5.29,
+                    "weight_g": 124.7,
+                    "weight_oz": 4.4,
+                    "price_per_100g": 4.24,
+                    "price_per_oz": 1.2
+                },
+                {
+                    "name": "Tattooed Chef Egg Roll Bowl, Plant Based",
+                    "price_total": 5.89,
+                    "weight_g": 241.0,
+                    "weight_oz": 8.5,
+                    "price_per_100g": 2.44,
+                    "price_per_oz": 0.69
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Oscar Mayer Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.36,
+                    "price_per_oz": 0.67
+                },
+                {
+                    "name": "Oscar Mayer Hearty Thick Cut Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.36,
+                    "price_per_oz": 0.67
+                },
+                {
+                    "name": "Oscar Mayer Naturally Hardwood Smoked Bacon",
+                    "price_total": 11.59,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 1.86,
+                    "price_per_oz": 0.53
+                },
+                {
+                    "name": "Oscar Mayer Center Cut Original Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.14,
+                    "price_per_oz": 0.89
+                },
+                {
+                    "name": "Oscar Mayer Naturally Hardwood Smoked Bacon with 30% Lower Sodium",
+                    "price_total": 10.69,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.36,
+                    "price_per_oz": 0.67
+                },
+                {
+                    "name": "Oscar Mayer Smoked Uncured Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.14,
+                    "price_per_oz": 0.89
+                },
+                {
+                    "name": "Market Pantry Hardwood Smoked Classic Cut Bacon",
+                    "price_total": 5.89,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.3,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Oscar Mayer Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.36,
+                    "price_per_oz": 0.67
+                },
+                {
+                    "name": "Hormel Naturally Hardwood SmokedThick Cut Applewood Bacon",
+                    "price_total": 7.09,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.08,
+                    "price_per_oz": 0.59
+                },
+                {
+                    "name": "Oscar Mayer Center Cut Original Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.14,
+                    "price_per_oz": 0.89
+                },
+                {
+                    "name": "Oscar Mayer Hearty Thick Cut Bacon",
+                    "price_total": 10.69,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.36,
+                    "price_per_oz": 0.67
+                },
+                {
+                    "name": "Good & Gather No Sugar Thick Cut Uncured Bacon",
+                    "price_total": 6.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.91,
+                    "price_per_oz": 0.54
+                },
+                {
+                    "name": "Oscar Mayer Naturally Hardwood Smoked Bacon",
+                    "price_total": 11.59,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 1.86,
+                    "price_per_oz": 0.53
+                },
+                {
+                    "name": "Hormel Naturally Hardwood SmokedThick Cut Applewood Bacon",
+                    "price_total": 7.09,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.08,
+                    "price_per_oz": 0.59
+                },
+                {
+                    "name": "Hormel Real Bacon Bits",
+                    "price_total": 6.79,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.99,
+                    "price_per_oz": 1.13
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Market Pantry Buttermilk Complete Pancake & Waffle Mix",
+                    "price_total": 2.19,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.24,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Market Pantry Original Complete Pancake & Waffle Mix",
+                    "price_total": 2.19,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.24,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Pearl Milling Company Original Pancake & Waffle Mix",
+                    "price_total": 3.29,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Pearl Milling Company Pancake & Waffle Mix, Buttermilk",
+                    "price_total": 3.29,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Bisquick Pancake & Baking Mix, Original",
+                    "price_total": 4.19,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Birch Benders Pancake & Waffle Mix, Organic Classic",
+                    "price_total": 5.89,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.3,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Simple Mills Pancake & Waffle Almond Flour Baking Mix",
+                    "price_total": 9.49,
+                    "weight_g": 303.3,
+                    "weight_oz": 10.7,
+                    "price_per_100g": 3.13,
+                    "price_per_oz": 0.89
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Tropicana No Pulp 100% Orange Juice",
+                    "price_total": 4.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Uncle Matt's Organic Pulp Free Orange Juice",
+                    "price_total": 7.89,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Simply Orange Juice With Calcium",
+                    "price_total": 7.59,
+                    "weight_g": 2632.0,
+                    "weight_oz": 92.8,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Simply Orange Medium Pulp Orange Juice With Calcium And Vitamin D",
+                    "price_total": 4.79,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Simply Orange Pulp Free Orange Juice",
+                    "price_total": 7.59,
+                    "weight_g": 2632.0,
+                    "weight_oz": 92.8,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Tropicana No Pulp 100% Orange Juice",
+                    "price_total": 4.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Simply Orange Juice With Calcium",
+                    "price_total": 4.79,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Tropicana Orange Juice, Calcium + Vitamin D, No Pulp",
+                    "price_total": 4.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Simply Orange Juice With Calcium",
+                    "price_total": 7.59,
+                    "weight_g": 2632.0,
+                    "weight_oz": 92.8,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Tropicana Some Pulp 100% Orange Juice",
+                    "price_total": 4.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Uncle Matt's Organic Pulp Free Orange Juice",
+                    "price_total": 7.89,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Simply Orange High Pulp Orange Juice",
+                    "price_total": 4.79,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Tropicana No Pulp Orange Juice Beverage",
+                    "price_total": 4.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                }
+            ],
+            "whole bean coffee": [
+                {
+                    "name": "Death Wish Coffee Co Coffee, Whole Bean, Dark Roast",
+                    "price_total": 23.59,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 5.2,
+                    "price_per_oz": 1.47
+                },
+                {
+                    "name": "Caribou Coffee Blend Medium Roast Whole Bean, Bag",
+                    "price_total": 9.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.85,
+                    "price_per_oz": 0.81
+                },
+                {
+                    "name": "Peet's Coffee Blend Dark Roast Whole Bean Coffee",
+                    "price_total": 12.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.82,
+                    "price_per_oz": 1.08
+                },
+                {
+                    "name": "Caribou Coffee Daybreak, Light Roast Whole Bean Coffee, Bag",
+                    "price_total": 9.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.85,
+                    "price_per_oz": 0.81
+                },
+                {
+                    "name": "Good & Gather Signature Medium Roast Tierra Del Sol Organic Arabica Whole Bean Coffee",
+                    "price_total": 8.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.58,
+                    "price_per_oz": 0.73
+                }
+            ]
+        }
+    },
+    {
+        "name": "ALDI",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Goldhen Grade A Large Eggs",
+                    "price_total": 1.09,
+                    "count": 12.0,
+                    "price_per_count": 0.09
+                },
+                {
+                    "name": "Goldhen Cage Free Large Grade A Brown Eggs",
+                    "price_total": 2.49,
+                    "count": 12.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "Simply Nature Organic Cage Free Brown Eggs",
+                    "price_total": 3.19,
+                    "count": 12.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Golden Hen Free Range Brown Eggs",
+                    "price_total": 2.65,
+                    "count": 12.0,
+                    "price_per_count": 0.22
+                },
+                {
+                    "name": "Golden Star Pasture Raised Large Brown Eggs - Grade A",
+                    "price_total": 4.39,
+                    "count": 12.0,
+                    "price_per_count": 0.37
+                },
+                {
+                    "name": "Goldhen Liquid Egg Whites",
+                    "price_total": 3.49,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Goldhen Liquid Egg Product",
+                    "price_total": 3.49,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Reggano Wide Egg Noodles",
+                    "price_total": 1.25,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.28,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Breakfast Best Egg, Sausage, Cheese & Potato Breakfast Burritos",
+                    "price_total": 6.99,
+                    "weight_g": 1020.6,
+                    "weight_oz": 36.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Breakfast Best Egg, Bacon, Cheese & Potato Breakfast Burritos",
+                    "price_total": 6.99,
+                    "weight_g": 1020.6,
+                    "weight_oz": 36.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Breakfast Best Bacon Egg Cheese Breakfast Meatballs",
+                    "price_total": 5.99,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Millville Buttermilk Pancake Mix",
+                    "price_total": 1.85,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.2,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Millville Protein Pancake Mix",
+                    "price_total": 3.49,
+                    "weight_g": 524.5,
+                    "weight_oz": 18.5,
+                    "price_per_100g": 0.67,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Millville Protein Oat Pancake Mix",
+                    "price_total": 3.49,
+                    "weight_g": 524.5,
+                    "weight_oz": 18.5,
+                    "price_per_100g": 0.67,
+                    "price_per_oz": 0.19
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Nature's Nectar Premium Orange Juice Not From Concentrate No Pulp",
+                    "price_total": 2.95,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Nature's Nectar Not From Concentrate Orange Juice",
+                    "price_total": 2.39,
+                    "weight_g": 1744.8,
+                    "weight_oz": 61.5,
+                    "price_per_100g": 0.14,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Nature's Nectar Premium Orange Juice Not From Concentrate with Calcium and Vitamin D",
+                    "price_total": 2.95,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Nature's Nectar Orange Juice Gallon from Concentrate",
+                    "price_total": 4.09,
+                    "weight_g": 3785.3,
+                    "weight_oz": 133.5,
+                    "price_per_100g": 0.11,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Nature's Nectar 100% Pure Squeezed Orange Juice Not From Concentrate with Pulp",
+                    "price_total": 2.95,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Fit & Active 50 Calorie Orange Juice No Pulp",
+                    "price_total": 2.75,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.18,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Simply Nature NFC Organic Orange Juice",
+                    "price_total": 4.09,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Nature's Nectar Frozen Orange Juice Concentrate",
+                    "price_total": 1.35,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.4,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Nature's Nectar Orange Juice with Mango",
+                    "price_total": 3.29,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                }
+            ],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "Total Wine & More",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Evan Williams Egg Nog",
+                    "price_total": 9.49,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 1.27,
+                    "price_per_oz": 0.36
+                }
+            ],
+            "bacon": [],
+            "pancake mix": [],
+            "orange juice": [
+                {
+                    "name": "Langers 100% Juice, Orange",
+                    "price_total": 4.49,
+                    "weight_g": 1814.3,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 0.25,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Ocean Spray 100% Juice, Orange",
+                    "price_total": 1.79,
+                    "weight_g": 430.9,
+                    "weight_oz": 15.2,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                }
+            ],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "The Fresh Market",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Vital Farms Pasture-Raised (Alfresco) Eggs 12",
+                    "price_total": 4.99,
+                    "count": 12.0,
+                    "price_per_count": 0.42
+                },
+                {
+                    "name": "Vital Farms 'Pasture-Raised Organic Eggs",
+                    "price_total": 6.99,
+                    "count": 12.0,
+                    "price_per_count": 0.58
+                },
+                {
+                    "name": "Just Plant-based egg",
+                    "price_total": 4.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.47,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "The Fresh Market Cage Free Brown Eggs",
+                    "price_total": 3.29,
+                    "count": 12.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Vital Farms Pasture-Raised (Alfresco) Eggs 12",
+                    "price_total": 4.99,
+                    "count": 12.0,
+                    "price_per_count": 0.42
+                },
+                {
+                    "name": "Eggland's Best Cage Free Grade A Large Brown Eggs",
+                    "price_total": 3.49,
+                    "count": 12.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "The Fresh Market White Cage Free Eggs",
+                    "price_total": 3.49,
+                    "count": 12.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "The Farmer's Hen Grade A Large Eggs",
+                    "price_total": 6.49,
+                    "count": 18.0,
+                    "price_per_count": 0.36
+                },
+                {
+                    "name": "Vital Farms 'Pasture-Raised Organic Eggs",
+                    "price_total": 6.99,
+                    "count": 12.0,
+                    "price_per_count": 0.58
+                },
+                {
+                    "name": "Pete & Gerry's Eggs, Organic, Free Range, Large",
+                    "price_total": 4.99,
+                    "count": 12.0,
+                    "price_per_count": 0.42
+                },
+                {
+                    "name": "Eggland's Best Cage Free Grade A Large Brown Eggs",
+                    "price_total": 3.49,
+                    "count": 12.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "Bob's Red Mill Egg Replacer, Gluten Free",
+                    "price_total": 4.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.47,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Vital Farms Vital Farms Pasture-Raised (Alfresco) Eggs 18",
+                    "price_total": 7.99,
+                    "count": 18.0,
+                    "price_per_count": 0.44
+                },
+                {
+                    "name": "Nellies Eggs, Brown, Free Range, Large",
+                    "price_total": 3.29,
+                    "count": 6.0,
+                    "price_per_count": 0.55
+                },
+                {
+                    "name": "The Fresh Market Cage-Free Grade A Extra Large Brown Eggs",
+                    "price_total": 3.69,
+                    "count": 12.0,
+                    "price_per_count": 0.31
+                },
+                {
+                    "name": "The Fresh Market Large Brown Free Range Eggs",
+                    "price_total": 3.99,
+                    "count": 12.0,
+                    "price_per_count": 0.33
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "The Fresh Market Sugar Free Turkey Bacon",
+                    "price_total": 5.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.64,
+                    "price_per_oz": 0.75
+                },
+                {
+                    "name": "Epic Bacon Bits and Pork, Hickory Smoked, Uncured",
+                    "price_total": 6.99,
+                    "weight_g": 85.0,
+                    "weight_oz": 3.0,
+                    "price_per_100g": 8.22,
+                    "price_per_oz": 2.33
+                },
+                {
+                    "name": "The Fresh Market Carving Ham With Maple Bacon Glaze",
+                    "price_total": 12.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.86,
+                    "price_per_oz": 0.81
+                },
+                {
+                    "name": "Stonewall Kitchen Jam, Maple Bacon Onion",
+                    "price_total": 7.99,
+                    "weight_g": 333.1,
+                    "weight_oz": 11.8,
+                    "price_per_100g": 2.4,
+                    "price_per_oz": 0.68
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Bob's Red Mill Homestyle Pancake Mix",
+                    "price_total": 4.99,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "The Fresh Market Buttermilk Protein Pancake & Waffle Mix",
+                    "price_total": 3.97,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "The Fresh Market Wild Blueberry Pancake & Waffle Mix",
+                    "price_total": 4.97,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Birch Benders Pancake & Waffle Mix, Organic Classic",
+                    "price_total": 4.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Stonewall Kitchen Pancake & Waffle Mix, Farmhouse",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Bisquick Pancake & Baking Mix, Original",
+                    "price_total": 3.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Stonewall Kitchen Pancake & Waffle Mix, Buttermilk",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "King Arthur Baking Company Gluten Free Pancake Mix",
+                    "price_total": 4.49,
+                    "weight_g": 425.2,
+                    "weight_oz": 15.0,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Uncle Matt's Organic Pulp Free Orange Juice",
+                    "price_total": 6.99,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.45,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Uncle Matt's Organic Orange Juice with Pulp",
+                    "price_total": 6.99,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.45,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Simply Orange Pulp-Free 100% Orange Juice",
+                    "price_total": 4.49,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "The Fresh Market Conventional Signature Collection Fresh Squeezed Orange Juice",
+                    "price_total": 8.49,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.45,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "The Fresh Market Organic 100% Fresh Squeezed Orange Juice",
+                    "price_total": 10.49,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Simply Orange Juice With Calcium",
+                    "price_total": 4.49,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Uncle Matt's Organic Pulp Free Orange Juice",
+                    "price_total": 6.99,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.45,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Indian River Select Juice, Orange, Premium",
+                    "price_total": 4.99,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Uncle Matt's Organic Orange Juice with Pulp",
+                    "price_total": 6.99,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.45,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Simply Orange High Pulp Orange Juice",
+                    "price_total": 4.49,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                }
+            ],
+            "whole bean coffee": [
+                {
+                    "name": "Groundwork Coffee Organic Ethiopia Heirloom Blend, Light Roast, Whole Bean",
+                    "price_total": 11.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Groundwork Coffee Organic Bitches Brew, Whole Bean",
+                    "price_total": 11.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Counter Culture Fast Forward, Whole Bean Coffee",
+                    "price_total": 10.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.23,
+                    "price_per_oz": 0.92
+                },
+                {
+                    "name": "Caribou Coffee Blend Medium Roast Whole Bean, Bag",
+                    "price_total": 12.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.82,
+                    "price_per_oz": 1.08
+                },
+                {
+                    "name": "Peet's Coffee Major Dickason's Blend, Dark Roast Whole Bean Coffee, Bag",
+                    "price_total": 8.99,
+                    "weight_g": 297.7,
+                    "weight_oz": 10.5,
+                    "price_per_100g": 3.02,
+                    "price_per_oz": 0.86
+                },
+                {
+                    "name": "Stumptown Holler Mountain Blend Creamy & Caramel Organic Whole Bean Coffee",
+                    "price_total": 12.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.67,
+                    "price_per_oz": 1.04
+                },
+                {
+                    "name": "Charleston Coffee Roasters Coffee, Organic, Whole Bean, Dark Roast, Kiawah",
+                    "price_total": 12.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.82,
+                    "price_per_oz": 1.08
+                },
+                {
+                    "name": "Intelligentsia Coffee Direct Trade House Blend Medium Roast Whole Bean Coffee",
+                    "price_total": 15.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 4.7,
+                    "price_per_oz": 1.33
+                },
+                {
+                    "name": "Counter Culture Fast Forward, Whole Bean Coffee",
+                    "price_total": 10.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 3.23,
+                    "price_per_oz": 0.92
+                }
+            ]
+        }
+    },
+    {
+        "name": "Save A Lot",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Good Nature 12ct Grade A Large Eggs",
+                    "price_total": 2.55,
+                    "count": 12.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "Good Nature 18ct Grade A Large Eggs",
+                    "price_total": 3.85,
+                    "count": 18.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "GRADE A MEDIUM EGGS 30 CT",
+                    "price_total": 4.69,
+                    "count": 30.0,
+                    "price_per_count": 0.16
+                },
+                {
+                    "name": "Grade A Large Eggs",
+                    "price_total": 3.85,
+                    "count": 18.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "Good Nature Cage Free Large Eggs",
+                    "price_total": 3.09,
+                    "count": 12.0,
+                    "price_per_count": 0.26
+                },
+                {
+                    "name": "Grade A Large Eggs",
+                    "price_total": 2.55,
+                    "count": 12.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "Grade A Medium Eggs",
+                    "price_total": 4.69,
+                    "count": 30.0,
+                    "price_per_count": 0.16
+                },
+                {
+                    "name": "Jade Dragon Chicken Egg Rolls",
+                    "price_total": 3.29,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.89,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Reese's Peanut Butter Eggs, Milk Chocolate & Peanut Butter, Snack Size",
+                    "price_total": 3.65,
+                    "weight_g": 272.2,
+                    "weight_oz": 9.6,
+                    "price_per_100g": 1.34,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Jade Dragon Pork Egg Rolls",
+                    "price_total": 3.29,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.89,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Reese's Candy, Peanut Butter Egg, Milk Chocolate",
+                    "price_total": 1.09,
+                    "weight_g": 34.0,
+                    "weight_oz": 1.2,
+                    "price_per_100g": 3.2,
+                    "price_per_oz": 0.91
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Farmington Premium Bacon Classic",
+                    "price_total": 4.95,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.46,
+                    "price_per_oz": 0.41
+                },
+                {
+                    "name": "Jamestown Brand Bacon, Hardwood Smoked, Sliced",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Farmington Thick Cut Bacon",
+                    "price_total": 15.39,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 1.36,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Gwaltney Hardwood Smoked Bacon",
+                    "price_total": 4.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.23,
+                    "price_per_oz": 0.35
+                },
+                {
+                    "name": "Farmington Premium Hickory Bacon Classic",
+                    "price_total": 5.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Smithfield Hometown Original Bacon",
+                    "price_total": 4.39,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.29,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Smithfield Bacon",
+                    "price_total": 3.85,
+                    "weight_g": 59.5,
+                    "weight_oz": 2.1,
+                    "price_per_100g": 6.47,
+                    "price_per_oz": 1.83
+                },
+                {
+                    "name": "Butterball Every Day Original Turkey Bacon",
+                    "price_total": 2.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Morning Delight Buttermilk Pancake Mix",
+                    "price_total": 2.75,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Morning Delight Blueberry Pancake Mix",
+                    "price_total": 2.99,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Pearl Milling Company Original Pancake & Waffle Mix",
+                    "price_total": 1.89,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Tipton Grove Orange Juice",
+                    "price_total": 3.95,
+                    "weight_g": 3785.4,
+                    "weight_oz": 133.5,
+                    "price_per_100g": 0.1,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Tipton Grove Orange Juice",
+                    "price_total": 2.75,
+                    "weight_g": 1744.8,
+                    "weight_oz": 61.5,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Tipton Grove Calcium Orange Juice",
+                    "price_total": 2.55,
+                    "weight_g": 1744.8,
+                    "weight_oz": 61.5,
+                    "price_per_100g": 0.15,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Tipton Grove Orange Juice",
+                    "price_total": 3.19,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.17,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "SunnyD Tangy Original Shelf Stable Orange Juice Drink",
+                    "price_total": 1.89,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.1,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Tipton Grove 100% Orange Juice",
+                    "price_total": 2.19,
+                    "weight_g": 354.9,
+                    "weight_oz": 12.5,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Juicy Juice 100% Juice, Orange Tangerine",
+                    "price_total": 4.29,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                }
+            ],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "Bed Bath & Beyond",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Reese's Peanut Butter Eggs, Milk Chocolate & Peanut Butter, King Size, 2 Pack",
+                    "price_total": 2.59,
+                    "weight_g": 68.0,
+                    "weight_oz": 2.4,
+                    "price_per_100g": 3.81,
+                    "price_per_oz": 1.08
+                }
+            ],
+            "bacon": [],
+            "pancake mix": [],
+            "orange juice": [],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "Sam's Club",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Eggland's Best Large White Eggs",
+                    "price_total": 4.76,
+                    "count": 18.0,
+                    "price_per_count": 0.26
+                },
+                {
+                    "name": "Member's Mark Grade A Large Cage Free Brown Eggs",
+                    "price_total": 5.57,
+                    "count": 24.0,
+                    "price_per_count": 0.23
+                },
+                {
+                    "name": "Midwest Egg Farmers Farm Fresh Grade A Large Eggs",
+                    "price_total": 7.0,
+                    "count": 36.0,
+                    "price_per_count": 0.19
+                },
+                {
+                    "name": "Eggland's Best Large White Eggs",
+                    "price_total": 4.76,
+                    "count": 18.0,
+                    "price_per_count": 0.26
+                },
+                {
+                    "name": "Large Eggs Grade A",
+                    "price_total": 17.35,
+                    "count": 90.0,
+                    "price_per_count": 0.19
+                },
+                {
+                    "name": "Member's Mark Organic Free Range Grade A Large Brown Eggs",
+                    "price_total": 9.29,
+                    "count": 24.0,
+                    "price_per_count": 0.39
+                },
+                {
+                    "name": "Vital Farms Vital Farms Pasture-Raised (Alfresco) Eggs 18",
+                    "price_total": 8.58,
+                    "count": 18.0,
+                    "price_per_count": 0.48
+                },
+                {
+                    "name": "Almark Foods Hard-boiled Eggs",
+                    "price_total": 8.94,
+                    "count": 12.0,
+                    "price_per_count": 0.74
+                },
+                {
+                    "name": "Three Bridges Country Style Sausage Egg Bites",
+                    "price_total": 11.93,
+                    "weight_g": 260.8,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 4.57,
+                    "price_per_oz": 1.3
+                },
+                {
+                    "name": "Jimmy Dean Sausage, Egg & Cheese Croissant Sandwiches, Frozen",
+                    "price_total": 15.39,
+                    "weight_g": 1530.8,
+                    "weight_oz": 54.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Reeces Peanut Butter Eggs",
+                    "price_total": 11.93,
+                    "weight_g": 73338.9,
+                    "weight_oz": 2587.0,
+                    "price_per_100g": 0.02,
+                    "price_per_oz": 0.0
+                },
+                {
+                    "name": "Crepini Gluten Free Grains Egg Wraps",
+                    "price_total": 10.73,
+                    "count": 14.0,
+                    "price_per_count": 0.77
+                },
+                {
+                    "name": "MINH Chicken Egg Rolls",
+                    "price_total": 9.89,
+                    "count": 2.0,
+                    "price_per_count": 4.95
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Oscar Mayer Naturally Hardwood Smoked Bacon",
+                    "price_total": 16.41,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Wright Brand Thick Sliced Applewood Smoked Bacon, 4 lb.",
+                    "price_total": 27.45,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.51,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "BLACK LABEL Original Fully Cooked Bacon",
+                    "price_total": 18.49,
+                    "count": 72.0,
+                    "price_per_count": 0.26
+                },
+                {
+                    "name": "Hormel Black Label Fully Cooked Thick Cut Bacon",
+                    "price_total": 21.46,
+                    "count": 36.0,
+                    "price_per_count": 0.6
+                },
+                {
+                    "name": "Member's Mark Hickory Smoked CLASSIC CUT BACON",
+                    "price_total": 16.71,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.23,
+                    "price_per_oz": 0.35
+                },
+                {
+                    "name": "Member's Mark Bacon Classic Cut",
+                    "price_total": 14.87,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.09,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "BLACK LABEL Original Fully Cooked Bacon",
+                    "price_total": 18.49,
+                    "count": 72.0,
+                    "price_per_count": 0.26
+                },
+                {
+                    "name": "BLACK LABEL Natural Hardwood Smoke Thick Cut Bacon",
+                    "price_total": 18.38,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.35,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Wright Brand Thick Sliced Applewood Smoked Bacon, 4 lb.",
+                    "price_total": 27.45,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.51,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Oscar Mayer Naturally Hardwood Smoked Bacon",
+                    "price_total": 16.41,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Hormel Black Label Fully Cooked Thick Cut Bacon",
+                    "price_total": 21.46,
+                    "count": 36.0,
+                    "price_per_count": 0.6
+                },
+                {
+                    "name": "Wright Naturally Smoked Hickory Bacon",
+                    "price_total": 27.45,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.51,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Wright Naturally Smoked Hickory Bacon",
+                    "price_total": 27.45,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.51,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Kiolbassa Hickory Smoked Extra Thick Cut Uncured Bacon",
+                    "price_total": 17.02,
+                    "count": 24.0,
+                    "price_per_count": 0.71
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Member's Mark Buttermilk Pancake Mix",
+                    "price_total": 7.34,
+                    "weight_g": 4535.9,
+                    "weight_oz": 160.0,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Bisquick Pancake & Baking Mix, All Purpose",
+                    "price_total": 6.19,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.23,
+                    "price_per_oz": 0.06
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Tropicana 100% Juice, Orange",
+                    "price_total": 17.06,
+                    "weight_g": 7097.5,
+                    "weight_oz": 250.4,
+                    "price_per_100g": 0.24,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Member's Mark 100% Pulp Free Orange Juice",
+                    "price_total": 6.36,
+                    "weight_g": 3075.6,
+                    "weight_oz": 108.5,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Tropicana 100% Juice, Orange",
+                    "price_total": 17.06,
+                    "weight_g": 7097.5,
+                    "weight_oz": 250.4,
+                    "price_per_100g": 0.24,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Tropicana Pure Premium Original No Pulp Orange Juice",
+                    "price_total": 8.46,
+                    "weight_g": 30282.8,
+                    "weight_oz": 1068.2,
+                    "price_per_100g": 0.03,
+                    "price_per_oz": 0.01
+                },
+                {
+                    "name": "Dole Mandarin Oranges in 100% Fruit Juice",
+                    "price_total": 10.59,
+                    "weight_g": 1814.3,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.17
+                }
+            ],
+            "whole bean coffee": [
+                {
+                    "name": "Daily Chef Whole Bean Colombian Supremo Coffee",
+                    "price_total": 13.91,
+                    "weight_g": 70.9,
+                    "weight_oz": 2.5,
+                    "price_per_100g": 19.63,
+                    "price_per_oz": 5.56
+                },
+                {
+                    "name": "Starbucks House Blend Medium Roast Whole Bean Coffee",
+                    "price_total": 21.49,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 1.9,
+                    "price_per_oz": 0.54
+                }
+            ]
+        }
+    },
+    {
+        "name": "Costco",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Three Bridges Spinach and Bell Pepper Egg Bites, 4 X 4.6 oz",
+                    "price_total": 12.43,
+                    "weight_g": 521.6,
+                    "weight_oz": 18.4,
+                    "price_per_100g": 2.38,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Garden Lites Spinach & Egg Frittatas, 20 ct",
+                    "price_total": 15.79,
+                    "count": 20.0,
+                    "price_per_count": 0.79
+                },
+                {
+                    "name": "Kirkland Signature Organic Grade AA Eggs, 24 ct",
+                    "price_total": 7.45,
+                    "count": 24.0,
+                    "price_per_count": 0.31
+                },
+                {
+                    "name": "Kirkland Signature Cage Free Eggs, 24 ct",
+                    "price_total": 4.22,
+                    "count": 24.0,
+                    "price_per_count": 0.18
+                },
+                {
+                    "name": "Kirkland Signature Cage Free Eggs Grade AA, 60 ct",
+                    "price_total": 10.44,
+                    "count": 60.0,
+                    "price_per_count": 0.17
+                },
+                {
+                    "name": "Three Bridges Spinach and Bell Pepper Egg Bites, 4 X 4.6 oz",
+                    "price_total": 12.43,
+                    "weight_g": 521.6,
+                    "weight_oz": 18.4,
+                    "price_per_100g": 2.38,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Kirkland Signature Cage Free Egg Whites, 6 x 16 oz",
+                    "price_total": 12.18,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.45,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Cuisine Solutions Sous-Vide Egg Bites 21 oz",
+                    "price_total": 14.92,
+                    "weight_g": 595.3,
+                    "weight_oz": 21.0,
+                    "price_per_100g": 2.51,
+                    "price_per_oz": 0.71
+                },
+                {
+                    "name": "Garden Lites Spinach & Egg Frittatas, 20 ct",
+                    "price_total": 15.79,
+                    "count": 20.0,
+                    "price_per_count": 0.79
+                },
+                {
+                    "name": "Hershey's Reeses Eggs, 39.8 oz",
+                    "price_total": 12.43,
+                    "weight_g": 1128.3,
+                    "weight_oz": 39.8,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Coleman Uncured Hickory Smoked Bacon, 3 x 12 oz",
+                    "price_total": 17.03,
+                    "weight_g": 1020.6,
+                    "weight_oz": 36.0,
+                    "price_per_100g": 1.67,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Kirkland Signature Premium Sliced Bacon, 4 x 1 lb",
+                    "price_total": 19.89,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Kirkland Signature Thick Sliced Bacon, 2 x 1.5 lb",
+                    "price_total": 18.65,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.37,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Kirkland Signature Precooked Bacon, 16 oz",
+                    "price_total": 16.16,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 3.56,
+                    "price_per_oz": 1.01
+                },
+                {
+                    "name": "Coleman Uncured Hickory Smoked Bacon, 3 x 12 oz",
+                    "price_total": 17.03,
+                    "weight_g": 1020.6,
+                    "weight_oz": 36.0,
+                    "price_per_100g": 1.67,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Kirkland Signature Bacon Crumbles, 20 oz",
+                    "price_total": 10.93,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 1.93,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Jones Dairy Farm Antibiotic Free Uncured Canadian Bacon, 40 ct",
+                    "price_total": 16.04,
+                    "count": 40.0,
+                    "price_per_count": 0.4
+                },
+                {
+                    "name": "Partini Bacon Wrapped Jalapeno Poppers, 20 ct",
+                    "price_total": 13.55,
+                    "count": 20.0,
+                    "price_per_count": 0.68
+                },
+                {
+                    "name": "Columbus Turkey Bacon, 2.5 lbs",
+                    "price_total": 18.15,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 1.6,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Columbus Turkey Bacon, 2.5 lbs",
+                    "price_total": 18.15,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 1.6,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Realgood Bacon Wrapped Stuffed Chicken, 6 ct",
+                    "price_total": 17.15,
+                    "weight_g": 6123.5,
+                    "weight_oz": 216.0,
+                    "price_per_100g": 0.28,
+                    "price_per_oz": 0.08
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Krusteaz Buttermilk Pancake Mix, 10 lbs",
+                    "price_total": 8.57,
+                    "weight_g": 4535.9,
+                    "weight_oz": 160.0,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Krusteaz Buttermilk Pancake Mix, 10 lbs",
+                    "price_total": 8.57,
+                    "weight_g": 4535.9,
+                    "weight_oz": 160.0,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Birch Benders Keto Pancake Mix, 30 oz",
+                    "price_total": 17.4,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 2.05,
+                    "price_per_oz": 0.58
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Tropicana 100% Orange Juice, 3 x 52 oz",
+                    "price_total": 10.69,
+                    "weight_g": 4422.4,
+                    "weight_oz": 156.0,
+                    "price_per_100g": 0.24,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Kirkland Signature Organic Orange Juice, 2 X 59 fl oz",
+                    "price_total": 11.93,
+                    "weight_g": 3489.6,
+                    "weight_oz": 123.1,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Tropicana 100% Orange Juice, 3 x 52 oz",
+                    "price_total": 10.69,
+                    "weight_g": 4422.4,
+                    "weight_oz": 156.0,
+                    "price_per_100g": 0.24,
+                    "price_per_oz": 0.07
+                }
+            ],
+            "whole bean coffee": [
+                {
+                    "name": "Starbucks French Roast Whole Bean Coffee, 2.5 lbs",
+                    "price_total": 21.16,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 1.87,
+                    "price_per_oz": 0.53
+                },
+                {
+                    "name": "Starbucks French Roast Whole Bean Coffee, 2.5 lbs",
+                    "price_total": 21.16,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 1.87,
+                    "price_per_oz": 0.53
+                }
+            ]
+        }
+    },
+    {
+        "name": "Best Buy",
+        "items": {
+            "eggs": [],
+            "bacon": [],
+            "pancake mix": [],
+            "orange juice": [],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "Family Dollar",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Jimmy Dean Croissant, Sausage, Egg & Cheese",
+                    "price_total": 4.59,
+                    "weight_g": 255.1,
+                    "weight_oz": 9.0,
+                    "price_per_100g": 1.8,
+                    "price_per_oz": 0.51
+                },
+                {
+                    "name": "Sunrise Assorted Jelly Eggs",
+                    "price_total": 1.19,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 0.52,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Jimmy Dean Sausage, Egg & Cheese Biscuit Sandwiches, Frozen",
+                    "price_total": 4.59,
+                    "weight_g": 254.9,
+                    "weight_oz": 9.0,
+                    "price_per_100g": 1.8,
+                    "price_per_oz": 0.51
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Smithfield Hometown Original Bacon",
+                    "price_total": 6.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.39,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Bar-S Naturally Hardwood Smoked Bacon, Hickory Smoked Flavor",
+                    "price_total": 5.39,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.58,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Smithfield Hometown Original Bacon",
+                    "price_total": 6.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.39,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Suddenly Pasta Salad Pasta, Ranch & Bacon",
+                    "price_total": 1.19,
+                    "weight_g": 104.9,
+                    "weight_oz": 3.7,
+                    "price_per_100g": 1.13,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Oscar Mayer Real Bacon Bits",
+                    "price_total": 3.19,
+                    "weight_g": 85.0,
+                    "weight_oz": 3.0,
+                    "price_per_100g": 3.75,
+                    "price_per_oz": 1.06
+                },
+                {
+                    "name": "TGI Fridays Potato Skins Snacks Cheddar & Bacon",
+                    "price_total": 1.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Oscar Mayer Real Bacon Bits",
+                    "price_total": 3.19,
+                    "weight_g": 85.0,
+                    "weight_oz": 3.0,
+                    "price_per_100g": 3.75,
+                    "price_per_oz": 1.06
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Chestnut Hill Buttermilk Pancake and Waffle Complete Mix",
+                    "price_total": 2.59,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Bisquick Pancake & Baking Mix, Original",
+                    "price_total": 4.59,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.4,
+                    "price_per_oz": 0.11
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Welch's Orange Pineapple Apple Juice Cocktail",
+                    "price_total": 3.09,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Simply Orange Pulp Free Orange Juice",
+                    "price_total": 2.19,
+                    "weight_g": 340.1,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Minute Maid Orange Juice Drink",
+                    "price_total": 2.09,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.61,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Simply Orange Pulp Free Orange Juice",
+                    "price_total": 2.19,
+                    "weight_g": 340.1,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                }
+            ],
+            "whole bean coffee": []
+        }
+    },
+    {
+        "name": "Kroger",
+        "items": {
+            "eggs": [
+                {
+                    "name": "Vital Farms Pasture-Raised (Alfresco) Eggs 12",
+                    "price_total": 5.99,
+                    "count": 12.0,
+                    "price_per_count": 0.5
+                },
+                {
+                    "name": "Just Plant-based egg",
+                    "price_total": 4.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.47,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Happy Egg Co Free Range Large Brown Grade A Eggs",
+                    "price_total": 4.49,
+                    "count": 12.0,
+                    "price_per_count": 0.37
+                },
+                {
+                    "name": "Kroger Grade A Large Eggs",
+                    "price_total": 1.89,
+                    "count": 18.0,
+                    "price_per_count": 0.1
+                },
+                {
+                    "name": "Kroger Large Eggs",
+                    "price_total": 1.29,
+                    "count": 12.0,
+                    "price_per_count": 0.11
+                },
+                {
+                    "name": "Simple Truth Large Brown Cage Free Grade A Eggs",
+                    "price_total": 2.79,
+                    "count": 12.0,
+                    "price_per_count": 0.23
+                },
+                {
+                    "name": "Simple Truth Cage Free Grade A Large Brown Eggs",
+                    "price_total": 3.99,
+                    "count": 18.0,
+                    "price_per_count": 0.22
+                },
+                {
+                    "name": "Eggland's Best Large White Eggs",
+                    "price_total": 4.39,
+                    "count": 18.0,
+                    "price_per_count": 0.24
+                },
+                {
+                    "name": "Eggland's Best Grade A Large White Eggs",
+                    "price_total": 3.19,
+                    "count": 12.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Kroger Grade A Medium Eggs",
+                    "price_total": 2.95,
+                    "count": 30.0,
+                    "price_per_count": 0.1
+                },
+                {
+                    "name": "Just Crack An Egg Denver Scramble Breakfast Bowl Kit with Smoked Ham, Cheddar Cheese, Potatoes, Green Peppers & Onions",
+                    "price_total": 2.49,
+                    "weight_g": 85.0,
+                    "weight_oz": 3.0,
+                    "price_per_100g": 2.93,
+                    "price_per_oz": 0.83
+                },
+                {
+                    "name": "Jimmy Dean Frozen Sausage, Egg and Cheese English Muffin Sandwiches",
+                    "price_total": 6.99,
+                    "weight_g": 521.6,
+                    "weight_oz": 18.4,
+                    "price_per_100g": 1.34,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Jimmy Dean Frozen Bacon, Egg and Cheese Biscuit Sandwiches",
+                    "price_total": 6.99,
+                    "weight_g": 408.2,
+                    "weight_oz": 14.4,
+                    "price_per_100g": 1.71,
+                    "price_per_oz": 0.49
+                },
+                {
+                    "name": "Kroger Grade A Extra Large Eggs",
+                    "price_total": 1.49,
+                    "count": 12.0,
+                    "price_per_count": 0.12
+                },
+                {
+                    "name": "Kroger Large Eggs Grade A",
+                    "price_total": 0.99,
+                    "count": 6.0,
+                    "price_per_count": 0.17
+                }
+            ],
+            "bacon": [
+                {
+                    "name": "Oscar Mayer Bacon",
+                    "price_total": 9.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.2,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Oscar Mayer Hearty Thick Cut Bacon",
+                    "price_total": 9.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.2,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Oscar Mayer Naturally Hardwood Smoked Bacon",
+                    "price_total": 11.99,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 1.92,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Oscar Mayer Fully Cooked Bacon",
+                    "price_total": 6.49,
+                    "weight_g": 71.4,
+                    "weight_oz": 2.5,
+                    "price_per_100g": 9.08,
+                    "price_per_oz": 2.58
+                },
+                {
+                    "name": "Oscar Mayer Center Cut Original Bacon",
+                    "price_total": 9.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.94,
+                    "price_per_oz": 0.83
+                },
+                {
+                    "name": "Smithfield Bacon",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Kroger Bacon, Sliced, Hardwood Smoked",
+                    "price_total": 5.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Kroger Thick Cut Sugar Cured Bacon",
+                    "price_total": 5.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Smithfield Bacon",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Private Selection Center Cut Bacon",
+                    "price_total": 5.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Wright Brand Thick Sliced Applewood Smoked Bacon",
+                    "price_total": 11.99,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Smithfield Hometown Original Bacon",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Private Selection Extra Thick Center Cut Bacon",
+                    "price_total": 6.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.91,
+                    "price_per_oz": 0.54
+                },
+                {
+                    "name": "Smithfield Hometown Original Bacon",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Wright Brand Thick Sliced Applewood Smoked Bacon",
+                    "price_total": 11.99,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Oscar Mayer Turkey Bacon",
+                    "price_total": 3.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.17,
+                    "price_per_oz": 0.33
+                }
+            ],
+            "pancake mix": [
+                {
+                    "name": "Bob's Red Mill Buttermilk Pancake & Waffle Mix",
+                    "price_total": 4.99,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Bob's Red Mill Homestyle Pancake Mix",
+                    "price_total": 5.39,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.79,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Bob's Red Mill Pancake Mix, Gluten Free",
+                    "price_total": 4.79,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.7,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Kroger Complete Original Pancake & Waffle Mix",
+                    "price_total": 1.89,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Simple Truth Keto Buttermilk Pancake & Waffle Mix",
+                    "price_total": 5.99,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Simple Truth Keto Chocolate Chip Gluten Free Pancake & Waffle Mix",
+                    "price_total": 5.99,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Hungry Jack Pancake & Waffle Mix, Complete, Buttermilk",
+                    "price_total": 2.89,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Krusteaz Light & Fluffy Buttermilk Complete Pancake Mix",
+                    "price_total": 2.69,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Hungry Jack Pancake & Waffle Mix, Complete, Extra Light & Fluffy",
+                    "price_total": 2.89,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Krusteaz Light & Fluffy Buttermilk Complete Pancake Mix",
+                    "price_total": 2.69,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.08
+                }
+            ],
+            "orange juice": [
+                {
+                    "name": "Tropicana No Pulp 100% Orange Juice",
+                    "price_total": 3.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.25,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Uncle Matt's Organic Pulp Free Orange Juice",
+                    "price_total": 5.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Kroger Original Orange Juice",
+                    "price_total": 3.99,
+                    "weight_g": 3785.4,
+                    "weight_oz": 133.5,
+                    "price_per_100g": 0.11,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Simply Orange 100% Pure Squeezed Pasteurized Pulp Free Orange Juice",
+                    "price_total": 4.19,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Simply Orange Pulp Free Orange Juice",
+                    "price_total": 6.79,
+                    "weight_g": 2632.0,
+                    "weight_oz": 92.8,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Tropicana No Pulp 100% Orange Juice",
+                    "price_total": 3.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.25,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Kroger Original Pulp Free 100% Orange Juice",
+                    "price_total": 2.79,
+                    "weight_g": 1537.8,
+                    "weight_oz": 54.2,
+                    "price_per_100g": 0.18,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Simply Orange Juice With Calcium",
+                    "price_total": 4.19,
+                    "weight_g": 1474.1,
+                    "weight_oz": 52.0,
+                    "price_per_100g": 0.28,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Kroger Orange Juice",
+                    "price_total": 2.29,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.12,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Tropicana Pure Premium Original Orange Juice No Pulp",
+                    "price_total": 5.99,
+                    "weight_g": 2632.0,
+                    "weight_oz": 92.8,
+                    "price_per_100g": 0.23,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Evolution Fresh Organic Pure Orange Cold-Pressed Orange Juice \u2014 Excellent Source of Vitamin C",
+                    "price_total": 8.99,
+                    "weight_g": 1672.6,
+                    "weight_oz": 59.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                }
+            ],
+            "whole bean coffee": [
+                {
+                    "name": "Death Wish Coffee Co Coffee, Whole Bean, Dark Roast",
+                    "price_total": 19.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 4.41,
+                    "price_per_oz": 1.25
+                },
+                {
+                    "name": "Eight O'Clock Coffee The Original Whole Bean Coffee",
+                    "price_total": 12.49,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.84,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Private Selection Medium Roast Kona Blend Arabica Whole Bean Coffee",
+                    "price_total": 6.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.05,
+                    "price_per_oz": 0.58
+                },
+                {
+                    "name": "Peet's Coffee Big Bang, Medium Roast Whole Bean Coffee, Bag",
+                    "price_total": 11.49,
+                    "weight_g": 297.7,
+                    "weight_oz": 10.5,
+                    "price_per_100g": 3.86,
+                    "price_per_oz": 1.09
+                },
+                {
+                    "name": "Eight O'Clock Coffee The Original Whole Bean Coffee",
+                    "price_total": 12.49,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.84,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Peet's Coffee Major Dickason's Blend, Dark Roast Whole Bean Coffee, Bag",
+                    "price_total": 11.49,
+                    "weight_g": 297.7,
+                    "weight_oz": 10.5,
+                    "price_per_100g": 3.86,
+                    "price_per_oz": 1.09
+                },
+                {
+                    "name": "Private Selection Guatemalan Antiguan Medium Roast Whole Bean Coffee",
+                    "price_total": 6.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.05,
+                    "price_per_oz": 0.58
+                },
+                {
+                    "name": "Starbucks Dark Roast Whole Bean Coffee \u2014 Sumatra",
+                    "price_total": 8.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.5,
+                    "price_per_oz": 0.71
+                }
+            ]
+        }
+    }
+]

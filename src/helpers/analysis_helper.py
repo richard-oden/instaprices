@@ -111,7 +111,7 @@ def get_data(stores, shopping_list, analysis_options):
 
 def render_chart(data, shopping_list):
     data_frame = pd.DataFrame(data, columns=['Store', *shopping_list])
-    data_frame.plot.bar(x='Store', stacked=True, title='Instaprices Comparison')
+    data_frame.plot.bar(x='Store', stacked=True, title='Instaprices Comparison', rot=0)
     plt.show()
 
 def build_chart(stores, shopping_list, analysis_options):

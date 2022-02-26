@@ -33,7 +33,7 @@ def parse_item(item_dict):
 
 def deserialize_stores(json_string):
     store_dicts = json.loads(json_string)
-    return [Store(s['name'], [parse_item(i) for i in s['items']]) for s in store_dicts]
+    return [Store(s['name'], {k:[parse_item(i) for i in v] for (k,v) in s['items'].items()}) for s in store_dicts]
 
 def serialize_stores(stores):
     return json.dumps(stores, default=lambda o: o.__dict__, indent=4)

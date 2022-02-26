@@ -119,7 +119,12 @@ def import_stores_menu():
 def import_shopping_list_and_stores(file_name):
     stores = io_helper.deserialize_stores(io_helper.import_file(file_name))
     shopping_list = []
-    [shopping_list.append(i) for i in [s.items.keys() for s in stores] if i not in shopping_list]
+    
+    for s in stores:
+        for i in s.items:
+            if i not in shopping_list:
+                shopping_list.append(i)
+
     return shopping_list, stores
 
 def export_stores_menu(stores):

@@ -1,0 +1,2839 @@
+[
+    {
+        "name": "Sephora",
+        "items": {
+            "tortillas": [],
+            "ground beef": [],
+            "tomatoes": [],
+            "lettuce": [],
+            "shredded cheese": [],
+            "cilantro": [],
+            "limes": []
+        }
+    },
+    {
+        "name": "Costco",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Siete Almond Flour Tortilla, 20 ct",
+                    "price_total": 14.67,
+                    "count": 20.0,
+                    "price_per_count": 0.73
+                },
+                {
+                    "name": "La Tortilla Factory Low Carb Tortilla, 20 ct",
+                    "price_total": 6.21,
+                    "count": 20.0,
+                    "price_per_count": 0.31
+                },
+                {
+                    "name": "Guerrero Flour Tortillas, 2 x 15 ct",
+                    "price_total": 4.96,
+                    "count": 2.0,
+                    "price_per_count": 2.48
+                },
+                {
+                    "name": "Tortilla Fresca Organic Uncooked Flour Tortillas, 36 ct",
+                    "price_total": 9.69,
+                    "count": 36.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "La Tortilla Factory Low Carb Tortilla, 20 ct",
+                    "price_total": 6.21,
+                    "count": 20.0,
+                    "price_per_count": 0.31
+                },
+                {
+                    "name": "Siete Almond Flour Tortilla, 20 ct",
+                    "price_total": 14.67,
+                    "count": 20.0,
+                    "price_per_count": 0.73
+                },
+                {
+                    "name": "Kirkland Signature Organic White & Yellow Corn Tortilla Chips, 40 oz",
+                    "price_total": 6.21,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Kirkland Signature Tortilla Strips, 48 oz",
+                    "price_total": 6.21,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Siete Sea Salt Grain Free Tortilla Chips, 12oz",
+                    "price_total": 7.45,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.19,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Kirkland Signature Chicken Tortilla Soup, 2 x 32 oz",
+                    "price_total": 10.56,
+                    "weight_g": 1814.3,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Siete Sea Salt Grain Free Tortilla Chips, 12oz",
+                    "price_total": 7.45,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.19,
+                    "price_per_oz": 0.62
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "Kirkland Signature Organic Ground Beef, 4 lbs",
+                    "price_total": 24.74,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.36,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Kirkland Signature 91% Lean Ground Beef, 5 x 1 lb",
+                    "price_total": 28.6,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 1.26,
+                    "price_per_oz": 0.36
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "Tomatoes on the Vine, Greenhouse Grown, 4 lbs",
+                    "price_total": 7.08,
+                    "weight_g": 1814.4,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 0.39,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Grape Tomatoes, Greenhouse Grown, 2 lbs",
+                    "price_total": 6.83,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.75,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Gourmet Tomato Medley Greenhouse Grown, 2 lbs",
+                    "price_total": 6.83,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.75,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Cherry on the Vine Tomatoes, 1.5 lb",
+                    "price_total": 8.7,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.28,
+                    "price_per_oz": 0.36
+                },
+                {
+                    "name": "Kirkland Signature Organic Diced Tomatoes, 8 x 14.5 oz",
+                    "price_total": 8.2,
+                    "weight_g": 3288.5,
+                    "weight_oz": 116.0,
+                    "price_per_100g": 0.25,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Nina Tomatoes, 6 lb 10 oz",
+                    "price_total": 5.59,
+                    "weight_g": 3005.0,
+                    "weight_oz": 106.0,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                }
+            ],
+            "lettuce": [],
+            "shredded cheese": [
+                {
+                    "name": "Kirkland Signature Shredded Mexican Style Blend Cheese, 2 x 2.5 lb",
+                    "price_total": 18.65,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.82,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Kirkland Signature Shredded Cheddar Jack Cheeses, 2 x 2.5 lb",
+                    "price_total": 18.4,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.81,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Kirkland Signature Shredded Sharp Cheddar Cheese, 2 x 2.5 lbs",
+                    "price_total": 16.78,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.74,
+                    "price_per_oz": 0.21
+                }
+            ],
+            "cilantro": [],
+            "limes": []
+        }
+    },
+    {
+        "name": "Meijer",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Old El Paso Flour Tortillas, 8 Count",
+                    "price_total": 2.39,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 0.77,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Old El Paso Taco Shells and Flour Tortilla",
+                    "price_total": 2.39,
+                    "weight_g": 209.8,
+                    "weight_oz": 7.4,
+                    "price_per_100g": 1.14,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Tostitos Tortilla Chips, Original, Restaurant Style, Party Size!",
+                    "price_total": 6.59,
+                    "weight_g": 481.9,
+                    "weight_oz": 17.0,
+                    "price_per_100g": 1.37,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Meijer 20 Count Fajita Flour Tortilla",
+                    "price_total": 2.29,
+                    "weight_g": 652.0,
+                    "weight_oz": 23.0,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Meijer Burrito Flour Tortillas",
+                    "price_total": 2.19,
+                    "count": 8.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Meijer Flour Carb Watch Soft Taco Tortilla",
+                    "price_total": 3.89,
+                    "count": 8.0,
+                    "price_per_count": 0.49
+                },
+                {
+                    "name": "Meijer 28 Ounce Soft Taco Flour Tortilla",
+                    "price_total": 4.29,
+                    "count": 16.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Meijer Soft Taco Tortilla",
+                    "price_total": 1.69,
+                    "weight_g": 2086.5,
+                    "weight_oz": 73.6,
+                    "price_per_100g": 0.08,
+                    "price_per_oz": 0.02
+                },
+                {
+                    "name": "Mission Super Soft Soft Taco Flour Tortillas",
+                    "price_total": 2.89,
+                    "count": 10.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "Tostitos Hint of Lime Tortilla Chips",
+                    "price_total": 4.19,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.34,
+                    "price_per_oz": 0.38
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "Pre Brands 85% Lean Grass Fed and Finished Ground Beef",
+                    "price_total": 8.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Pre Brands 95% Lean Ground Beef 100% Grass Fed and Finished",
+                    "price_total": 10.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.25,
+                    "price_per_oz": 0.64
+                },
+                {
+                    "name": "Pre Brands 92% Lean Grass Fed and Finished Ground Beef",
+                    "price_total": 9.59,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Laura's Lean Beef 92% Lean 8% Fat Ground Beef",
+                    "price_total": 8.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Pre Brands 85% Lean Grass Fed and Finished Ground Beef",
+                    "price_total": 8.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Pre Brands 95% Lean Ground Beef 100% Grass Fed and Finished",
+                    "price_total": 10.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.25,
+                    "price_per_oz": 0.64
+                },
+                {
+                    "name": "Pre Brands 92% Lean Grass Fed and Finished Ground Beef",
+                    "price_total": 9.59,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 3.09,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Roma Tomato",
+                    "price_total": 1.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Tomatoes On The Vine",
+                    "price_total": 3.78,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "NatureSweet Salad Tomatoes, Heavenly",
+                    "price_total": 4.49,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 1.58,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Sunset Organic Wild Wonders Tomatoes",
+                    "price_total": 5.69,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 2.01,
+                    "price_per_oz": 0.57
+                },
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 4.49,
+                    "weight_g": 963.9,
+                    "weight_oz": 34.0,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Heinz Tomato Ketchup with No Sugar Added",
+                    "price_total": 2.89,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.78,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 8.69,
+                    "weight_g": 2863.2,
+                    "weight_oz": 101.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Sunset Angel Sweet Tomatoes",
+                    "price_total": 4.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Wegmans Organic Campari Cocktail Tomatoes",
+                    "price_total": 5.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.67,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Sunset Organic Angel Sweet Tomatoes",
+                    "price_total": 5.69,
+                    "count": 1.0,
+                    "price_per_count": 5.69
+                },
+                {
+                    "name": "Red Cherry Tomato",
+                    "price_total": 2.89,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Sunset Tomatoes, Sweet Honey-Crunch Flavor",
+                    "price_total": 5.69,
+                    "weight_g": 341.0,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.67,
+                    "price_per_oz": 0.47
+                }
+            ],
+            "lettuce": [
+                {
+                    "name": "Green Leaf Lettuce Bunch",
+                    "price_total": 3.39,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.75,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Baby Romaine Lettuce",
+                    "price_total": 3.99,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 2.81,
+                    "price_per_oz": 0.8
+                }
+            ],
+            "shredded cheese": [
+                {
+                    "name": "Kraft Natural Cheese Shredded Mexican Style Four Cheese",
+                    "price_total": 7.89,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.16,
+                    "price_per_oz": 0.33
+                },
+                {
+                    "name": "Kraft Finely Shredded Cheese, Four Cheese, Mexican Style",
+                    "price_total": 3.39,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.49,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Kraft Shredded Mozzarella Cheese",
+                    "price_total": 7.89,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.16,
+                    "price_per_oz": 0.33
+                },
+                {
+                    "name": "Sargento\u00ae Shredded Natural Double Cheddar Cheese",
+                    "price_total": 3.39,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.49,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Sargento Off The Block 4 Cheese Mexican Fine Cut Shredded Cheese",
+                    "price_total": 3.39,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.49,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Sargento Shredded Sharp Natural Cheddar Cheese, Traditional Cut",
+                    "price_total": 3.39,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.49,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Meijer Mexican 4 Cheese Monterey Jack, Cheddar, Queso Quesadilla & Asadero Finely Shredded Cheeses",
+                    "price_total": 2.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Meijer Colby Jack Colby & Monterey Jack Finely Shredded Cheeses",
+                    "price_total": 2.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Meijer Mild Cheddar Shredded Cheese",
+                    "price_total": 2.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Meijer Sharp Cheddar Shredded Cheese",
+                    "price_total": 2.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Meijer Cheddar Jack Cheddar & Monterey Jack Finely Shredded Cheeses",
+                    "price_total": 4.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.95,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Meijer Italian Style Finely Shredded Mozzarella & Smoked Provolone Cheese Blend",
+                    "price_total": 2.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Meijer Mexican 4 Cheese Monterey Jack, Cheddar, Queso Quesadilla & Asadero Finely Shredded Cheeses",
+                    "price_total": 4.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.95,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Sargento\u00ae Shredded Four State Natural Cheddar Cheese",
+                    "price_total": 3.39,
+                    "weight_g": 212.6,
+                    "weight_oz": 7.5,
+                    "price_per_100g": 1.59,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Kraft Triple Cheddar Finely Shredded Cheese",
+                    "price_total": 3.39,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.49,
+                    "price_per_oz": 0.42
+                }
+            ],
+            "cilantro": [],
+            "limes": []
+        }
+    },
+    {
+        "name": "Total Wine & More",
+        "items": {
+            "tortillas": [],
+            "ground beef": [],
+            "tomatoes": [],
+            "lettuce": [],
+            "shredded cheese": [],
+            "cilantro": [],
+            "limes": [
+                {
+                    "name": "Barsmith Juice, Lime",
+                    "price_total": 4.99,
+                    "weight_g": 375.6,
+                    "weight_oz": 13.2,
+                    "price_per_100g": 1.33,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "7UP Lemon Lime Soda",
+                    "price_total": 1.79,
+                    "weight_g": 2000.0,
+                    "weight_oz": 70.5,
+                    "price_per_100g": 0.09,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Tres Agaves Mixers Organic Lime Margarita Mix",
+                    "price_total": 8.99,
+                    "weight_g": 1000.0,
+                    "weight_oz": 35.3,
+                    "price_per_100g": 0.9,
+                    "price_per_oz": 0.25
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Fresh Market",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Mi Nina Tortilla Chips, White Corn, Sea Salt",
+                    "price_total": 4.29,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.26,
+                    "price_per_oz": 0.36
+                },
+                {
+                    "name": "La Tortilla Factory Tortillas, White Corn & wheat, Handmade Style",
+                    "price_total": 3.99,
+                    "count": 8.0,
+                    "price_per_count": 0.5
+                },
+                {
+                    "name": "La Tortilla Factory Flour Tortillas",
+                    "price_total": 4.99,
+                    "count": 8.0,
+                    "price_per_count": 0.62
+                },
+                {
+                    "name": "La Tortilla Factory Tortillas, Whole Wheat, Low Carb, Large Size",
+                    "price_total": 5.99,
+                    "count": 8.0,
+                    "price_per_count": 0.75
+                },
+                {
+                    "name": "La Tortilla Factory Tortillas, Original Flavor, Handmade Style",
+                    "price_total": 4.99,
+                    "count": 8.0,
+                    "price_per_count": 0.62
+                },
+                {
+                    "name": "Maria And Ricardo's Organic White Flour Tortillas",
+                    "price_total": 4.99,
+                    "count": 8.0,
+                    "price_per_count": 0.62
+                },
+                {
+                    "name": "Maria And Ricardo's Organic Tortillas",
+                    "price_total": 3.99,
+                    "count": 8.0,
+                    "price_per_count": 0.5
+                },
+                {
+                    "name": "La Tortilla Factory Tortillas, White Corn & wheat, Handmade Style",
+                    "price_total": 3.99,
+                    "count": 8.0,
+                    "price_per_count": 0.5
+                },
+                {
+                    "name": "La Tortilla Factory Tortillas, Yellow Corn & Wheat, Handmade Style",
+                    "price_total": 3.99,
+                    "count": 8.0,
+                    "price_per_count": 0.5
+                },
+                {
+                    "name": "La Tortilla Factory Tortillas, White Corn & wheat, Handmade Style, Grande Size",
+                    "price_total": 4.99,
+                    "count": 8.0,
+                    "price_per_count": 0.62
+                },
+                {
+                    "name": "Siete Tortilla Chips, Grain Free, Nacho",
+                    "price_total": 4.49,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 3.96,
+                    "price_per_oz": 1.12
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "The Fresh Market Grass Fed Ground Beef",
+                    "price_total": 8.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "Pomi Chopped Tomatoes",
+                    "price_total": 3.99,
+                    "weight_g": 750.1,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 4.49,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.49,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Pomi Strained Tomatoes",
+                    "price_total": 3.99,
+                    "weight_g": 750.1,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Pomi Organic Chopped Tomatoes",
+                    "price_total": 4.99,
+                    "weight_g": 750.1,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 0.67,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Pomi Finely Chopped Tomatoes",
+                    "price_total": 3.99,
+                    "weight_g": 750.1,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Roma Tomato",
+                    "price_total": 1.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Red On the Vine Tomato",
+                    "price_total": 0.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.22,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Beefsteak Tomato",
+                    "price_total": 2.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.66,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Village Farms Sinfully Sweet Campari Tomatoes",
+                    "price_total": 4.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Rao's Homemade Soup, Tomato Basil, Slow Simmered",
+                    "price_total": 3.99,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 14.07,
+                    "price_per_oz": 3.99
+                },
+                {
+                    "name": "Lidias Tomato Basil",
+                    "price_total": 7.99,
+                    "weight_g": 708.7,
+                    "weight_oz": 25.0,
+                    "price_per_100g": 1.13,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Lipman Family Farms Grape Tomatoes",
+                    "price_total": 3.69,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.08,
+                    "price_per_oz": 0.31
+                }
+            ],
+            "lettuce": [
+                {
+                    "name": "Organic Romaine Lettuce",
+                    "price_total": 2.99,
+                    "count": 1.0,
+                    "price_per_count": 2.99
+                },
+                {
+                    "name": "Green Leaf Lettuce",
+                    "price_total": 2.49,
+                    "count": 1.0,
+                    "price_per_count": 2.49
+                },
+                {
+                    "name": "Gotham Greens Butterhead Lettuce",
+                    "price_total": 4.29,
+                    "weight_g": 127.6,
+                    "weight_oz": 4.5,
+                    "price_per_100g": 3.36,
+                    "price_per_oz": 0.95
+                },
+                {
+                    "name": "Iceberg Lettuce",
+                    "price_total": 2.49,
+                    "count": 1.0,
+                    "price_per_count": 2.49
+                },
+                {
+                    "name": "Organic Red Leaf Lettuce",
+                    "price_total": 2.99,
+                    "count": 1.0,
+                    "price_per_count": 2.99
+                },
+                {
+                    "name": "The Fresh Market Chopped Butter Lettuce Salad",
+                    "price_total": 3.99,
+                    "weight_g": 184.3,
+                    "weight_oz": 6.5,
+                    "price_per_100g": 2.17,
+                    "price_per_oz": 0.61
+                }
+            ],
+            "shredded cheese": [
+                {
+                    "name": "Organic Valley 3 Cheese Organic Finely Shredded Mexican Cheese Blend",
+                    "price_total": 5.99,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Organic Valley Finely Shredded Sharp Cheddar Cheese",
+                    "price_total": 5.99,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "The Fresh Market Shredded Mexican Cheese Mix",
+                    "price_total": 4.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.2,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "The Fresh Market Shredded Italian Blend Cheese",
+                    "price_total": 4.99,
+                    "weight_g": 198.4,
+                    "weight_oz": 7.0,
+                    "price_per_100g": 2.51,
+                    "price_per_oz": 0.71
+                },
+                {
+                    "name": "Organic Valley 3 Cheese Organic Finely Shredded Mexican Cheese Blend",
+                    "price_total": 5.99,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                }
+            ],
+            "cilantro": [],
+            "limes": []
+        }
+    },
+    {
+        "name": "Save A Lot",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "8\" Flour Tortilla",
+                    "price_total": 1.89,
+                    "count": 10.0,
+                    "price_per_count": 0.19
+                },
+                {
+                    "name": "8\" Flour Tortilla",
+                    "price_total": 2.39,
+                    "count": 8.0,
+                    "price_per_count": 0.3
+                },
+                {
+                    "name": "Senora Verde Bite Size Round Tortilla",
+                    "price_total": 2.39,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.65,
+                    "price_per_oz": 0.18
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "Standard Pride Ground Beef, 80% Lean/20% Fat",
+                    "price_total": 10.99,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "73% Lean 27% Fat Fine Ground Beef",
+                    "price_total": 20.85,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.92,
+                    "price_per_oz": 0.26
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 4.95,
+                    "weight_g": 1077.3,
+                    "weight_oz": 38.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Roma Tomato",
+                    "price_total": 2.75,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.61,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Pickwell Farms Diced Tomatoes In Tomato Juice",
+                    "price_total": 0.85,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Senora Verde Diced Tomatoes with Chilies",
+                    "price_total": 0.85,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Pickwell Farms Tomato Paste",
+                    "price_total": 0.75,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Pickwell Farms Diced Tomato Basil/Garlic",
+                    "price_total": 0.85,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Pickwell Farms Tomato Sauce",
+                    "price_total": 0.89,
+                    "weight_g": 425.2,
+                    "weight_oz": 15.0,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Pickwell Farms Petite Diced Tomatoes",
+                    "price_total": 0.85,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                }
+            ],
+            "lettuce": [
+                {
+                    "name": "Iceberg Lettuce",
+                    "price_total": 3.29,
+                    "count": 24.0,
+                    "price_per_count": 0.14
+                }
+            ],
+            "shredded cheese": [
+                {
+                    "name": "Old El Paso Mexican Style 4 Cheese Blend Shredded Cheese",
+                    "price_total": 2.75,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Coburn Farms Taco Shredded Cheese",
+                    "price_total": 3.09,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.91,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "Old El Paso Quesadilla Shredded Cheese",
+                    "price_total": 2.75,
+                    "weight_g": 198.4,
+                    "weight_oz": 7.0,
+                    "price_per_100g": 1.39,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Old El Paso Mexican Style 4 Cheese Blend Shredded Cheese",
+                    "price_total": 2.75,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Old El Paso Quesadilla Shredded Cheese",
+                    "price_total": 2.75,
+                    "weight_g": 198.4,
+                    "weight_oz": 7.0,
+                    "price_per_100g": 1.39,
+                    "price_per_oz": 0.39
+                }
+            ],
+            "cilantro": [],
+            "limes": []
+        }
+    },
+    {
+        "name": "ALDI",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Pueblo Lindo Flour Tortillas",
+                    "price_total": 1.75,
+                    "weight_g": 496.1,
+                    "weight_oz": 17.5,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Pueblo Lindo Fajita Flour Tortillas",
+                    "price_total": 2.19,
+                    "weight_g": 652.0,
+                    "weight_oz": 23.0,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Pueblo Lindo Burrito Tortillas",
+                    "price_total": 1.65,
+                    "count": 8.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "L'oven Fresh Low Carb Tortillas",
+                    "price_total": 3.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.94,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "L'oven Fresh Low Carb Whole Wheat Tortillas",
+                    "price_total": 3.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.94,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Pueblo Lindo 6\" Corn Tortillas",
+                    "price_total": 1.49,
+                    "weight_g": 708.7,
+                    "weight_oz": 25.0,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Pueblo Lindo Yellow Corn Tortillas",
+                    "price_total": 1.49,
+                    "weight_g": 708.7,
+                    "weight_oz": 25.0,
+                    "price_per_100g": 0.21,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Clancy's Restaurant Style Tortilla Chips",
+                    "price_total": 1.39,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Clancy's White Round Tortilla Chips",
+                    "price_total": 1.39,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "Simply Nature 100% Organic Grass Fed 85/15 Ground Beef",
+                    "price_total": 6.05,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.33,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "85% Lean Ground Beef Chub",
+                    "price_total": 4.55,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.0,
+                    "price_per_oz": 0.28
+                },
+                {
+                    "name": "Simply Nature 93/07 Organic Grass Fed Ground Beef",
+                    "price_total": 7.15,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.58,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "73/27 Ground Beef Roll",
+                    "price_total": 9.69,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 0.71,
+                    "price_per_oz": 0.2
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "Roma Tomato Package",
+                    "price_total": 1.05,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.23,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Grape Tomatoes, Package",
+                    "price_total": 1.75,
+                    "weight_g": 297.7,
+                    "weight_oz": 10.5,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Beefsteak Tomatoes, Package",
+                    "price_total": 2.65,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "NatureSweet Salad Tomatoes, Heavenly",
+                    "price_total": 3.29,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 1.16,
+                    "price_per_oz": 0.33
+                },
+                {
+                    "name": "Gourmet Medley Tomatoes, Package",
+                    "price_total": 3.29,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.48,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Cherry Tomatoes, On the Vine, D'Vines",
+                    "price_total": 2.65,
+                    "weight_g": 255.1,
+                    "weight_oz": 9.0,
+                    "price_per_100g": 1.04,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Happy Harvest Diced Tomatoes",
+                    "price_total": 0.75,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.18,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Happy Harvest Crushed Tomatoes",
+                    "price_total": 0.99,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.12,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Casa Mamita Diced Tomatoes with Green Chilies",
+                    "price_total": 0.75,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Happy Harvest Tomato Sauce",
+                    "price_total": 0.35,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 0.15,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Happy Harvest Tomato Paste",
+                    "price_total": 0.55,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                }
+            ],
+            "lettuce": [
+                {
+                    "name": "Dole Lettuce, Shredded",
+                    "price_total": 1.45,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                }
+            ],
+            "shredded cheese": [
+                {
+                    "name": "Happy Farms Shredded Mild Cheddar Cheese",
+                    "price_total": 2.85,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Happy Farms Shredded Mexican Cheese",
+                    "price_total": 3.45,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Happy Farms Shredded Colby Jack Cheese",
+                    "price_total": 3.45,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Happy Farms Shredded Mozzarella Cheese",
+                    "price_total": 2.85,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Happy Farms Shredded Sharp Cheddar Cheese",
+                    "price_total": 3.45,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Happy Farms Mild Cheddar Shredded Cheese",
+                    "price_total": 5.75,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Happy Farms Shredded Triple Cheddar Cheese",
+                    "price_total": 3.45,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Happy Farms Shredded Italian Blend Cheese",
+                    "price_total": 2.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Happy Farms Shredded 2% Milk Sharp Cheddar Cheese",
+                    "price_total": 3.45,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.11,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Emporium Selection Shredded Parmesan Cheese",
+                    "price_total": 2.39,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Happy Farms Shredded 2% Milk Mexican Cheese",
+                    "price_total": 3.45,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.11,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Happy Farms Shredded Taco Style Cheese",
+                    "price_total": 2.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                }
+            ],
+            "cilantro": [
+                {
+                    "name": "Cilantro",
+                    "price_total": 0.95,
+                    "count": 1.0,
+                    "price_per_count": 0.95
+                }
+            ],
+            "limes": [
+                {
+                    "name": "Limes, Bag",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                }
+            ]
+        }
+    },
+    {
+        "name": "CVS Pharmacy\u00ae",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Doritos Spicy Nacho Tortilla Chips",
+                    "price_total": 4.79,
+                    "weight_g": 262.2,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 1.83,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Doritos Tortilla Chips, Spicy Sweet Chili Flavored",
+                    "price_total": 2.19,
+                    "weight_g": 78.0,
+                    "weight_oz": 2.8,
+                    "price_per_100g": 2.81,
+                    "price_per_oz": 0.8
+                },
+                {
+                    "name": "Doritos Tortilla Chips, Nacho Cheese Flavored",
+                    "price_total": 2.19,
+                    "weight_g": 78.0,
+                    "weight_oz": 2.8,
+                    "price_per_100g": 2.81,
+                    "price_per_oz": 0.8
+                },
+                {
+                    "name": "Doritos Tortilla Chips, Nacho Cheese Flavored",
+                    "price_total": 4.79,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Doritos Tortilla Chips, Chile Limon, Rolled",
+                    "price_total": 2.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 1.93,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Doritos Tortilla Chips Flamin' Hot Cool Ranch Flavored",
+                    "price_total": 4.79,
+                    "weight_g": 262.2,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 1.83,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Doritos Spicy Sweet Chili Tortilla Chips",
+                    "price_total": 0.59,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 2.08,
+                    "price_per_oz": 0.59
+                },
+                {
+                    "name": "Doritos Nacho Cheese Tortilla Chips",
+                    "price_total": 0.59,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 2.08,
+                    "price_per_oz": 0.59
+                },
+                {
+                    "name": "Doritos Cool Ranch Tortilla Chips",
+                    "price_total": 0.59,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 2.08,
+                    "price_per_oz": 0.59
+                }
+            ],
+            "ground beef": [],
+            "tomatoes": [
+                {
+                    "name": "Heinz Simply Tomato Ketchup with No Artificial Sweeteners",
+                    "price_total": 5.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Campbell's\u00ae Tomato Soup",
+                    "price_total": 1.79,
+                    "weight_g": 304.8,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Heinz Simply Tomato Ketchup with No Artificial Sweeteners",
+                    "price_total": 5.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Progresso Soup, Reduced Sodium, Creamy Tomato with Basil",
+                    "price_total": 3.79,
+                    "weight_g": 538.6,
+                    "weight_oz": 19.0,
+                    "price_per_100g": 0.7,
+                    "price_per_oz": 0.2
+                }
+            ],
+            "lettuce": [],
+            "shredded cheese": [],
+            "cilantro": [],
+            "limes": [
+                {
+                    "name": "LaCroix Sparkling Water, Lime",
+                    "price_total": 3.79,
+                    "weight_g": 2129.3,
+                    "weight_oz": 75.1,
+                    "price_per_100g": 0.18,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "7UP Lemon Lime Soda",
+                    "price_total": 2.69,
+                    "weight_g": 2000.0,
+                    "weight_oz": 70.5,
+                    "price_per_100g": 0.13,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Sprite Lemon Lime Soda Soft Drinks",
+                    "price_total": 4.69,
+                    "weight_g": 1275.7,
+                    "weight_oz": 45.0,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Gatorade Lemon-Lime Thirst Quencher",
+                    "price_total": 2.79,
+                    "weight_g": 828.0,
+                    "weight_oz": 29.2,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Sprite Lemon-Lime Fridge Pack Soda",
+                    "price_total": 8.19,
+                    "weight_g": 4258.5,
+                    "weight_oz": 150.2,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Sprite Lemon Lime Soda Soft Drink",
+                    "price_total": 2.69,
+                    "weight_g": 2000.0,
+                    "weight_oz": 70.5,
+                    "price_per_100g": 0.13,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Gatorade Thirst Quencher Lemon-Lime Sports Drink",
+                    "price_total": 2.49,
+                    "weight_g": 591.5,
+                    "weight_oz": 20.9,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Sprite Soda, Lemon-Lime",
+                    "price_total": 6.49,
+                    "weight_g": 354.9,
+                    "weight_oz": 12.5,
+                    "price_per_100g": 1.83,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Perrier Lime Flavored Carbonated Mineral Water",
+                    "price_total": 3.19,
+                    "weight_g": 999.6,
+                    "weight_oz": 35.3,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "AHA Sparkling Water, Lime Watermelon Flavored Water, Zero Calories, Sodium Free, No Sweeteners",
+                    "price_total": 4.69,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.17,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Lysol Disinfecting Wipes, Lemon & Lime Blossom Scent",
+                    "price_total": 5.99,
+                    "weight_g": 575.5,
+                    "weight_oz": 20.3,
+                    "price_per_100g": 1.04,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Gatorade Thirst Quencher Lemon Lime",
+                    "price_total": 4.59,
+                    "weight_g": 2365.8,
+                    "weight_oz": 83.5,
+                    "price_per_100g": 0.19,
+                    "price_per_oz": 0.06
+                }
+            ]
+        }
+    },
+    {
+        "name": "Family Dollar",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Old El Paso Flour Tortillas, 8 Count",
+                    "price_total": 2.79,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 0.89,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "La Banderita Flour Tortillas, Family Pack",
+                    "price_total": 2.79,
+                    "count": 20.0,
+                    "price_per_count": 0.14
+                },
+                {
+                    "name": "Del Barrio Fresh & Soft Flour Tortillas",
+                    "price_total": 1.19,
+                    "count": 12.0,
+                    "price_per_count": 0.1
+                },
+                {
+                    "name": "La Banderita Burrito Grande Flour Tortillas",
+                    "price_total": 3.59,
+                    "weight_g": 708.7,
+                    "weight_oz": 25.0,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "La Banderita Flour Tortillas, Soft Taco, Large",
+                    "price_total": 2.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Old El Paso Flour Tortillas, 8 Count",
+                    "price_total": 2.79,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 0.89,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Doritos Spicy Nacho Tortilla Chips",
+                    "price_total": 4.39,
+                    "weight_g": 262.2,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 1.67,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Doritos Cool Ranch Tortilla Chips",
+                    "price_total": 4.39,
+                    "weight_g": 262.2,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 1.67,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Campbell's\u00ae Homestyle Healthy Request\u00ae Mexican-style chicken tortilla soup",
+                    "price_total": 2.69,
+                    "weight_g": 527.3,
+                    "weight_oz": 18.6,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                }
+            ],
+            "ground beef": [],
+            "tomatoes": [
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 3.59,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Chestnut Hill Diced Tomatoes",
+                    "price_total": 1.09,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Chestnut Hill Crushed Tomatoes",
+                    "price_total": 2.29,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Chestnut Hill Diced Tomatoes With Green Chilies",
+                    "price_total": 1.09,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Chestnut Hill Tomato Paste",
+                    "price_total": 0.99,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Chestnut Hill Tomato Sauce",
+                    "price_total": 0.89,
+                    "weight_g": 236.6,
+                    "weight_oz": 8.3,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Campbell's Tomato Condensed Soup",
+                    "price_total": 1.49,
+                    "weight_g": 405.4,
+                    "weight_oz": 14.3,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Ro-Tel Diced Tomatoes Original Diced Tomatoes And Green Chilies",
+                    "price_total": 1.49,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Rag\u00fa Tomato, Garlic & Onion Chunky Sauce",
+                    "price_total": 2.79,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.41,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Hunt's Diced Tomatoes With Basil Garlic And Oregano",
+                    "price_total": 1.49,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Hunt's Tomato Sauce",
+                    "price_total": 1.49,
+                    "weight_g": 425.2,
+                    "weight_oz": 15.0,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                }
+            ],
+            "lettuce": [],
+            "shredded cheese": [
+                {
+                    "name": "Chestnut Hill Mexican Style Four Cheese Finely Shredded Monterey Jack, Cheddar, Queso Quesadilla And Asadero Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Chestnut Hill Finely Shredded Mild Cheddar Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Chestnut Hill Shredded Sharp Cheddar Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Chestnut Hill Finely Shredded Low-moisture Part-skim Mozzarella Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Dutch Farms Cheese, Fancy Shredded, Marble Jack",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                }
+            ],
+            "cilantro": [],
+            "limes": [
+                {
+                    "name": "Sprite Lemon Lime Soda Soft Drinks",
+                    "price_total": 4.59,
+                    "weight_g": 1275.7,
+                    "weight_oz": 45.0,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Alberto VO5 Herbal Escapes Clarifying Conditioner Kiwi Lime Squeeze",
+                    "price_total": 1.19,
+                    "weight_g": 443.6,
+                    "weight_oz": 15.6,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Takis Fuego Hot Chili Pepper & Lime Rolled Tortilla Chips",
+                    "price_total": 3.79,
+                    "weight_g": 280.7,
+                    "weight_oz": 9.9,
+                    "price_per_100g": 1.35,
+                    "price_per_oz": 0.38
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gordon Food Service",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Gran Sazon Flour Tortillas",
+                    "price_total": 4.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Gran Sazon Flour Tortillas",
+                    "price_total": 1.49,
+                    "count": 12.0,
+                    "price_per_count": 0.12
+                },
+                {
+                    "name": "Gran Sazon Flour Tortillas",
+                    "price_total": 2.99,
+                    "count": 12.0,
+                    "price_per_count": 0.25
+                },
+                {
+                    "name": "Gran Sazon 8\" Flour Tortilla",
+                    "price_total": 2.39,
+                    "count": 12.0,
+                    "price_per_count": 0.2
+                },
+                {
+                    "name": "Gran Sazon 12\" Spinach Tortillas",
+                    "price_total": 6.99,
+                    "count": 12.0,
+                    "price_per_count": 0.58
+                },
+                {
+                    "name": "Gran Sazon 12\" Whole Wheat Tortilla",
+                    "price_total": 6.99,
+                    "count": 6.0,
+                    "price_per_count": 1.17
+                },
+                {
+                    "name": "La Banderita Flour Tortillas, Family Pack",
+                    "price_total": 4.49,
+                    "count": 20.0,
+                    "price_per_count": 0.22
+                },
+                {
+                    "name": "Tostitos Scoops Party Size Tortilla Chips",
+                    "price_total": 5.79,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "La Banderita Burrito Grande Flour Tortillas",
+                    "price_total": 4.79,
+                    "weight_g": 708.7,
+                    "weight_oz": 25.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "La Banderita Flour Tortillas, Soft Taco, Large",
+                    "price_total": 3.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "La Banderita Tortillas, White Corn",
+                    "price_total": 5.79,
+                    "weight_g": 166465.3,
+                    "weight_oz": 5872.0,
+                    "price_per_100g": 0.0,
+                    "price_per_oz": 0.0
+                },
+                {
+                    "name": "La Banderita Corn Tortillas, White",
+                    "price_total": 2.69,
+                    "weight_g": 779.6,
+                    "weight_oz": 27.5,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Gran Sazon Corn Tortillas",
+                    "price_total": 7.79,
+                    "weight_g": 3401.9,
+                    "weight_oz": 120.0,
+                    "price_per_100g": 0.23,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Tostitos Original Restaurant Style Tortilla Chips",
+                    "price_total": 4.99,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 1.35,
+                    "price_per_oz": 0.38
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "Meadowland Farms 80/20 Beef Ground Chuck",
+                    "price_total": 28.99,
+                    "weight_g": 2267.9,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 1.28,
+                    "price_per_oz": 0.36
+                },
+                {
+                    "name": "Gordon Choice Homestyle Ground Beef Patties",
+                    "price_total": 17.99,
+                    "count": 20.0,
+                    "price_per_count": 0.9
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "French's\u00ae Tomato Ketchup",
+                    "price_total": 3.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Sunsweet Angel Sweet Tomatoes",
+                    "price_total": 4.99,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Roma Tomato",
+                    "price_total": 10.49,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Cherubs Heavenly Salad Tomatoes",
+                    "price_total": 4.79,
+                    "weight_g": 297.7,
+                    "weight_oz": 10.5,
+                    "price_per_100g": 1.61,
+                    "price_per_oz": 0.46
+                },
+                {
+                    "name": "Gordon Choice Diced Tomatoes",
+                    "price_total": 5.79,
+                    "weight_g": 2891.6,
+                    "weight_oz": 102.0,
+                    "price_per_100g": 0.2,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Red On the Vine Tomato Package",
+                    "price_total": 7.99,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Belladoro Diced Tomatoes",
+                    "price_total": 2.39,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                }
+            ],
+            "lettuce": [],
+            "shredded cheese": [
+                {
+                    "name": "Kraft Mexican Style Four Cheese Blend Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kraft Sharp Cheddar Finely Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kraft Mozzarella Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Sartori Parmesan Classic Shredded Cheese",
+                    "price_total": 4.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.2,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Kraft Colby Jack Finely Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Primo Gusto Shredded Mozzarella & Provolone Cheese",
+                    "price_total": 16.49,
+                    "weight_g": 2267.9,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Primo Gusto Feather Shredded Mozzarella Cheese",
+                    "price_total": 16.49,
+                    "weight_g": 2267.9,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Kraft Mexican Style Four Cheese Blend Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kraft Sharp Cheddar Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kraft Sharp Cheddar Finely Shredded Cheese",
+                    "price_total": 4.79,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                }
+            ],
+            "cilantro": [
+                {
+                    "name": "Tone's Cilantro",
+                    "price_total": 14.49,
+                    "weight_g": 106.3,
+                    "weight_oz": 3.8,
+                    "price_per_100g": 13.63,
+                    "price_per_oz": 3.86
+                },
+                {
+                    "name": "Vigo Rice, Cilantro Lime",
+                    "price_total": 2.59,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.14,
+                    "price_per_oz": 0.32
+                }
+            ],
+            "limes": [
+                {
+                    "name": "Vigo Rice, Cilantro Lime",
+                    "price_total": 2.59,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.14,
+                    "price_per_oz": 0.32
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kroger",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Tostitos Scoops Party Size Tortilla Chips",
+                    "price_total": 4.99,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Tostitos Tortilla Chips, Original, Restaurant Style, Party Size!",
+                    "price_total": 4.99,
+                    "weight_g": 481.9,
+                    "weight_oz": 17.0,
+                    "price_per_100g": 1.04,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Kroger Burrito Size Flour Tortillas",
+                    "price_total": 1.69,
+                    "count": 8.0,
+                    "price_per_count": 0.21
+                },
+                {
+                    "name": "Kroger Soft Taco Size Whole Wheat Tortillas",
+                    "price_total": 1.79,
+                    "count": 10.0,
+                    "price_per_count": 0.18
+                },
+                {
+                    "name": "Kroger Flour Tortillas",
+                    "price_total": 1.99,
+                    "weight_g": 425.2,
+                    "weight_oz": 15.0,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Mission Super Soft Soft Taco Flour Tortillas",
+                    "price_total": 2.69,
+                    "count": 10.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Tostitos Hint of Lime Tortilla Chips",
+                    "price_total": 3.99,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.28,
+                    "price_per_oz": 0.36
+                }
+            ],
+            "ground beef": [
+                {
+                    "name": "Kroger 80% Lean Ground Beef",
+                    "price_total": 5.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Kroger Ground Beef",
+                    "price_total": 3.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.77,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Kroger 80% Lean Ground Beef Chuck",
+                    "price_total": 14.49,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Private Selection Angus 90% Lean/10% Fat Ground Beef Sirloin",
+                    "price_total": 7.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.65,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Kroger Ground Beef",
+                    "price_total": 4.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.99,
+                    "price_per_oz": 0.28
+                },
+                {
+                    "name": "Kroger American Foods 73% Lean Ground Beef",
+                    "price_total": 11.99,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Kroger 73% Lean Ground Beef",
+                    "price_total": 14.49,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Private Selection Angus 80% Lean/20% Fat Ground Beef Chuck",
+                    "price_total": 5.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Laura's Lean Beef 92% Lean 8% Fat Ground Beef",
+                    "price_total": 8.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Simple Truth Organic 85% Lean/15% Fat Ground Beef",
+                    "price_total": 7.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.65,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Kentucky Ground Beef",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Private Selection Angus 85% Lean/15% Fat Ground Beef Round",
+                    "price_total": 6.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.43,
+                    "price_per_oz": 0.41
+                }
+            ],
+            "tomatoes": [
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 3.19,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Roma Tomato",
+                    "price_total": 0.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.22,
+                    "price_per_oz": 0.06
+                },
+                {
+                    "name": "Tomatoes - On The Vine",
+                    "price_total": 1.89,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Tomato",
+                    "price_total": 2.59,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Hydroponic Tomato",
+                    "price_total": 1.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Kroger Grape Tomatoes",
+                    "price_total": 2.5,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Tomato",
+                    "price_total": 1.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Red Tomatoes",
+                    "price_total": 1.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Heinz Tomato Ketchup with No Sugar Added",
+                    "price_total": 2.69,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 8.99,
+                    "weight_g": 2863.2,
+                    "weight_oz": 101.0,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Rao's Homemade Soup, Tomato Basil, Slow Simmered",
+                    "price_total": 5.49,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 19.37,
+                    "price_per_oz": 5.49
+                },
+                {
+                    "name": "NatureSweet Salad Tomatoes, Heavenly",
+                    "price_total": 3.99,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Village Farms Tomatoes, Campari, Sinfully Sweet",
+                    "price_total": 3.99,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.18,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Organic Roma Tomato",
+                    "price_total": 1.79,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.39,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Private Selection Premium Slicing Tomatoes",
+                    "price_total": 3.99,
+                    "count": 3.0,
+                    "price_per_count": 1.33
+                },
+                {
+                    "name": "Red Cherry Tomato Package",
+                    "price_total": 3.99,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                }
+            ],
+            "lettuce": [
+                {
+                    "name": "Kroger Fresh Selections Leafy Romaine, Romaine Lettuce & Leaf Lettuces",
+                    "price_total": 2.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Lettuce - Iceberg",
+                    "price_total": 1.79,
+                    "count": 1.0,
+                    "price_per_count": 1.79
+                },
+                {
+                    "name": "Kroger Fresh Selections Shredded Iceberg Lettuce",
+                    "price_total": 1.89,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Romaine Lettuce",
+                    "price_total": 1.79,
+                    "count": 1.0,
+                    "price_per_count": 1.79
+                },
+                {
+                    "name": "Green Leaf Lettuce",
+                    "price_total": 1.79,
+                    "count": 1.0,
+                    "price_per_count": 1.79
+                },
+                {
+                    "name": "Kroger Fresh Selections Iceberg Lettuce, Carrots & Red Cabbage Classic Garden",
+                    "price_total": 2.49,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.1
+                }
+            ],
+            "shredded cheese": [
+                {
+                    "name": "Kraft Mexican Style Four Cheese Blend Shredded Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Kraft Sharp Cheddar Finely Shredded Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Sargento\u00ae Shredded Four State Natural Cheddar Cheese",
+                    "price_total": 4.49,
+                    "weight_g": 212.6,
+                    "weight_oz": 7.5,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kraft Mozzarella Shredded Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Sargento Off The Block 4 Cheese Mexican Fine Cut Shredded Cheese",
+                    "price_total": 4.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Kraft Colby Jack Finely Shredded Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Kroger Mexican Style Blend Finely Shredded Cheese",
+                    "price_total": 2.29,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Kroger Sharp Cheddar Shredded Cheese",
+                    "price_total": 2.29,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Kroger Cheddar Jack Finely Shredded Cheese",
+                    "price_total": 2.29,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Kroger Mexican Style Finely Shredded Cheese",
+                    "price_total": 3.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Kroger Shredded Cheddar Jack Cheese",
+                    "price_total": 6.99,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.77,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Kraft Mexican Style Four Cheese Blend Shredded Cheese",
+                    "price_total": 3.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Sargento\u00ae Off The Block Fine Cut Shredded Sharp Cheddar Cheese",
+                    "price_total": 4.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Sargento\u00ae Shredded Mild Natural Cheddar Cheese",
+                    "price_total": 4.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                }
+            ],
+            "cilantro": [],
+            "limes": [
+                {
+                    "name": "Limes - Large",
+                    "price_total": 0.69,
+                    "count": 1.0,
+                    "price_per_count": 0.69
+                }
+            ]
+        }
+    },
+    {
+        "name": "Big Lots",
+        "items": {
+            "tortillas": [
+                {
+                    "name": "Tostitos Tortilla Chips, Original, Restaurant Style, Party Size!",
+                    "price_total": 4.89,
+                    "weight_g": 481.9,
+                    "weight_oz": 17.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Tortillas Nuevo Leon 8\" Medium Flour Burritos Tortillas",
+                    "price_total": 1.09,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Santitas Tortilla Chips",
+                    "price_total": 2.59,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Doritos Spicy Nacho Tortilla Chips",
+                    "price_total": 3.69,
+                    "weight_g": 262.2,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Bear Creek Country Kitchens Tortilla Soup Mix",
+                    "price_total": 4.39,
+                    "weight_g": 249.5,
+                    "weight_oz": 8.8,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Doritos Cool Ranch Tortilla Chips",
+                    "price_total": 3.69,
+                    "weight_g": 262.2,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "El Sabroso Tortilla Rounds, Spicy Salsa Flavored, Salsitas",
+                    "price_total": 2.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.82,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Taco Bell Soft Taco Dinner Kit with Ten Soft Tortillas, Mild Sauce & Seasoning",
+                    "price_total": 2.79,
+                    "weight_g": 413.9,
+                    "weight_oz": 14.6,
+                    "price_per_100g": 0.67,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Herr's Tortilla Chips, Restaurant Style",
+                    "price_total": 2.19,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Tostitos Original Restaurant Style Tortilla Chips",
+                    "price_total": 4.09,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.2,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Tostitos Bite Size Rounds Tortilla Chips",
+                    "price_total": 4.09,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.2,
+                    "price_per_oz": 0.34
+                }
+            ],
+            "ground beef": [],
+            "tomatoes": [
+                {
+                    "name": "Heinz Tomato Ketchup",
+                    "price_total": 3.29,
+                    "weight_g": 1077.3,
+                    "weight_oz": 38.0,
+                    "price_per_100g": 0.31,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Fresh Finds Whole Peeled Tomatoes In Tomato Juice",
+                    "price_total": 1.09,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.14,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Campbell's Tomato Condensed Soup",
+                    "price_total": 1.09,
+                    "weight_g": 405.4,
+                    "weight_oz": 14.3,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Ro-Tel Diced Tomatoes Original Diced Tomatoes And Green Chilies",
+                    "price_total": 1.09,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Hunt's Tomato Sauce",
+                    "price_total": 1.09,
+                    "weight_g": 425.2,
+                    "weight_oz": 15.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Ro-Tel Mild Diced Tomatoes",
+                    "price_total": 1.09,
+                    "weight_g": 283.5,
+                    "weight_oz": 10.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Rag\u00fa Chunky Tomato, Garlic & Onion Pasta Sauce",
+                    "price_total": 3.69,
+                    "weight_g": 1275.7,
+                    "weight_oz": 45.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Fresh Finds Crushed Tomatoes",
+                    "price_total": 1.09,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.14,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Hunt's Diced Tomatoes",
+                    "price_total": 1.09,
+                    "weight_g": 411.1,
+                    "weight_oz": 14.5,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Hunt's Tomato Ketchup",
+                    "price_total": 1.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                }
+            ],
+            "lettuce": [],
+            "shredded cheese": [],
+            "cilantro": [],
+            "limes": [
+                {
+                    "name": "LimonChef Lime Juice",
+                    "price_total": 0.69,
+                    "weight_g": 100.0,
+                    "weight_oz": 3.5,
+                    "price_per_100g": 0.69,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Beanitos Bean Chips, Hint of Lime",
+                    "price_total": 2.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 1.46,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Sprite Lemon Lime Soda Soft Drinks",
+                    "price_total": 3.89,
+                    "weight_g": 1275.7,
+                    "weight_oz": 45.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Sprite Lemon-Lime Fridge Pack Soda",
+                    "price_total": 6.99,
+                    "weight_g": 4258.5,
+                    "weight_oz": 150.2,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Takis Fuego Hot Chili Pepper & Lime Rolled Tortilla Chips",
+                    "price_total": 3.09,
+                    "weight_g": 280.7,
+                    "weight_oz": 9.9,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "7UP Lemon Lime Soda",
+                    "price_total": 1.89,
+                    "weight_g": 2000.0,
+                    "weight_oz": 70.5,
+                    "price_per_100g": 0.09,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "7UP Lemon Lime Soda",
+                    "price_total": 4.79,
+                    "weight_g": 2998.7,
+                    "weight_oz": 105.8,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Sprite Lemon Lime Soda Soft Drink",
+                    "price_total": 2.49,
+                    "weight_g": 2000.0,
+                    "weight_oz": 70.5,
+                    "price_per_100g": 0.12,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Sprite Lemon-Lime",
+                    "price_total": 4.79,
+                    "weight_g": 2998.7,
+                    "weight_oz": 105.8,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "Gatorade Lemon-Lime Thirst Quencher",
+                    "price_total": 1.49,
+                    "weight_g": 946.3,
+                    "weight_oz": 33.4,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "7UP Lemon Lime Soda",
+                    "price_total": 6.99,
+                    "weight_g": 4258.5,
+                    "weight_oz": 150.2,
+                    "price_per_100g": 0.16,
+                    "price_per_oz": 0.05
+                }
+            ]
+        }
+    }
+]
