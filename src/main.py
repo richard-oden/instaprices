@@ -12,8 +12,13 @@ def main():
 
     menu_helper.export_stores_menu(stores)
     
-    analysis_options = menu_helper.analysis_menu()
-    analysis_helper.build_chart(stores, shopping_list, analysis_options)
+    while True:
+        analysis_options = menu_helper.analysis_menu()
+        analysis_helper.build_chart(stores, shopping_list, analysis_options)
+        if not menu_helper.retry_analysis_menu():
+            break
+
+    print('Goodbye!')
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,1355 @@
+[
+    {
+        "name": "Big Lots",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 6.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 4.39,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.82,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Fresh Finds Creamy Peanut Butter",
+                    "price_total": 2.19,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.43,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 6.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.79,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 4.39,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Fresh Finds Creamy Peanut Butter",
+                    "price_total": 4.79,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.82,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "SlimFast Keto Peanut Butter Cup Fat Bomb Snack",
+                    "price_total": 10.99,
+                    "weight_g": 17.0,
+                    "weight_oz": 0.6,
+                    "price_per_100g": 64.61,
+                    "price_per_oz": 18.32
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.79,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Fresh Finds Peanut Butter Powder",
+                    "price_total": 10.99,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 1.29,
+                    "price_per_oz": 0.37
+                }
+            ],
+            "grape jelly": [
+                {
+                    "name": "Welch's Concord Grape Jelly",
+                    "price_total": 2.59,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Welch's Concord Grape Jelly",
+                    "price_total": 2.59,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                }
+            ],
+            "white bread": []
+        }
+    },
+    {
+        "name": "Save A Lot",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Nutsome Creamy Peanut Butter",
+                    "price_total": 2.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.48,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Nutsome Creamy Peanut Butter 40 oz",
+                    "price_total": 5.19,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Nutsome Crunchy Peanut Butter",
+                    "price_total": 2.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Reese's Peanut Butter Eggs, Milk Chocolate & Peanut Butter, Snack Size",
+                    "price_total": 3.65,
+                    "weight_g": 272.2,
+                    "weight_oz": 9.6,
+                    "price_per_100g": 1.34,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Mrs. Freshley's Peanut Butter Buddy Bars",
+                    "price_total": 1.29,
+                    "weight_g": 204.1,
+                    "weight_oz": 7.2,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Smucker's Uncrustables Peanut Butter & Grape Jelly Sandwich",
+                    "price_total": 4.19,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.85,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Cap'N Crunch Peanut Butter Crunch Sweetened Corn & Oat Cereal",
+                    "price_total": 2.19,
+                    "weight_g": 368.5,
+                    "weight_oz": 13.0,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                }
+            ],
+            "grape jelly": [
+                {
+                    "name": "Bramley's Concord Grape Jelly",
+                    "price_total": 2.19,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Smucker's Uncrustables Peanut Butter & Grape Jelly Sandwich",
+                    "price_total": 4.19,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.85,
+                    "price_per_oz": 0.52
+                }
+            ],
+            "white bread": [
+                {
+                    "name": "Grissom's White Bread",
+                    "price_total": 1.55,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Oven Fresh White Enriched Bread",
+                    "price_total": 1.29,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.23,
+                    "price_per_oz": 0.06
+                }
+            ]
+        }
+    },
+    {
+        "name": "Total Wine & More",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Skrewball Peanut Butter Whiskey Whiskey, Peanut Butter",
+                    "price_total": 16.49,
+                    "weight_g": 375.0,
+                    "weight_oz": 13.2,
+                    "price_per_100g": 4.4,
+                    "price_per_oz": 1.25
+                },
+                {
+                    "name": "Skatter Brain Peanut Butter Whiskey",
+                    "price_total": 16.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 2.27,
+                    "price_per_oz": 0.64
+                },
+                {
+                    "name": "Left Hand Brewing Beer, Milk Stout, Peanut Butter",
+                    "price_total": 13.49,
+                    "weight_g": 354.9,
+                    "weight_oz": 12.5,
+                    "price_per_100g": 3.8,
+                    "price_per_oz": 1.08
+                },
+                {
+                    "name": "Left Hand Brewing Beer, Milk Stout, Peanut Butter",
+                    "price_total": 13.99,
+                    "weight_g": 2129.3,
+                    "weight_oz": 75.1,
+                    "price_per_100g": 0.66,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Skatterbrain Peanut Butter Whiskey",
+                    "price_total": 0.99,
+                    "weight_g": 50.0,
+                    "weight_oz": 1.8,
+                    "price_per_100g": 1.98,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Sheelin Peanut Butter Country Cream Liqueur",
+                    "price_total": 9.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 1.33,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Skrewball Peanut Butter Whiskey Whiskey, Peanut Butter",
+                    "price_total": 3.99,
+                    "weight_g": 50.0,
+                    "weight_oz": 1.8,
+                    "price_per_100g": 7.98,
+                    "price_per_oz": 2.26
+                },
+                {
+                    "name": "Skatterbrain Peanut Butter Cream Liquor",
+                    "price_total": 14.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 2.0,
+                    "price_per_oz": 0.57
+                },
+                {
+                    "name": "Skrewball Peanut Butter Whiskey Whiskey, Peanut Butter",
+                    "price_total": 27.49,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 3.67,
+                    "price_per_oz": 1.04
+                },
+                {
+                    "name": "Bird Dog Whiskey Bird Dog Peanut Butter Flavored Whiskey",
+                    "price_total": 17.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 2.4,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "DUCLAW BREWING Porter Chocolate Peanut Butter",
+                    "price_total": 11.99,
+                    "weight_g": 2129.3,
+                    "weight_oz": 75.1,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Ole Smoky Whiskey, Peanut Butter, Tennessee",
+                    "price_total": 23.49,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 3.13,
+                    "price_per_oz": 0.89
+                },
+                {
+                    "name": "Sheep Dog Peanut Butter Whiskey",
+                    "price_total": 19.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 2.67,
+                    "price_per_oz": 0.76
+                },
+                {
+                    "name": "SQRRL Peanut Butter Whiskey",
+                    "price_total": 19.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 2.67,
+                    "price_per_oz": 0.76
+                }
+            ],
+            "grape jelly": [],
+            "white bread": []
+        }
+    },
+    {
+        "name": "Best Buy",
+        "items": {
+            "peanut butter": [],
+            "grape jelly": [],
+            "white bread": []
+        }
+    },
+    {
+        "name": "Bed Bath & Beyond",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Reese's Peanut Butter Eggs, Milk Chocolate & Peanut Butter, King Size, 2 Pack",
+                    "price_total": 2.59,
+                    "weight_g": 68.0,
+                    "weight_oz": 2.4,
+                    "price_per_100g": 3.81,
+                    "price_per_oz": 1.08
+                }
+            ],
+            "grape jelly": [],
+            "white bread": []
+        }
+    },
+    {
+        "name": "Target",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 13.69,
+                    "weight_g": 2267.9,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.6,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.29,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.29,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Justin's Classic Peanut Butter Spread",
+                    "price_total": 5.89,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.3,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Perfect Bar Protein Bar, Dark Chocolate Chip Peanut Butter with Sea Salt",
+                    "price_total": 2.99,
+                    "weight_g": 65.2,
+                    "weight_oz": 2.3,
+                    "price_per_100g": 4.59,
+                    "price_per_oz": 1.3
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 7.09,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                }
+            ],
+            "grape jelly": [],
+            "white bread": [
+                {
+                    "name": "Wonder Bread Classic White Bread",
+                    "price_total": 3.09,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Nature's Own Thick Sliced White Bread",
+                    "price_total": 3.59,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Mrs. Baird's Mrs. Baird's Sandwich White Bread",
+                    "price_total": 2.59,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Wonder Bread Classic White Bread",
+                    "price_total": 3.09,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Mrs. Baird's Large White Bread",
+                    "price_total": 2.99,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Home Pride Butter Top White Bread",
+                    "price_total": 3.59,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Grandma Sycamore's Home-Maid Bread White Bread",
+                    "price_total": 3.49,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.15
+                }
+            ]
+        }
+    },
+    {
+        "name": "ALDI",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 4.39,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Peanut Delight Creamy Peanut Butter",
+                    "price_total": 1.75,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Peanut Delight Creamy Peanut Butter",
+                    "price_total": 3.75,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.33,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Peanut Delight Natural Creamy Peanut Butter",
+                    "price_total": 1.75,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.39,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Simply Nature Organic Creamy Peanut Butter",
+                    "price_total": 4.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.95,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Peanut Delight Crunchy Peanut Butter",
+                    "price_total": 1.75,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 4.39,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Perfect Bar Protein Bar, Dark Chocolate Chip Peanut Butter with Sea Salt",
+                    "price_total": 2.09,
+                    "weight_g": 65.2,
+                    "weight_oz": 2.3,
+                    "price_per_100g": 3.21,
+                    "price_per_oz": 0.91
+                },
+                {
+                    "name": "Perfect Foods Peanut Butter Bar",
+                    "price_total": 2.09,
+                    "weight_g": 70.9,
+                    "weight_oz": 2.5,
+                    "price_per_100g": 2.95,
+                    "price_per_oz": 0.84
+                },
+                {
+                    "name": "Baker's Treat Peanut Butter Wafers",
+                    "price_total": 1.65,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.49,
+                    "price_per_oz": 0.14
+                }
+            ],
+            "grape jelly": [
+                {
+                    "name": "Berryhill Grape Jelly",
+                    "price_total": 1.89,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.22,
+                    "price_per_oz": 0.06
+                }
+            ],
+            "white bread": [
+                {
+                    "name": "L'oven Fresh White Bread",
+                    "price_total": 0.99,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.17,
+                    "price_per_oz": 0.05
+                },
+                {
+                    "name": "L'oven Fresh Whole Grain White Bread",
+                    "price_total": 1.45,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "liveGfree Wide Pan Gluten Free White Bread",
+                    "price_total": 6.39,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 1.13,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "L'oven Fresh Keto Friendly White Bread",
+                    "price_total": 4.75,
+                    "weight_g": 396.9,
+                    "weight_oz": 14.0,
+                    "price_per_100g": 1.2,
+                    "price_per_oz": 0.34
+                }
+            ]
+        }
+    },
+    {
+        "name": "Family Dollar",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 6.89,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.61,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Chestnut Hill Creamy Peanut Butter",
+                    "price_total": 2.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 6.89,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.61,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Chestnut Hill Creamy Peanut Butter",
+                    "price_total": 5.19,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.09,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.68,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Mrs. Freshley's Peanut Butter Buddy Bars",
+                    "price_total": 1.49,
+                    "weight_g": 204.1,
+                    "weight_oz": 7.2,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Ritz Peanut Butter Sandwich Crackers",
+                    "price_total": 3.79,
+                    "count": 8.0,
+                    "price_per_count": 0.47
+                }
+            ],
+            "grape jelly": [
+                {
+                    "name": "Welch's Concord Grape Jelly",
+                    "price_total": 2.59,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Welch's Concord Grape Jelly",
+                    "price_total": 2.59,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.46,
+                    "price_per_oz": 0.13
+                }
+            ],
+            "white bread": [
+                {
+                    "name": "Wonder Bread Classic White Bread",
+                    "price_total": 3.79,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.67,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Oven Fresh White Enriched Bread",
+                    "price_total": 1.79,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Wonder Bread Classic White Bread",
+                    "price_total": 3.79,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.67,
+                    "price_per_oz": 0.19
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sam's Club",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 11.68,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.43,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 11.68,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.43,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "PBfit All-Natural Peanut Butter Powder",
+                    "price_total": 11.93,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 1.4,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Lance\u00ae Toasty Peanut Butter Sandwich Crackers",
+                    "price_total": 9.12,
+                    "weight_g": 1462.8,
+                    "weight_oz": 51.6,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Tastykake Peanut Butter Cakes",
+                    "price_total": 6.79,
+                    "weight_g": 454.0,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.5,
+                    "price_per_oz": 0.42
+                }
+            ],
+            "grape jelly": [
+                {
+                    "name": "Welch's Concord Grape Jelly",
+                    "price_total": 3.99,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Welch's Concord Grape Jelly",
+                    "price_total": 3.99,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                }
+            ],
+            "white bread": [
+                {
+                    "name": "Sara Lee Artesano White Bread",
+                    "price_total": 5.47,
+                    "count": 2.0,
+                    "price_per_count": 2.73
+                },
+                {
+                    "name": "Soft 'N Good Bread, Enriched White, Giant, Twin Pack",
+                    "price_total": 3.73,
+                    "count": 2.0,
+                    "price_per_count": 1.86
+                },
+                {
+                    "name": "Bunny Bread White Whole Grain Bread",
+                    "price_total": 4.47,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.39,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Aunt Millie's White Bread",
+                    "price_total": 8.34,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kroger",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "SKIPPY Creamy Peanut Butter",
+                    "price_total": 3.19,
+                    "weight_g": 462.1,
+                    "weight_oz": 16.3,
+                    "price_per_100g": 0.69,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 5.99,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 5.99,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.53,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 11.79,
+                    "weight_g": 2267.9,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.52,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 4.29,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Kroger Creamy Peanut Butter",
+                    "price_total": 1.5,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.33,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Kroger Creamy Peanut Butter, Peanut",
+                    "price_total": 2.39,
+                    "weight_g": 793.8,
+                    "weight_oz": 28.0,
+                    "price_per_100g": 0.3,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Kroger Creamy Peanut Butter",
+                    "price_total": 5.29,
+                    "weight_g": 1814.3,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Simple Truth Peanut Butter Spread, Creamy",
+                    "price_total": 4.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.95,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Kroger Crunchy Peanut Butter",
+                    "price_total": 1.5,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.33,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 2.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Perfect Bar Protein Bar, Dark Chocolate Chip Peanut Butter with Sea Salt",
+                    "price_total": 2.99,
+                    "weight_g": 65.2,
+                    "weight_oz": 2.3,
+                    "price_per_100g": 4.59,
+                    "price_per_oz": 1.3
+                },
+                {
+                    "name": "SKIPPY Creamy Peanut Butter Spread",
+                    "price_total": 3.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.7,
+                    "price_per_oz": 0.2
+                }
+            ],
+            "grape jelly": [],
+            "white bread": [
+                {
+                    "name": "Wonder Bread Classic White Bread",
+                    "price_total": 3.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Nature's Own Thick Sliced White Bread",
+                    "price_total": 3.99,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Sara Lee Classic White Bread",
+                    "price_total": 3.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Kroger White Enriched Bread",
+                    "price_total": 1.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Kroger White Sandwich Bread",
+                    "price_total": 1.49,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Private Selection Enriched Rustic White Sliced Wide Pan Bread",
+                    "price_total": 2.5,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Kroger Carbmaster Classic White Bread",
+                    "price_total": 5.29,
+                    "weight_g": 567.0,
+                    "weight_oz": 20.0,
+                    "price_per_100g": 0.93,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "Bunny Bread Original Soft-Twist White Enriched Bread",
+                    "price_total": 2.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.48,
+                    "price_per_oz": 0.14
+                }
+            ]
+        }
+    },
+    {
+        "name": "Costco",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "PBfit Organic Peanut Butter Powder, 30 oz",
+                    "price_total": 14.92,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 1.75,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Kirkland Signature Organic Peanut Butter, 2 x 28 oz",
+                    "price_total": 12.43,
+                    "weight_g": 1587.5,
+                    "weight_oz": 56.0,
+                    "price_per_100g": 0.78,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Jif Creamy Peanut Butter, 2 x 48 oz",
+                    "price_total": 11.47,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Jif Extra Crunchy Peanut Butter, 2 x 48 oz",
+                    "price_total": 11.47,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "PBfit Organic Peanut Butter Powder, 30 oz",
+                    "price_total": 14.92,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 1.75,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Peanut Butter & Grape Crustless Sandwich, 18 ct",
+                    "price_total": 13.67,
+                    "count": 18.0,
+                    "price_per_count": 0.76
+                },
+                {
+                    "name": "Hoody's Peanut Butter Chocolate Mix, 44 oz.",
+                    "price_total": 11.18,
+                    "weight_g": 1247.4,
+                    "weight_oz": 44.0,
+                    "price_per_100g": 0.9,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Kirkland Signature Peanut Butter Pretzels Nuggets, 55 oz",
+                    "price_total": 11.81,
+                    "weight_g": 1559.2,
+                    "weight_oz": 55.0,
+                    "price_per_100g": 0.76,
+                    "price_per_oz": 0.21
+                }
+            ],
+            "grape jelly": [],
+            "white bread": [
+                {
+                    "name": "Bunny Original White Bread, 2 x 20 oz",
+                    "price_total": 3.6,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Fresh Market",
+        "items": {
+            "peanut butter": [
+                {
+                    "name": "Peanut Butter & Co. Smooth Operator Natural Peanut Butter",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Justin's Classic Peanut Butter Spread",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Peanut Butter & Co. The Bee's Knees Peanut Butter Spread",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Peanut Butter & Co. Crunch Time Peanut Butter Spread",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Justin's Honey Peanut Butter Spread",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Nuts 'N More Toffee Crunch Peanut Butter",
+                    "price_total": 11.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.64,
+                    "price_per_oz": 0.75
+                },
+                {
+                    "name": "The Fresh Market Fresh Ground Dry Roasted Peanut Butter",
+                    "price_total": 4.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "The Fresh Market Fresh Ground Honey Roasted Peanut Butter",
+                    "price_total": 4.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "The Fresh Market Organic Dark Roast Peanut Butter",
+                    "price_total": 7.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.65,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "The Fresh Market Organic Original Roast Peanut Butter",
+                    "price_total": 7.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.65,
+                    "price_per_oz": 0.47
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Peanut Butter & Co. Smooth Operator Natural Peanut Butter",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Jif Peanut Butter",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Peanut Butter & Co. Dark Chocolatey Dreams Peanut Butter Spread",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Peanut Butter & Co. White Chocolatey Wonderful Peanut Butter Spread",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                }
+            ],
+            "grape jelly": [
+                {
+                    "name": "The Fresh Market Organic Grape Jelly",
+                    "price_total": 4.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                }
+            ],
+            "white bread": [
+                {
+                    "name": "Dave's Killer Bread White Bread Done Right Thin Sliced Organic Bread",
+                    "price_total": 5.79,
+                    "weight_g": 580.6,
+                    "weight_oz": 20.5,
+                    "price_per_100g": 1.0,
+                    "price_per_oz": 0.28
+                },
+                {
+                    "name": "Pepperidge Farm\u00ae Farmhouse Hearty White Bread",
+                    "price_total": 4.49,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.66,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Pepperidge Farm\u00ae White White Bread",
+                    "price_total": 3.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Pepperidge Farm\u00ae White Original White Bread",
+                    "price_total": 3.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Pepperidge Farm\u00ae Very Thin Enriched White Thin Sliced Bread",
+                    "price_total": 3.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                }
+            ]
+        }
+    }
+]

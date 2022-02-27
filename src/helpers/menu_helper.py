@@ -170,10 +170,17 @@ def analysis_menu():
     omit_incomplete_stores = print_menu('Omit stores that do not contain all items?', 
         [
             MenuOption('yes', lambda: True),
-            MenuOption('no', lambda: False),
+            MenuOption('no', lambda: False)
         ])
 
     if omit_incomplete_stores is None:
         return
     
     return AnalysisOptions(price_type, price_aggregate, omit_incomplete_stores)
+
+def retry_analysis_menu():
+    return print_menu('Retry analysis using different options?', 
+        [
+            MenuOption('yes', lambda: True),
+            MenuOption('no', lambda: False)
+        ])
