@@ -202,6 +202,7 @@ def get_stores(shopping_list):
     '''
     Returns a list of populated Store objects by searching each Instacart store's page for each item on the shopping list.
     '''
+    selenium_helper.start_driver()
     selenium_helper.navigate_to_stores()
     store_names = get_store_names()
     print(f'Found the following {len(store_names)} store(s): {store_names}')
