@@ -7,24 +7,41 @@ from models.AnalysisOptions import AnalysisOptions, PriceAggregate, PriceType
 from models.MenuOption import MenuOption
 
 def clear():
+    '''
+    Clears the console.
+    '''
     os.system('cls' if os.name=='nt' else 'clear')
 
 def try_int(string):
+    '''
+    Attempts to parse the supplied string to an int. Returns a tuple where the first value is the parsed int on 
+    a success, or None on a failure, and the second value is a bool, indicating whether or not the attempt was successful.
+    '''
     try:
         return int(string), True
     except ValueError:
         return None, False
 
 def parse_list(string):
+    '''
+    Parses the supplied comma-separated list string to a list object and returns the result.
+    '''
     return [s.strip() for s in string.split(',') if s.strip()]
 
 def try_list(string):
+    '''
+    Attempts to parse the supplied string to a list. Returns a tuple where the first value is the parsed list on 
+    a success, or None on a failure, and the second value is a bool, indicating whether or not the attempt was successful.
+    '''
     try:
         return parse_list(string), True
     except:
         return None, False
 
 def bordered(text):
+    '''
+    Returns the supplied text with an ASCII border.
+    '''
     lines = text.splitlines()
     width = max(len(s) for s in lines)
     result = [f'┌{"─" * width}┐']
@@ -36,6 +53,11 @@ def bordered(text):
     return '\n'.join(result)
 
 def input_loop(prompt, validator_fn, transform_fn = None):
+    '''
+    Prompts the user for input while the supplied validator function returns False, then returns the result.
+    If a transform function is provided, returns the result of the transform function when called with the user's
+    input as an argument.
+    '''
     valid_input = False
 
     while not valid_input:
@@ -47,12 +69,18 @@ def input_loop(prompt, validator_fn, transform_fn = None):
     return user_input if transform_fn is None else transform_fn(user_input)
 
 def valid_menu_choice(user_input, menu_options):
+    '''
+    Returns True if user_input is a valid menu choice given the list of MenuOptions. Otherwise returns False.
+    '''
     int_tuple = try_int(user_input)
     return (user_input == 'q' or 
         int_tuple[1] and -1 < int_tuple[0] < len(menu_options) and 
         (menu_options[int(user_input)].validator_fn is None or menu_options[int(user_input)].validator_fn()))
 
 def print_menu(prompt, menu_options):
+    '''
+    Prints a menu given the supplied prompt and menu_options arguments.
+    '''
     print(bordered('\n'.join([prompt, *[f'  [{menu_options.index(mu)}] {mu.desc}' for mu in menu_options]])))
     choice = input_loop(
         'Enter the number for your selection or "Q" to quit: ', 
@@ -67,7 +95,8 @@ def print_menu(prompt, menu_options):
 
 def main_menu():
     '''
-    The main menu for Instaprices. Returns a tuple containing the shopping list and a list of Store objects either by scraping data via Selenium or importing from a JSON file.
+    The main menu for Instaprices. Returns a tuple containing the shopping list and a list of Store objects 
+    either by scraping data via Selenium or importing from a JSON file.
     '''
     return print_menu('Scrape data using Selenium or import data from JSON?',
         [
@@ -76,6 +105,10 @@ def main_menu():
         ])
 
 def shopping_list_menu():
+    '''
+    Prompts the user to either input the shopping list in the console or import it from a text file.
+    Returns a list of strings representing the shopping list.
+    '''
     return print_menu('Enter shopping list manually or import from text file?',
         [
             MenuOption('Enter manually', input_shopping_list),
@@ -83,6 +116,9 @@ def shopping_list_menu():
         ])
 
 def import_shopping_list_menu():
+    '''
+    Prompts the user to select a text file from which to import the shopping list. Returns a list of strings representing the shopping list.
+    '''
     menu_options = list(map(
         lambda f: MenuOption(f, lambda: import_shopping_list(f), lambda: valid_shopping_list(io_helper.import_file(f))), 
         io_helper.get_import_txt_files()))
@@ -91,10 +127,16 @@ def import_shopping_list_menu():
         menu_options)
 
 def valid_shopping_list(user_input):
+    '''
+    Returns True if the supplied string is a valid shopping list. Otherwise returns False.
+    '''
     list_tuple = try_list(user_input.replace('\n', ''))
     return list_tuple[1] and len(list_tuple[0]) > 0
 
 def input_shopping_list():
+    '''
+    Prompts the user to input a shopping list. Returns a list of strings representing the shopping list.
+    '''
     return input_loop(
         'Enter a comma-separated shopping list (e.g., "peanut butter, eggs, organic bananas, potatoes"), or "Q" to quit.\n',
         valid_shopping_list,
@@ -102,14 +144,25 @@ def input_shopping_list():
     )
 
 def import_shopping_list(file_name):
+    '''
+    Returns the contents of the text file with the supplied name parsed to a list object.
+    '''
     return parse_list(io_helper.import_file(file_name))
 
 def get_shopping_list_and_stores():
+    '''
+    Prompts the user for a shopping list and starts scraping data using Selenium. 
+    Returns a tuple containing the shopping list and a list of Store objects.
+    '''
     shopping_list = shopping_list_menu()
     stores = instaprices_helper.get_stores(shopping_list)
     return shopping_list, stores
 
 def import_stores_menu():
+    '''
+    Prompts the user to import stores from a json file. Returns a tuple 
+    containing the shopping list and a list of Store objects. 
+    '''
     menu_options = list(map(
         lambda f: MenuOption(f, lambda: import_shopping_list_and_stores(f)), 
         io_helper.get_import_json_files()))
@@ -118,6 +171,10 @@ def import_stores_menu():
         menu_options)
 
 def import_shopping_list_and_stores(file_name):
+    '''
+    Reads the contents of the JSON file with the supplied name and returns a tuple 
+    containing a shopping list and a list of Store objects. 
+    '''
     stores = io_helper.deserialize_stores(io_helper.import_file(file_name))
     shopping_list = []
     
@@ -129,6 +186,10 @@ def import_shopping_list_and_stores(file_name):
     return shopping_list, stores
 
 def export_stores_menu(stores):
+    '''
+    Asks the user whether or not they would like to export the supplied list of Store objects. 
+    If the user selects Yes, exports the stores as a new JSON file.
+    '''
     return print_menu('Export stores before proceding to analysis?', 
         [
             MenuOption('Yes', lambda: export_stores(stores)),
@@ -136,6 +197,10 @@ def export_stores_menu(stores):
         ])
 
 def export_stores(stores):
+    '''
+    Prompts the user for a file name, then exports the supplied list of Store objects
+    as a new JSON file.
+    '''
     file_name = input_loop('Enter a file name: ', 
         lambda user_input: not re.match('[\/\\?%*:|"<>]', user_input),
         lambda user_input: user_input + '.json')
@@ -148,6 +213,9 @@ def export_stores(stores):
     print('Failed to export stores.')
     
 def analysis_menu():
+    '''
+    Prompts the user for analysis options. Returns an AnalysisOptions object.
+    '''
     price_type = print_menu('Compare items by unit price or total price? Note that items which are counted, such as eggs, may be compared by count if a unit price is selected.', 
         [
             MenuOption('unit price (per oz)', lambda: PriceType.PER_OZ),
@@ -180,8 +248,12 @@ def analysis_menu():
     return AnalysisOptions(price_type, price_aggregate, omit_incomplete_stores)
 
 def retry_analysis_menu():
+    '''
+    Asks the user whether or not they would like to run the analysis again. 
+    Returns True if the user selects Yes, or False if the user selects No.
+    '''
     return print_menu('Retry analysis using different options?', 
         [
-            MenuOption('yes', lambda: True),
-            MenuOption('no', lambda: False)
+            MenuOption('Yes', lambda: True),
+            MenuOption('No', lambda: False)
         ])
