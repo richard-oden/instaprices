@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 from helpers import instaprices_helper, io_helper
 from models.AnalysisOptions import AnalysisOptions, PriceAggregate, PriceType
 
@@ -59,7 +60,7 @@ def print_menu(prompt, menu_options):
     )
 
     if choice == 'q':
-        return
+        sys.exit()
     
     clear()
     return menu_options[int(choice)].fn()
