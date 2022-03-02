@@ -12,17 +12,17 @@ def get_import_json_files():
 
 def import_file(file_name):
     try:
-        with open(f'import/{file_name}', 'r') as file:
+        with open(os.path.join('import', file_name), 'r') as file:
             return file.read()
-    except:
+    except FileNotFoundError:
         return
 
 def export_file(file_name, contents):
     try:
-        with open(f'export/{file_name}', 'w') as file:
+        with open(os.path.join('export', file_name), 'w') as file:
             file.write(contents)
         return True
-    except:
+    except FileNotFoundError:
         return False
 
 def parse_item(item_dict):
