@@ -1,0 +1,2176 @@
+[
+    {
+        "name": "Straub's Fine Grocers",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Grimes Organic Strawberry",
+                    "price_total": 14.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 3.3,
+                    "price_per_oz": 0.94
+                },
+                {
+                    "name": "Grimes Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Strawberries Package",
+                    "price_total": 9.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 2.2,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Strawberries",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "California Giant Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Driscoll's Organic Strawberries",
+                    "price_total": 14.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 3.3,
+                    "price_per_oz": 0.94
+                },
+                {
+                    "name": "Strawberries",
+                    "price_total": 6.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Driscoll's Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Organic Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Parksdale Farms Strawberries",
+                    "price_total": 14.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 3.3,
+                    "price_per_oz": 0.94
+                },
+                {
+                    "name": "Fresh Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Driscoll's Berry Big Strawberries",
+                    "price_total": 8.99,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "California Giant Strawberries",
+                    "price_total": 3.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "California Giant Organic Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Fresh Organic Strawberry",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                },
+                {
+                    "name": "Grimes Strawberries",
+                    "price_total": 5.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.37
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Smooth Style",
+                    "price_total": 3.39,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "FAGE Milkfat Greek Strained Yogurt with Peach",
+                    "price_total": 1.99,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Yoplait Yogurt, Fat Free, Black Cherry, Greek 100 Protein",
+                    "price_total": 1.29,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "FAGE Greek Strained Yogurt with Blueberry",
+                    "price_total": 1.99,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Yoplait Yogurt, Fat Free, Vanilla",
+                    "price_total": 1.29,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Greek Gods Honey Vanilla Greek Style Yogurt",
+                    "price_total": 4.69,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.69,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Chobani Strawberry on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Original",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Smooth Style",
+                    "price_total": 3.39,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.37,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Chobani Peach on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Yoplait Original Yogurt, Harvest Peach, Low Fat Yogurt",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry Banana",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "FAGE Milkfat Greek Strained Yogurt with Mixed Berries",
+                    "price_total": 1.99,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Clio Snacks Strawberry Greek Yogurt Bar",
+                    "price_total": 1.79,
+                    "weight_g": 49.9,
+                    "weight_oz": 1.8,
+                    "price_per_100g": 3.59,
+                    "price_per_oz": 1.02
+                },
+                {
+                    "name": "Chobani Blueberry on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Chobani Yogurt, Greek, Low-Fat, Mixed Berry, Blended",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Cherry Orchard",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Yoplait Yogurt, Fat Free, Boston Cream Pie",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Mountain Blueberry",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Yoplait Yogurt Mousse, Low Fat, Strawberry Mist",
+                    "price_total": 1.09,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 0.96,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Chobani Yogurt, Greek, Lemon & Cream, Blended",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Clio Snacks Blueberry Greek Yogurt Bar",
+                    "price_total": 1.79,
+                    "weight_g": 49.9,
+                    "weight_oz": 1.8,
+                    "price_per_100g": 3.59,
+                    "price_per_oz": 1.02
+                },
+                {
+                    "name": "Clio Snacks Vanilla Greek Yogurt Bar",
+                    "price_total": 1.79,
+                    "weight_g": 49.9,
+                    "weight_oz": 1.8,
+                    "price_per_100g": 3.59,
+                    "price_per_oz": 1.02
+                },
+                {
+                    "name": "Clio Snacks Peanut Butter Greek Yogurt Bar",
+                    "price_total": 1.79,
+                    "weight_g": 49.9,
+                    "weight_oz": 1.8,
+                    "price_per_100g": 3.59,
+                    "price_per_oz": 1.02
+                },
+                {
+                    "name": "Yoplait Yogurt Mousse, Low Fat, Orange Creme",
+                    "price_total": 1.09,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 0.96,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Oui by Yoplait French Style Yogurt, Strawberry, Gluten Free",
+                    "price_total": 1.49,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Chobani Black Cherry on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Chobani Yogurt, Greek, Coffee & Cream, Blended",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Oui Yogurt, Peach, French Style",
+                    "price_total": 1.49,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Oui by Yoplait French Style Yogurt, Black Cherry, Gluten Free",
+                    "price_total": 1.49,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Purely Elizabeth Ancient Grain Granola, Original",
+                    "price_total": 9.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.7,
+                    "price_per_oz": 0.77
+                },
+                {
+                    "name": "Nature\u2019s Path Dark Chocolate & Red Berries Granola",
+                    "price_total": 5.99,
+                    "weight_g": 326.0,
+                    "weight_oz": 11.5,
+                    "price_per_100g": 1.84,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Purely Elizabeth Ancient Grain Granola, Blueberry Hemp",
+                    "price_total": 9.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.7,
+                    "price_per_oz": 0.77
+                },
+                {
+                    "name": "Nature Valley Crunchy Granola Bar, Oats 'N Honey, 12 Count",
+                    "price_total": 4.49,
+                    "weight_g": 253.4,
+                    "weight_oz": 8.9,
+                    "price_per_100g": 1.77,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Banner Road Baking Company Bye Bye Blues Granola",
+                    "price_total": 9.99,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 3.2,
+                    "price_per_oz": 0.91
+                },
+                {
+                    "name": "Lil Bucks Chocolate Reishi Clusterbucks Sprouted Buckwheat Granola Clusters",
+                    "price_total": 8.99,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 5.29,
+                    "price_per_oz": 1.5
+                },
+                {
+                    "name": "Nature Valley Granola Bars, Sweet and Salty Nut, Cashew, 6 Count",
+                    "price_total": 4.49,
+                    "weight_g": 204.1,
+                    "weight_oz": 7.2,
+                    "price_per_100g": 2.2,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Banner Road Baking Company The Original Granola",
+                    "price_total": 9.99,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 3.2,
+                    "price_per_oz": 0.91
+                },
+                {
+                    "name": "Nature Valley Granola Bars, Almond, Chewy, Sweet & Salty Nut",
+                    "price_total": 4.49,
+                    "weight_g": 34.0,
+                    "weight_oz": 1.2,
+                    "price_per_100g": 13.21,
+                    "price_per_oz": 3.74
+                }
+            ]
+        }
+    },
+    {
+        "name": "Save A Lot",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Fresh Strawberry",
+                    "price_total": 4.39,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "World's Fair Strawberry Shortcake",
+                    "price_total": 3.19,
+                    "count": 6.0,
+                    "price_per_count": 0.53
+                },
+                {
+                    "name": "Ginger Evans Strawberry Muffin Mix",
+                    "price_total": 1.09,
+                    "weight_g": 198.4,
+                    "weight_oz": 7.0,
+                    "price_per_100g": 0.55,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Kiggins Strawberry Toaster Tarts",
+                    "price_total": 2.55,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 0.41,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Coburn Farms Strawberry Banana Watermelon Yogurt Tube",
+                    "price_total": 2.55,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Tipton Grove Strawberry Kiwi Cocktail",
+                    "price_total": 2.09,
+                    "weight_g": 1892.7,
+                    "weight_oz": 66.8,
+                    "price_per_100g": 0.11,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "Pillsbury Toaster Pastries, Strawberry",
+                    "price_total": 2.55,
+                    "count": 6.0,
+                    "price_per_count": 0.42
+                },
+                {
+                    "name": "Helados Mexico Ice Cream Bars, Premium, Strawberry",
+                    "price_total": 4.09,
+                    "count": 6.0,
+                    "price_per_count": 0.68
+                },
+                {
+                    "name": "Kiggins Strawberry Cereal Bars",
+                    "price_total": 1.89,
+                    "count": 8.0,
+                    "price_per_count": 0.24
+                },
+                {
+                    "name": "Coburn Farms Strawberry Low Fat Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Pickwell Farms Strawberry Appesauce",
+                    "price_total": 2.39,
+                    "weight_g": 360.0,
+                    "weight_oz": 12.7,
+                    "price_per_100g": 0.66,
+                    "price_per_oz": 0.19
+                },
+                {
+                    "name": "Go-Gurt Yogurt, Low Fat, Strawberry",
+                    "price_total": 2.19,
+                    "weight_g": 56.7,
+                    "weight_oz": 2.0,
+                    "price_per_100g": 3.86,
+                    "price_per_oz": 1.09
+                },
+                {
+                    "name": "Little Debbie Strawberry Shortcake Rolls",
+                    "price_total": 2.85,
+                    "count": 6.0,
+                    "price_per_count": 0.48
+                },
+                {
+                    "name": "Coburn Farms Lowfat Strawberry/Banana Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Danimals Strawberry Explosion Smoothies",
+                    "price_total": 3.85,
+                    "weight_g": 550.1,
+                    "weight_oz": 19.4,
+                    "price_per_100g": 0.7,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Nestle Nesquik Strawberry Powder Drink Mix",
+                    "price_total": 3.29,
+                    "weight_g": 399.7,
+                    "weight_oz": 14.1,
+                    "price_per_100g": 0.82,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Danimals Swingin' Strawberry Banana Smoothies",
+                    "price_total": 3.85,
+                    "weight_g": 91.7,
+                    "weight_oz": 3.2,
+                    "price_per_100g": 4.2,
+                    "price_per_oz": 1.19
+                },
+                {
+                    "name": "Activia Low Fat Probiotic Strawberry Yogurt",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Coburn Farms Lowfat Strawberry/Banana Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Coburn Farms Strawberry Low Fat Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Coburn Farms Lowfat Peach Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Coburn Farms Cherry Light Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Coburn Farms Strawberry/Blueberry Yogurt Tube",
+                    "price_total": 2.55,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Original",
+                    "price_total": 0.55,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Coburn Farms Vanilla Greek Nonfat Yogurt",
+                    "price_total": 4.59,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Go-Gurt Yogurt, Low Fat, Strawberry",
+                    "price_total": 2.19,
+                    "weight_g": 56.7,
+                    "weight_oz": 2.0,
+                    "price_per_100g": 3.86,
+                    "price_per_oz": 1.09
+                },
+                {
+                    "name": "Coburn Farms Cottoncandy/Melonberry Yogurt Tube",
+                    "price_total": 2.55,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "YoCrunch Vanilla Lowfat Yogurt with Twix Pieces",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "YoCrunch Vanilla Lowfat Yogurt with Snickers Pieces",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "YoCrunch Vanilla Lowfat Yogurt with M&M's",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "YoCrunch Cookies n Cream Lowfat Yogurt with Oreo Cookie Pieces",
+                    "price_total": 1.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.64,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Coburn Farms Greek Blueberry Yogurt",
+                    "price_total": 0.89,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Coburn Farms Greek Strawberry Yogurt",
+                    "price_total": 0.89,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Coburn Farms Greek Peach Yogurt",
+                    "price_total": 0.89,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Coburn Farms Strawberry Light Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Coburn Farms Lowfat Plain Yogurt",
+                    "price_total": 2.55,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.28,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Activia Low Fat Probiotic Strawberry Yogurt",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Coburn Farms Strawberry Banana Watermelon Yogurt Tube",
+                    "price_total": 2.55,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.56,
+                    "price_per_oz": 0.16
+                },
+                {
+                    "name": "LALA Wild Strawberry Yogurt Smoothie with Probiotics",
+                    "price_total": 4.19,
+                    "weight_g": 828.0,
+                    "weight_oz": 29.2,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "LALA Tropical Mango Yogurt Smoothie with Probiotics",
+                    "price_total": 4.19,
+                    "weight_g": 828.0,
+                    "weight_oz": 29.2,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Coburn Farms Vanilla Light Yogurt",
+                    "price_total": 0.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.29,
+                    "price_per_oz": 0.08
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Kiggins Oats & Honey Granola Bars",
+                    "price_total": 2.09,
+                    "count": 12.0,
+                    "price_per_count": 0.17
+                },
+                {
+                    "name": "Kiggins Variety Pack Crunchy Granola Bar",
+                    "price_total": 2.19,
+                    "count": 12.0,
+                    "price_per_count": 0.18
+                },
+                {
+                    "name": "Kiggins Chewy Granola Variety Pack",
+                    "price_total": 1.65,
+                    "count": 6.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Quaker Chewy Chocolate Chip Granola Bars",
+                    "price_total": 2.55,
+                    "weight_g": 190.5,
+                    "weight_oz": 6.7,
+                    "price_per_100g": 1.34,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Chewy Protein Granola Bars",
+                    "price_total": 2.39,
+                    "weight_g": 201.3,
+                    "weight_oz": 7.1,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Nature Valley Crunchy Granola Bars, Variety Pack, 24 Count",
+                    "price_total": 4.95,
+                    "weight_g": 506.9,
+                    "weight_oz": 17.9,
+                    "price_per_100g": 0.98,
+                    "price_per_oz": 0.28
+                }
+            ]
+        }
+    },
+    {
+        "name": "Schnucks",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Dole Sliced Frozen Strawberries",
+                    "price_total": 6.09,
+                    "weight_g": 396.9,
+                    "weight_oz": 14.0,
+                    "price_per_100g": 1.53,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Strawberries",
+                    "price_total": 4.59,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.01,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Strawberries Package",
+                    "price_total": 6.99,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.77,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Central Florida Fruit Sales Organic Strawberries",
+                    "price_total": 8.39,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.85,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Schnucks Sliced Strawberry Small Bowl",
+                    "price_total": 11.99,
+                    "weight_g": 748.4,
+                    "weight_oz": 26.4,
+                    "price_per_100g": 1.6,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Schnucks Strawberry Snack",
+                    "price_total": 4.19,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 1.85,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Dole Strawberries, Peaches & Bananas",
+                    "price_total": 4.39,
+                    "weight_g": 396.9,
+                    "weight_oz": 14.0,
+                    "price_per_100g": 1.11,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Dole Sliced Strawberries & Bananas",
+                    "price_total": 12.49,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 5.51,
+                    "price_per_oz": 1.56
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Smooth Style",
+                    "price_total": 2.89,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Vanilla, Original, Smooth Style",
+                    "price_total": 2.89,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Oikos Blended Vanilla Bean Greek Nonfat Yogurt",
+                    "price_total": 3.5,
+                    "weight_g": 601.0,
+                    "weight_oz": 21.2,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Oikos Blended Blueberry Greek Nonfat Yogurt",
+                    "price_total": 1.24,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Silk Greek Style Vanilla Coconut Milk Yogurt Alternative",
+                    "price_total": 2.09,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.39,
+                    "price_per_oz": 0.39
+                },
+                {
+                    "name": "Oikos Blended Strawberry Greek Nonfat Yogurt",
+                    "price_total": 1.24,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.23
+                },
+                {
+                    "name": "Schnucks Vanilla Yogurt",
+                    "price_total": 3.19,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Schnucks Strawberry Banana Yogurt",
+                    "price_total": 0.46,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Schnucks Peach Yogurt",
+                    "price_total": 0.46,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Schnucks Vanilla Yogurt",
+                    "price_total": 0.46,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Schnucks Light Cherry Yogurt",
+                    "price_total": 0.46,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.27,
+                    "price_per_oz": 0.08
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Original",
+                    "price_total": 0.59,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry Banana",
+                    "price_total": 0.59,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt",
+                    "price_total": 5.79,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.85,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Oikos Blended Blueberry Greek Nonfat Yogurt",
+                    "price_total": 3.5,
+                    "weight_g": 601.0,
+                    "weight_oz": 21.2,
+                    "price_per_100g": 0.58,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Oikos Blended Vanilla Bean Greek Nonfat Yogurt",
+                    "price_total": 1.24,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.23
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Honey Bunches of Oats French Vanilla Almond Granola",
+                    "price_total": 4.39,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Culinaria Premium Oats & Honey Granola",
+                    "price_total": 3.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.03,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Schnucks Classic Granola",
+                    "price_total": 2.49,
+                    "weight_g": 396.9,
+                    "weight_oz": 14.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Full Circle Organic Vanilla Almond Granola Cereal",
+                    "price_total": 4.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.41,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Schnucks Chocolate Granola",
+                    "price_total": 2.49,
+                    "weight_g": 396.9,
+                    "weight_oz": 14.0,
+                    "price_per_100g": 0.63,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Culinaria Premium Blueberry Flax Granola",
+                    "price_total": 3.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.03,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Nature Valley Granola, Protein, Oats & Honey",
+                    "price_total": 3.0,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 0.96,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Bear Naked Fit Granola Cereal, Vegan, Vanilla Almond",
+                    "price_total": 5.39,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.58,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Nature Valley Granola, Protein, Oats & Dark Chocolate",
+                    "price_total": 3.0,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 0.96,
+                    "price_per_oz": 0.27
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sam's Club",
+        "items": {
+            "strawberries": [],
+            "yogurt": [
+                {
+                    "name": "Clio Snacks Greek Yogurt Bars, Strawberry & Vanilla",
+                    "price_total": 11.56,
+                    "weight_g": 598.7,
+                    "weight_oz": 21.1,
+                    "price_per_100g": 1.93,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Strawberry Banana, Value Pack",
+                    "price_total": 9.54,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 8.41,
+                    "price_per_oz": 2.38
+                },
+                {
+                    "name": "Member's Mark Plain Nonfat Greek Yogurt",
+                    "price_total": 4.76,
+                    "weight_g": 1134.0,
+                    "weight_oz": 40.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Oikos Triple Zero Variety Pack Greek Yogurt",
+                    "price_total": 14.66,
+                    "weight_g": 2704.5,
+                    "weight_oz": 95.4,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "YoCrunch Vanilla Yogurt with M&M's & Cookies n Cream Lowfat with Oreo",
+                    "price_total": 11.57,
+                    "weight_g": 3061.7,
+                    "weight_oz": 108.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Chobani Fruit On The Bottom Low-Fat 2% Greek Yogurt Variety Pack",
+                    "price_total": 14.32,
+                    "count": 16.0,
+                    "price_per_count": 0.9
+                },
+                {
+                    "name": "Activia Strawberry, Black Cherry & Peach Probiotic Lowfat Yogurt",
+                    "price_total": 10.73,
+                    "weight_g": 2721.5,
+                    "weight_oz": 96.0,
+                    "price_per_100g": 0.39,
+                    "price_per_oz": 0.11
+                },
+                {
+                    "name": "Go-Gurt Yogurt, Low Fat, Wall Crawler Strawberry/Spidey Sense Berry",
+                    "price_total": 8.34,
+                    "weight_g": 56.7,
+                    "weight_oz": 2.0,
+                    "price_per_100g": 14.71,
+                    "price_per_oz": 4.17
+                },
+                {
+                    "name": "Danimals Lowfat Yogurt Smoothies Strawberry Explosion & Swinging Strawberry Banana",
+                    "price_total": 11.93,
+                    "weight_g": 3300.3,
+                    "weight_oz": 116.4,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Chobani Variety Pack Fruit on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 14.32,
+                    "count": 16.0,
+                    "price_per_count": 0.9
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Member's Mark Honey Almond Granola",
+                    "price_total": 4.76,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.52,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Member's Mark Honey Vanilla Almond Soft Baked Clusters Drizzled Granola",
+                    "price_total": 9.54,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 1.4,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Member's Mark Apple Cinnamon Raisin Soft Baked Clusters Drizzled Granola",
+                    "price_total": 5.87,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "NuTrail Birthday Cake Keto Nut Granola",
+                    "price_total": 15.27,
+                    "weight_g": 623.7,
+                    "weight_oz": 22.0,
+                    "price_per_100g": 2.45,
+                    "price_per_oz": 0.69
+                },
+                {
+                    "name": "Quaker Camp Chewy Granola Bars Variety Pack",
+                    "price_total": 10.13,
+                    "count": 60.0,
+                    "price_per_count": 0.17
+                },
+                {
+                    "name": "Nature Valley Crunchy Granola Bars, Oats 'n Honey, 98 Count",
+                    "price_total": 16.23,
+                    "weight_g": 2069.8,
+                    "weight_oz": 73.0,
+                    "price_per_100g": 0.78,
+                    "price_per_oz": 0.22
+                }
+            ]
+        }
+    },
+    {
+        "name": "ALDI",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Simply Nature Orgnaic Strawberries",
+                    "price_total": 6.15,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.9,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "Strawberries, Package",
+                    "price_total": 2.19,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.48,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Season's Choice Frozen Strawberries",
+                    "price_total": 3.45,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Organic Strawberries Package",
+                    "price_total": 4.39,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Friendly Farms Strawberry Lowfat Probiotic Yogurt",
+                    "price_total": 2.05,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 1.81,
+                    "price_per_oz": 0.51
+                },
+                {
+                    "name": "Friendly Farms Lowfat Blueberry Yogurt",
+                    "price_total": 0.45,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Friendly Farms Lowfat Strawberry Yogurt",
+                    "price_total": 0.45,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Friendly Farms Lowfat Peach Yogurt",
+                    "price_total": 0.45,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Friendly Farms Lowfat Strawberry Banana Yogurt",
+                    "price_total": 0.45,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Friendly Farms Lowfat Raspberry Yogurt",
+                    "price_total": 0.45,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Simply Nature Organic Whole Milk Vanilla Yogurt",
+                    "price_total": 3.25,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Friendly Farms Moo Tubes Strawberry and Blueberry Yogurt",
+                    "price_total": 1.75,
+                    "weight_g": 56.7,
+                    "weight_oz": 2.0,
+                    "price_per_100g": 3.09,
+                    "price_per_oz": 0.87
+                },
+                {
+                    "name": "Friendly Farms Lowfat Cherry Yogurt",
+                    "price_total": 0.45,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.26,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Friendly Farms Vanilla Nonfat Yogurt",
+                    "price_total": 2.09,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.23,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "YoCrunch Low Fat Vanilla with OREO and M&Ms Variety Pack Yogurt",
+                    "price_total": 6.05,
+                    "weight_g": 1360.8,
+                    "weight_oz": 48.0,
+                    "price_per_100g": 0.44,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Friendly Farms Nonfat Vanilla Blended Greek Yogurt",
+                    "price_total": 3.69,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.41,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Simply Nature Organic Whole Milk Plain Yogurt",
+                    "price_total": 3.25,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.36,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Specially Selected Honey Indulgent Greek Yogurt",
+                    "price_total": 4.29,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Friendly Farms Nonfat Raspberry on the Bottom Greek Yogurt",
+                    "price_total": 0.65,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.43,
+                    "price_per_oz": 0.12
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Millville Oats and Honey Protein Crunchy Granola",
+                    "price_total": 3.29,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Millville Oats and Dark Chocolate Protein Crunchy Granola",
+                    "price_total": 3.29,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Millville Oats & Honey Granola Crunch",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Simply Nature Dark Chocolate Sea Salt Super Food Granola",
+                    "price_total": 3.85,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.23,
+                    "price_per_oz": 0.35
+                },
+                {
+                    "name": "Millville Cinnamon Granola Crunch",
+                    "price_total": 3.29,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Simply Nature Coconut Cacao Super Food Granola",
+                    "price_total": 3.85,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.23,
+                    "price_per_oz": 0.35
+                },
+                {
+                    "name": "Millville Cranberry Almond Protein Crunchy Granola",
+                    "price_total": 3.29,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Simply Nature Gluten Free Apple Almond Honey Granola",
+                    "price_total": 3.85,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.13,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Simply Nature Gluten Free Raisin Almond Honey Granola",
+                    "price_total": 3.85,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.13,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Millville Crunchy Granola Raisin Bran Crunch",
+                    "price_total": 2.45,
+                    "weight_g": 516.0,
+                    "weight_oz": 18.2,
+                    "price_per_100g": 0.47,
+                    "price_per_oz": 0.13
+                },
+                {
+                    "name": "Millville Chocolate Chip Chewy Granola Bars",
+                    "price_total": 1.29,
+                    "count": 10.0,
+                    "price_per_count": 0.13
+                },
+                {
+                    "name": "Millville Variety Pack Chewy Granola Bars",
+                    "price_total": 1.29,
+                    "count": 10.0,
+                    "price_per_count": 0.13
+                }
+            ]
+        }
+    },
+    {
+        "name": "CVS Pharmacy\u00ae",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Gold Emblem Abound Strawberry Crisps",
+                    "price_total": 4.49,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 15.87,
+                    "price_per_oz": 4.5
+                },
+                {
+                    "name": "Revlon Balm, Fresh Strawberry 025, Broad Spectrum SPF 20",
+                    "price_total": 5.79,
+                    "weight_g": 2.6,
+                    "weight_oz": 0.1,
+                    "price_per_100g": 222.69,
+                    "price_per_oz": 63.13
+                },
+                {
+                    "name": "Kellogg's Pop-Tarts Toaster Pastries, Breakfast Foods, Baked in the USA, Frosted Strawberry",
+                    "price_total": 1.99,
+                    "weight_g": 1530.8,
+                    "weight_oz": 54.0,
+                    "price_per_100g": 0.13,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Laffy Taffy Strawberry, Blue Raspberry, Cherry, Sour Apple Candy",
+                    "price_total": 1.49,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 1.25,
+                    "price_per_oz": 0.35
+                },
+                {
+                    "name": "Gerber Strawberry Banana Fruit & Yogurt Toddler Food",
+                    "price_total": 2.19,
+                    "weight_g": 98.9,
+                    "weight_oz": 3.5,
+                    "price_per_100g": 2.21,
+                    "price_per_oz": 0.63
+                },
+                {
+                    "name": "Gerber Organic for Baby Pear Peach Strawberry Baby Food",
+                    "price_total": 2.19,
+                    "weight_g": 99.2,
+                    "weight_oz": 3.5,
+                    "price_per_100g": 2.21,
+                    "price_per_oz": 0.63
+                },
+                {
+                    "name": "Gerber Puffs Strawberry Apple Cereal Snacks",
+                    "price_total": 3.89,
+                    "weight_g": 42.0,
+                    "weight_oz": 1.5,
+                    "price_per_100g": 9.26,
+                    "price_per_oz": 2.63
+                },
+                {
+                    "name": "Kellogg's Pop-Tarts Toaster Pastries, Breakfast Foods, Baked in the USA, Frosted Strawberry",
+                    "price_total": 5.29,
+                    "weight_g": 3452.9,
+                    "weight_oz": 121.8,
+                    "price_per_100g": 0.15,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "Smartwater Strawberry Blackberry, Vapor Distilled Premium Bottled Water",
+                    "price_total": 2.89,
+                    "weight_g": 671.9,
+                    "weight_oz": 23.7,
+                    "price_per_100g": 0.43,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Kellogg's Pop-Tarts Baked Pastry Bites, Kids Snacks, Frosted Strawberry",
+                    "price_total": 5.19,
+                    "weight_g": 992.2,
+                    "weight_oz": 35.0,
+                    "price_per_100g": 0.52,
+                    "price_per_oz": 0.15
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Gerber Strawberry Yogurt Melts",
+                    "price_total": 4.59,
+                    "weight_g": 28.3,
+                    "weight_oz": 1.0,
+                    "price_per_100g": 16.22,
+                    "price_per_oz": 4.6
+                },
+                {
+                    "name": "Chobani Strawberry on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Chobani Blueberry on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Chobani Peach on the Bottom Non-Fat Greek Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Yoplait Original Yogurt, Harvest Peach, Low Fat Yogurt",
+                    "price_total": 1.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry, Original",
+                    "price_total": 1.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Strawberry Banana",
+                    "price_total": 1.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Chobani Yogurt Drink, Greek, Low-Fat, Strawberry Banana",
+                    "price_total": 2.29,
+                    "weight_g": 207.0,
+                    "weight_oz": 7.3,
+                    "price_per_100g": 1.11,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Yoplait Yogurt, Low Fat, Mountain Blueberry",
+                    "price_total": 1.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.88,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Chobani Yogurt, Greek, Low-Fat, Key Lime Crumble",
+                    "price_total": 1.99,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.32,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Earth's Best Organic Strawberry Banana Fruit Yogurt Smoothie 4.2 oz",
+                    "price_total": 2.09,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 1.75,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Yoplait Yogurt, Fat Free, Strawberry",
+                    "price_total": 1.29,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 0.76,
+                    "price_per_oz": 0.21
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Nature Valley Granola, Protein, Oats & Honey",
+                    "price_total": 5.99,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.92,
+                    "price_per_oz": 0.54
+                },
+                {
+                    "name": "Nature Valley Granola, Cinnamon, Crunchy",
+                    "price_total": 5.49,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.21,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Nature Valley Crunchy Granola Bar, Oats 'N Honey, 12 Count",
+                    "price_total": 4.49,
+                    "weight_g": 253.4,
+                    "weight_oz": 8.9,
+                    "price_per_100g": 1.77,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Bear Naked Go Bananas Go Nuts Soft-Baked Granola",
+                    "price_total": 5.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.61,
+                    "price_per_oz": 0.46
+                },
+                {
+                    "name": "Cascadian Farm Granola, Fruit and Nut",
+                    "price_total": 5.19,
+                    "weight_g": 382.7,
+                    "weight_oz": 13.5,
+                    "price_per_100g": 1.36,
+                    "price_per_oz": 0.38
+                }
+            ]
+        }
+    },
+    {
+        "name": "Treats Unleashed",
+        "items": {
+            "strawberries": [],
+            "yogurt": [],
+            "granola": []
+        }
+    },
+    {
+        "name": "Restaurant Depot",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "James Farm IQF WHOLE STRAWBERRIES",
+                    "price_total": 55.19,
+                    "weight_g": 4535.9,
+                    "weight_oz": 160.0,
+                    "price_per_100g": 1.22,
+                    "price_per_oz": 0.34
+                },
+                {
+                    "name": "Strawberries",
+                    "price_total": 3.99,
+                    "weight_g": 3628.7,
+                    "weight_oz": 128.0,
+                    "price_per_100g": 0.11,
+                    "price_per_oz": 0.03
+                },
+                {
+                    "name": "James Farm Strawberries In Syrup",
+                    "price_total": 12.59,
+                    "weight_g": 2948.3,
+                    "weight_oz": 104.0,
+                    "price_per_100g": 0.43,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Torani Syrup, Strawberry",
+                    "price_total": 7.99,
+                    "weight_g": 750.0,
+                    "weight_oz": 26.5,
+                    "price_per_100g": 1.07,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Individually Quick Frozen Sliced Strawberries",
+                    "price_total": 21.89,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "James Farm Lowfat Strawberry Yogurt",
+                    "price_total": 7.49,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.33,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Traditional Vanilla Greek Yogurt",
+                    "price_total": 11.79,
+                    "weight_g": 9071.8,
+                    "weight_oz": 320.0,
+                    "price_per_100g": 0.13,
+                    "price_per_oz": 0.04
+                },
+                {
+                    "name": "El Mexicano Pina Colada Drinkable Yogurt",
+                    "price_total": 16.09,
+                    "weight_g": 2484.1,
+                    "weight_oz": 87.6,
+                    "price_per_100g": 0.65,
+                    "price_per_oz": 0.18
+                },
+                {
+                    "name": "Kontos Yogurt Greek",
+                    "price_total": 37.69,
+                    "weight_g": 4989.5,
+                    "weight_oz": 176.0,
+                    "price_per_100g": 0.76,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Strawberry Yogurt",
+                    "price_total": 15.89,
+                    "weight_g": 198.4,
+                    "weight_oz": 7.0,
+                    "price_per_100g": 8.01,
+                    "price_per_oz": 2.27
+                },
+                {
+                    "name": "Kemps Unsweetened Yogurt Pail",
+                    "price_total": 54.19,
+                    "weight_g": 15875.7,
+                    "weight_oz": 560.0,
+                    "price_per_100g": 0.34,
+                    "price_per_oz": 0.1
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Nature Valley Crunchy Oats 'n Dark Chocolate Granola Bars, 18 Count",
+                    "price_total": 16.89,
+                    "weight_g": 759.8,
+                    "weight_oz": 26.8,
+                    "price_per_100g": 2.22,
+                    "price_per_oz": 0.63
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fresh Thyme Market",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Olipop Sparkling Tonic, Strawberry Vanilla",
+                    "price_total": 2.69,
+                    "weight_g": 354.9,
+                    "weight_oz": 12.5,
+                    "price_per_100g": 0.76,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Strawberries Package",
+                    "price_total": 2.69,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 0.59,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Strawberries",
+                    "price_total": 8.09,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.89,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Organic Strawberries",
+                    "price_total": 7.59,
+                    "count": 1.0,
+                    "price_per_count": 7.59
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt",
+                    "price_total": 5.39,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.79,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "FAGE Greek Strained Yogurt with Strawberry",
+                    "price_total": 1.39,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.93,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "Silk Peach Almond Milk Yogurt Alternative",
+                    "price_total": 1.89,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.26,
+                    "price_per_oz": 0.36
+                },
+                {
+                    "name": "Fresh Thyme 0% Fat Peach Greek Yogurt",
+                    "price_total": 1.09,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Fresh Thyme 0% Pomegranate Acai Greek Yogurt",
+                    "price_total": 1.09,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Fresh Thyme 0% Black Cherry Greek Yogurt",
+                    "price_total": 1.09,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Fresh Thyme 0% Blueberry Greek Yogurt",
+                    "price_total": 1.09,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.73,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Stonyfield Organic Plain Whole Milk Probiotic Yogurt",
+                    "price_total": 3.79,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Greek Gods Honey Vanilla Greek Style Yogurt",
+                    "price_total": 5.19,
+                    "weight_g": 680.4,
+                    "weight_oz": 24.0,
+                    "price_per_100g": 0.76,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Stonyfield Organic Vanilla Whole Milk Probiotic Yogurt",
+                    "price_total": 3.79,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "FAGE Greek Strained Yogurt with Strawberry",
+                    "price_total": 1.39,
+                    "weight_g": 150.0,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.93,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "FAGE Greek Strained Yogurt with Honey",
+                    "price_total": 1.39,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 0.93,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "Forager Project Organic Dairy-Free Vanilla Bean Cashewmilk Yogurt",
+                    "price_total": 1.79,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 1.19,
+                    "price_per_oz": 0.34
+                }
+            ],
+            "granola": [
+                {
+                    "name": "Bob's Red Mill Honey Oat Granola",
+                    "price_total": 5.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.53,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Bob's Red Mill Classic Granola",
+                    "price_total": 5.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.53,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Fresh Thyme French Vanilla Almond Granola",
+                    "price_total": 3.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.11,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Fresh Thyme Blueberry Granola",
+                    "price_total": 3.79,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.11,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Bob's Red Mill Honey Oat Granola",
+                    "price_total": 5.19,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.53,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Bear Naked Fit Granola Cereal, Vegan, Vanilla Almond",
+                    "price_total": 4.89,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.44,
+                    "price_per_oz": 0.41
+                },
+                {
+                    "name": "Nature\u2019s Path Dark Chocolate & Red Berries Granola",
+                    "price_total": 5.19,
+                    "weight_g": 326.0,
+                    "weight_oz": 11.5,
+                    "price_per_100g": 1.59,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Purely Elizabeth Ancient Grain Granola, Original",
+                    "price_total": 6.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.91,
+                    "price_per_oz": 0.54
+                },
+                {
+                    "name": "KIND Granola, Peanut Butter, Whole Grain Clusters",
+                    "price_total": 4.89,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 1.57,
+                    "price_per_oz": 0.44
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sunbasket",
+        "items": {
+            "strawberries": [],
+            "yogurt": [],
+            "granola": [
+                {
+                    "name": "Nana Joes Granola Sunrise Paleo Cranberry-Almond Gluten-Free Granola",
+                    "price_total": 9.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 4.4,
+                    "price_per_oz": 1.25
+                },
+                {
+                    "name": "Jamie's Farm New York Granola, Vanilla Bean With Sour Cherries",
+                    "price_total": 9.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 4.4,
+                    "price_per_oz": 1.25
+                }
+            ]
+        }
+    },
+    {
+        "name": "Petco",
+        "items": {
+            "strawberries": [
+                {
+                    "name": "Higgins Premium Pet Foods Strawberry Banana Freeze Dried Fruit For Conures, Parrots & Macaws",
+                    "price_total": 7.49,
+                    "weight_g": 14.2,
+                    "weight_oz": 0.5,
+                    "price_per_100g": 52.75,
+                    "price_per_oz": 14.95
+                },
+                {
+                    "name": "The Honest Kitchen COD & STRAWBERRIES Superfood COD CRISPS NATURAL TREATS FOR DOGS",
+                    "price_total": 12.99,
+                    "weight_g": 85.0,
+                    "weight_oz": 3.0,
+                    "price_per_100g": 15.28,
+                    "price_per_oz": 4.33
+                },
+                {
+                    "name": "Kaytee Food From The Wild Rose Hip, Strawberry, Carrot, Marigold, Timothy Hay Nature's Foraging Blend For All Guinea Pigs",
+                    "price_total": 16.99,
+                    "weight_g": 1841.6,
+                    "weight_oz": 65.0,
+                    "price_per_100g": 0.92,
+                    "price_per_oz": 0.26
+                },
+                {
+                    "name": "Kaytee Strawberry, Flax Seed Treat Stick With Superfoods For Guinea Pigs, Adult Pet Rabbits, Hamsters And Other Small Animals",
+                    "price_total": 6.99,
+                    "weight_g": 381.0,
+                    "weight_oz": 13.4,
+                    "price_per_100g": 1.83,
+                    "price_per_oz": 0.52
+                },
+                {
+                    "name": "Imagitarium Strawberry Red Aquarium Gravel",
+                    "price_total": 22.99,
+                    "weight_g": 9071.8,
+                    "weight_oz": 320.0,
+                    "price_per_100g": 0.25,
+                    "price_per_oz": 0.07
+                },
+                {
+                    "name": "Imagitarium Strawberry Red Aquarium Gravel",
+                    "price_total": 7.99,
+                    "weight_g": 2268.0,
+                    "weight_oz": 80.0,
+                    "price_per_100g": 0.35,
+                    "price_per_oz": 0.1
+                },
+                {
+                    "name": "Vitakraft with Strawberry Hamster Treat",
+                    "price_total": 5.99,
+                    "weight_g": 150.2,
+                    "weight_oz": 5.3,
+                    "price_per_100g": 3.99,
+                    "price_per_oz": 1.13
+                }
+            ],
+            "yogurt": [
+                {
+                    "name": "Kaytee Blueberry Flavored Yogurt Dipped Sunflower Seeds Treat for Pet Birds",
+                    "price_total": 5.99,
+                    "weight_g": 70.9,
+                    "weight_oz": 2.5,
+                    "price_per_100g": 8.45,
+                    "price_per_oz": 2.4
+                },
+                {
+                    "name": "Himalayan Dog Chews Peanut Butter Yogurt Sticks for Dogs",
+                    "price_total": 6.99,
+                    "weight_g": 136.1,
+                    "weight_oz": 4.8,
+                    "price_per_100g": 5.14,
+                    "price_per_oz": 1.46
+                },
+                {
+                    "name": "Blue Buffalo Health Bars Baked WIth Apple & Yogurt Natural Biscuits For Dogs",
+                    "price_total": 7.99,
+                    "weight_g": 453.6,
+                    "weight_oz": 16.0,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Blue Buffalo Health Bars Natural Crunchy Dog Treats Biscuits, Apple & Yogurt",
+                    "price_total": 24.99,
+                    "weight_g": 1587.5,
+                    "weight_oz": 56.0,
+                    "price_per_100g": 1.57,
+                    "price_per_oz": 0.45
+                }
+            ],
+            "granola": []
+        }
+    },
+    {
+        "name": "The Wine Shop",
+        "items": {
+            "strawberries": [],
+            "yogurt": [],
+            "granola": []
+        }
+    }
+]

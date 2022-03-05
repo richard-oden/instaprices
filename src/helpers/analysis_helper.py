@@ -105,7 +105,7 @@ def get_data(stores, shopping_list, analysis_options):
         data.append([store.name, *get_store_prices(store, shopping_list, analysis_options)])
 
     # sort data by price, low to high
-    data.sort(key=lambda d: sum([d[1], d[-1]]))
+    data.sort(key=lambda d: sum(d[1:]))
 
     return data
 
