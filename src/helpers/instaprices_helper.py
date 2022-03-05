@@ -207,4 +207,7 @@ def get_stores(shopping_list):
     store_names = get_store_names()
     print(f'Found the following {len(store_names)} store(s): {store_names}')
 
-    return list(filter(lambda s: s is not None, [get_store(sn, shopping_list) for sn in store_names]))
+    stores = list(filter(lambda s: s is not None, [get_store(sn, shopping_list) for sn in store_names]))
+    selenium_helper.driver.quit()
+
+    return stores

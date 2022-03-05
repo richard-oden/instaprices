@@ -40,6 +40,10 @@ def start_driver():
 
     # create WebDriver
     driver = webdriver.Chrome(service=_service, chrome_options=_chrome_options)
+
+    # maximize window
+    driver.maximize_window()
+
     _wait = WebDriverWait(driver, 5, ignored_exceptions=(NoSuchElementException,StaleElementReferenceException))
 
 def try_find_visible_element(by, value):
