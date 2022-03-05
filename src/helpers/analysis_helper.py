@@ -110,16 +110,26 @@ def get_data(stores, shopping_list, analysis_options):
     return data
 
 def get_chart_title(analysis_options):
+    '''
+    Returns a descriptive chart title given the AnalysisOptions instance.
+    '''
     price_type_str = analysis_options.price_type.name.replace('_', ' ').title()
     price_aggregate_str = analysis_options.price_aggregate.name.replace('_', ' ').title()
     return f'Instaprices Comparison of {price_aggregate_str} Price {price_type_str}'
 
 def render_chart(data, shopping_list, chart_title):
+    '''
+    Displays a stacked bar chart given the provided data, shopping list, and title.
+    '''
     data_frame = pd.DataFrame(data, columns=['Store', *shopping_list])
     data_frame.plot.bar(x='Store', ylabel='Price in Dollars ($)', stacked=True, title=chart_title, rot=30)
     plt.show()
 
 def build_chart(stores, shopping_list, analysis_options):
+    '''
+    Creates and displays a stacked bar chart comparing product prices for items in the shopping list
+    at the provided stores using the AnalysisOptions instance.
+    '''
     prep_items(stores, shopping_list)
     data = get_data(stores, shopping_list, analysis_options)
     chart_title = get_chart_title(analysis_options)
