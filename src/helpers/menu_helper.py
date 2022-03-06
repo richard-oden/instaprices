@@ -3,7 +3,6 @@ import re
 import sys
 from helpers import instaprices_helper, io_helper
 from models.AnalysisOptions import AnalysisOptions, PriceAggregate, PriceType
-
 from models.MenuOption import MenuOption
 
 def clear():

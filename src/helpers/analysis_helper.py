@@ -7,12 +7,6 @@ from models.AnalysisOptions import PriceAggregate
 from models.CountedItem import CountedItem
 from models.WeighedItem import WeighedItem
 
-PRICE_TYPES = {
-    PriceType.PER_100G: lambda i: i.price_per_100g,
-    PriceType.PER_OZ: lambda i: i.price_per_oz,
-    PriceType.TOTAL: lambda i: i.price_total,
-}
-
 def none_or_empty(sized):
     '''
     Returns True if a sized container is None or contains no items. Otherwise returns False.
