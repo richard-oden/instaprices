@@ -1,0 +1,1962 @@
+[
+    {
+        "name": "Total Wine & More",
+        "items": {
+            "bar soap": [],
+            "gallon freezer bag": [],
+            "steel wool": [],
+            "toothpaste": []
+        }
+    },
+    {
+        "name": "Kroger",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 3.99,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 9.99,
+                    "weight_g": 106.3,
+                    "weight_oz": 3.8,
+                    "price_per_100g": 9.4,
+                    "price_per_oz": 2.66
+                },
+                {
+                    "name": "Simple Truth Honey Almond Pure Castile Bar Soap",
+                    "price_total": 2.49,
+                    "weight_g": 127.6,
+                    "weight_oz": 4.5,
+                    "price_per_100g": 1.95,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 3.99,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Dial Antibacterial Bar Soap, Spring Water",
+                    "price_total": 5.99,
+                    "count": 32.0,
+                    "price_per_count": 0.19
+                },
+                {
+                    "name": "Irish Spring Men's Bar Soap, Original Clean",
+                    "price_total": 2.99,
+                    "weight_g": 318.9,
+                    "weight_oz": 11.2,
+                    "price_per_100g": 0.94,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 6.49,
+                    "weight_g": 106.3,
+                    "weight_oz": 3.8,
+                    "price_per_100g": 6.1,
+                    "price_per_oz": 1.73
+                }
+            ],
+            "gallon freezer bag": [],
+            "steel wool": [
+                {
+                    "name": "S.o.s. Reusable Soap Filled Steel Wool Pads",
+                    "price_total": 3.79,
+                    "count": 10.0,
+                    "price_per_count": 0.38
+                },
+                {
+                    "name": "S.o.s. S.O.S Steel Wool Soap Pads, Lemon Fresh",
+                    "price_total": 3.79,
+                    "count": 10.0,
+                    "price_per_count": 0.38
+                }
+            ],
+            "toothpaste": [
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 11.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 5.29,
+                    "price_per_oz": 1.5
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 5.49,
+                    "weight_g": 238.1,
+                    "weight_oz": 8.4,
+                    "price_per_100g": 2.31,
+                    "price_per_oz": 0.65
+                },
+                {
+                    "name": "Crest Toothpaste, Radiant Mint",
+                    "price_total": 5.99,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 4.23,
+                    "price_per_oz": 1.2
+                },
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 6.49,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 5.72,
+                    "price_per_oz": 1.62
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste",
+                    "price_total": 3.29,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 4.3,
+                    "price_per_oz": 1.22
+                },
+                {
+                    "name": "Crest Radiant Mint, Toothpaste",
+                    "price_total": 7.49,
+                    "weight_g": 215.5,
+                    "weight_oz": 7.6,
+                    "price_per_100g": 3.48,
+                    "price_per_oz": 0.99
+                },
+                {
+                    "name": "Kroger Radiant White Toothpaste",
+                    "price_total": 2.89,
+                    "weight_g": 136.1,
+                    "weight_oz": 4.8,
+                    "price_per_100g": 2.12,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kroger Fresh Mint Sensitive Extra Whitening Toothpaste",
+                    "price_total": 3.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 2.81,
+                    "price_per_oz": 0.8
+                },
+                {
+                    "name": "Simple Truth Anticavity & Whitening Peppermint Toothpaste",
+                    "price_total": 3.29,
+                    "weight_g": 155.9,
+                    "weight_oz": 5.5,
+                    "price_per_100g": 2.11,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Kroger Enamel Protection Gentle Whitening For Sensitive Teeth Toothpaste, Mint Breeze",
+                    "price_total": 3.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 2.81,
+                    "price_per_oz": 0.8
+                },
+                {
+                    "name": "Crest Plus Deep Clean Whitening Toothpaste, Effervescent Mint,",
+                    "price_total": 2.99,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 1.95,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Crest + Scope Outlast Complete Whitening Toothpaste, Mint",
+                    "price_total": 2.99,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 1.95,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Crest Radiant Mint, Toothpaste",
+                    "price_total": 7.49,
+                    "weight_g": 215.5,
+                    "weight_oz": 7.6,
+                    "price_per_100g": 3.48,
+                    "price_per_oz": 0.99
+                },
+                {
+                    "name": "Crest Scope Outlast Complete Whitening Toothpaste, Mint",
+                    "price_total": 5.99,
+                    "weight_g": 612.3,
+                    "weight_oz": 21.6,
+                    "price_per_100g": 0.98,
+                    "price_per_oz": 0.28
+                },
+                {
+                    "name": "Crest Arctic Fresh Toothpaste",
+                    "price_total": 4.29,
+                    "weight_g": 107.7,
+                    "weight_oz": 3.8,
+                    "price_per_100g": 3.98,
+                    "price_per_oz": 1.13
+                },
+                {
+                    "name": "Arm & Hammer Advanced White Extreme Whitening Toothpaste -Clean Mint - Fluoride Toothpaste",
+                    "price_total": 4.29,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 2.52,
+                    "price_per_oz": 0.71
+                },
+                {
+                    "name": "Crest Toothpaste, Radiant Mint",
+                    "price_total": 5.99,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 4.23,
+                    "price_per_oz": 1.2
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 1.79,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 1.5,
+                    "price_per_oz": 0.43
+                },
+                {
+                    "name": "Crest Arctic Fresh Toothpaste",
+                    "price_total": 4.29,
+                    "weight_g": 107.7,
+                    "weight_oz": 3.8,
+                    "price_per_100g": 3.98,
+                    "price_per_oz": 1.13
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 3.49,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 2.93,
+                    "price_per_oz": 0.83
+                },
+                {
+                    "name": "Sensodyne Extra Whitening Sensitivity Toothpaste, Extra Whitening Sensitivity Toothpaste",
+                    "price_total": 6.49,
+                    "weight_g": 118.3,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 5.49,
+                    "price_per_oz": 1.56
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste",
+                    "price_total": 3.29,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 4.3,
+                    "price_per_oz": 1.22
+                },
+                {
+                    "name": "Crest + Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 5.99,
+                    "weight_g": 306.2,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 1.96,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Crest 3D White Brilliance Vibrant Peppermint Whitening Toothpaste",
+                    "price_total": 7.99,
+                    "weight_g": 110.6,
+                    "weight_oz": 3.9,
+                    "price_per_100g": 7.23,
+                    "price_per_oz": 2.05
+                },
+                {
+                    "name": "Crest + Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 5.99,
+                    "weight_g": 306.2,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 1.96,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Arm & Hammer Peroxicare Toothpaste \u2013 Clean Mint- Fluoride Toothpaste",
+                    "price_total": 4.29,
+                    "weight_g": 177.4,
+                    "weight_oz": 6.3,
+                    "price_per_100g": 2.42,
+                    "price_per_oz": 0.69
+                },
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 6.49,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 5.72,
+                    "price_per_oz": 1.62
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gordon Food Service",
+        "items": {
+            "bar soap": [],
+            "gallon freezer bag": [],
+            "steel wool": [
+                {
+                    "name": "Array Steel Wool Soap Pads",
+                    "price_total": 4.99,
+                    "count": 10.0,
+                    "price_per_count": 0.5
+                }
+            ],
+            "toothpaste": []
+        }
+    },
+    {
+        "name": "Costco",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Dove White Bar Soap 3.75 oz, 16 Bars",
+                    "price_total": 19.89,
+                    "weight_g": 1814.3,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                },
+                {
+                    "name": "Dove Sensitive Bar Soap, 16 x 3.75 Oz",
+                    "price_total": 19.89,
+                    "weight_g": 1700.9,
+                    "weight_oz": 60.0,
+                    "price_per_100g": 1.17,
+                    "price_per_oz": 0.33
+                },
+                {
+                    "name": "Kirkland Signature Bar Soap Shea Butter, 15 ct, 4.5 oz",
+                    "price_total": 13.67,
+                    "weight_g": 1913.6,
+                    "weight_oz": 67.5,
+                    "price_per_100g": 0.71,
+                    "price_per_oz": 0.2
+                },
+                {
+                    "name": "Irish Spring Bar Soap, 4.5 oz, 20 count",
+                    "price_total": 13.05,
+                    "weight_g": 2551.4,
+                    "weight_oz": 90.0,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Dove Sensitive Bar Soap, 16 x 3.75 Oz",
+                    "price_total": 19.89,
+                    "weight_g": 1700.9,
+                    "weight_oz": 60.0,
+                    "price_per_100g": 1.17,
+                    "price_per_oz": 0.33
+                },
+                {
+                    "name": "Dove White Bar Soap 3.75 oz, 16 Bars",
+                    "price_total": 19.89,
+                    "weight_g": 1814.3,
+                    "weight_oz": 64.0,
+                    "price_per_100g": 1.1,
+                    "price_per_oz": 0.31
+                }
+            ],
+            "gallon freezer bag": [
+                {
+                    "name": "Ziploc Double Zipper Gallon Freezer Bags, 4 x 38 ct",
+                    "price_total": 18.65,
+                    "count": 4.0,
+                    "price_per_count": 4.66
+                }
+            ],
+            "steel wool": [],
+            "toothpaste": [
+                {
+                    "name": "Crest Complete Toothpaste, 5 Pack x 8.2 oz",
+                    "price_total": 17.4,
+                    "weight_g": 1162.3,
+                    "weight_oz": 41.0,
+                    "price_per_100g": 1.5,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Tom's of Maine, Antiplaque & Whitening Toothpaste, 5.7 oz, 4 pack",
+                    "price_total": 15.43,
+                    "weight_g": 646.4,
+                    "weight_oz": 22.8,
+                    "price_per_100g": 2.39,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Pronamel Gentle Whitening Toothpaste, 4/6.5 oz",
+                    "price_total": 30.47,
+                    "weight_g": 737.1,
+                    "weight_oz": 26.0,
+                    "price_per_100g": 4.13,
+                    "price_per_oz": 1.17
+                },
+                {
+                    "name": "Colgate Total SF Advanced Whitening Toothpaste, 5 x 6.4 oz",
+                    "price_total": 19.27,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 2.12,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Colgate Optic White Renew Toothpaste",
+                    "price_total": 14.89,
+                    "weight_g": 464.9,
+                    "weight_oz": 16.4,
+                    "price_per_100g": 3.2,
+                    "price_per_oz": 0.91
+                },
+                {
+                    "name": "Crest Complete Toothpaste, 5 Pack x 8.2 oz",
+                    "price_total": 17.4,
+                    "weight_g": 1162.3,
+                    "weight_oz": 41.0,
+                    "price_per_100g": 1.5,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Colgate Total SF Advanced Whitening Toothpaste, 5 x 6.4 oz",
+                    "price_total": 19.27,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 2.12,
+                    "price_per_oz": 0.6
+                },
+                {
+                    "name": "Sensodyne Advanced Whitening Toothpaste, 4-Pack",
+                    "price_total": 30.47,
+                    "count": 4.0,
+                    "price_per_count": 7.62
+                },
+                {
+                    "name": "Pronamel Gentle Whitening Toothpaste, 4/6.5 oz",
+                    "price_total": 30.47,
+                    "weight_g": 737.1,
+                    "weight_oz": 26.0,
+                    "price_per_100g": 4.13,
+                    "price_per_oz": 1.17
+                },
+                {
+                    "name": "Colgate Optic White Renew Toothpaste",
+                    "price_total": 14.89,
+                    "weight_g": 464.9,
+                    "weight_oz": 16.4,
+                    "price_per_100g": 3.2,
+                    "price_per_oz": 0.91
+                },
+                {
+                    "name": "Tom's of Maine, Antiplaque & Whitening Toothpaste, 5.7 oz, 4 pack",
+                    "price_total": 15.43,
+                    "weight_g": 646.4,
+                    "weight_oz": 22.8,
+                    "price_per_100g": 2.39,
+                    "price_per_oz": 0.68
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sephora",
+        "items": {
+            "bar soap": [],
+            "gallon freezer bag": [],
+            "steel wool": [],
+            "toothpaste": []
+        }
+    },
+    {
+        "name": "Save A Lot",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Ivory Bar Soap Original Scent",
+                    "price_total": 2.19,
+                    "weight_g": 87.9,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 2.49,
+                    "price_per_oz": 0.71
+                },
+                {
+                    "name": "Irish Spring Men's Bar Soap, Original Clean",
+                    "price_total": 2.65,
+                    "weight_g": 318.9,
+                    "weight_oz": 11.2,
+                    "price_per_100g": 0.83,
+                    "price_per_oz": 0.24
+                }
+            ],
+            "gallon freezer bag": [
+                {
+                    "name": "Gallon Size Zipper Freezer Bags",
+                    "price_total": 3.65,
+                    "count": 30.0,
+                    "price_per_count": 0.12
+                }
+            ],
+            "steel wool": [],
+            "toothpaste": [
+                {
+                    "name": "Crest , Whitening Toothpaste Radiant Mint",
+                    "price_total": 3.29,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 2.76,
+                    "price_per_oz": 0.78
+                },
+                {
+                    "name": "Colgate Toothpaste, Anticavity Fluoride, Baking Soda & Peroxide, Whitening, Gel, Frosty Mint Stripe",
+                    "price_total": 2.75,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 1.62,
+                    "price_per_oz": 0.46
+                },
+                {
+                    "name": "Crest , Whitening Toothpaste Radiant Mint",
+                    "price_total": 3.29,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 2.76,
+                    "price_per_oz": 0.78
+                }
+            ]
+        }
+    },
+    {
+        "name": "ALDI",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Source Moisturizing Beauty Bar Soap",
+                    "price_total": 2.75,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 2.43,
+                    "price_per_oz": 0.69
+                },
+                {
+                    "name": "Source Sensitive Beauty Bar Soap",
+                    "price_total": 2.75,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 2.43,
+                    "price_per_oz": 0.69
+                }
+            ],
+            "gallon freezer bag": [
+                {
+                    "name": "Boulder Gallon Freezer Bags",
+                    "price_total": 2.35,
+                    "weight_g": 113562.3,
+                    "weight_oz": 4005.9,
+                    "price_per_100g": 0.0,
+                    "price_per_oz": 0.0
+                }
+            ],
+            "steel wool": [],
+            "toothpaste": [
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste",
+                    "price_total": 2.97,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 3.88,
+                    "price_per_oz": 1.1
+                },
+                {
+                    "name": "Crest Toothpaste, Radiant Mint",
+                    "price_total": 5.35,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 3.77,
+                    "price_per_oz": 1.07
+                },
+                {
+                    "name": "Crest Toothpaste, Radiant Mint",
+                    "price_total": 5.35,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 3.77,
+                    "price_per_oz": 1.07
+                },
+                {
+                    "name": "Crest Arctic Fresh Toothpaste",
+                    "price_total": 2.97,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 3.88,
+                    "price_per_oz": 1.1
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste",
+                    "price_total": 2.97,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 3.88,
+                    "price_per_oz": 1.1
+                }
+            ]
+        }
+    },
+    {
+        "name": "CVS Pharmacy\u00ae",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 4.69,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 4.14,
+                    "price_per_oz": 1.17
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 10.29,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 9.07,
+                    "price_per_oz": 2.57
+                },
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, Spring Water",
+                    "price_total": 3.89,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.14,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, White",
+                    "price_total": 3.89,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.14,
+                    "price_per_oz": 0.32
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 4.69,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 4.14,
+                    "price_per_oz": 1.17
+                },
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, Mountain Fresh",
+                    "price_total": 3.89,
+                    "count": 3.0,
+                    "price_per_count": 1.3
+                },
+                {
+                    "name": "Irish Spring Men's Bar Soap, Original Clean",
+                    "price_total": 3.39,
+                    "weight_g": 318.9,
+                    "weight_oz": 11.2,
+                    "price_per_100g": 1.06,
+                    "price_per_oz": 0.3
+                }
+            ],
+            "gallon freezer bag": [],
+            "steel wool": [
+                {
+                    "name": "Total Home Steel Wool Soap Pads",
+                    "price_total": 3.69,
+                    "count": 10.0,
+                    "price_per_count": 0.37
+                }
+            ],
+            "toothpaste": [
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 13.99,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 6.17,
+                    "price_per_oz": 1.75
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste",
+                    "price_total": 3.89,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 5.08,
+                    "price_per_oz": 1.44
+                },
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 8.29,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 7.31,
+                    "price_per_oz": 2.07
+                },
+                {
+                    "name": "Crest , Whitening Toothpaste Radiant Mint",
+                    "price_total": 5.29,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 4.44,
+                    "price_per_oz": 1.26
+                },
+                {
+                    "name": "Colgate MaxFresh Whitening Toothpaste with Breath Strips, Cool Mint",
+                    "price_total": 4.19,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 2.46,
+                    "price_per_oz": 0.7
+                },
+                {
+                    "name": "Colgate MaxFresh Knockout Whitening Toothpaste with Fluoride, Mint Fusion",
+                    "price_total": 4.19,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 2.46,
+                    "price_per_oz": 0.7
+                },
+                {
+                    "name": "CVS Pharmacy Enamel Guard Daily Anti Cavity Toothpaste With Fluoride, Alpine Mint",
+                    "price_total": 5.79,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 5.11,
+                    "price_per_oz": 1.45
+                },
+                {
+                    "name": "CVS Pharmacy Enamel Guard Toothpaste For Sensitive Teeth",
+                    "price_total": 5.79,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 5.11,
+                    "price_per_oz": 1.45
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 5.59,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 4.69,
+                    "price_per_oz": 1.33
+                },
+                {
+                    "name": "Crest , Charcoal Whitening Toothpaste",
+                    "price_total": 5.29,
+                    "weight_g": 116.2,
+                    "weight_oz": 4.1,
+                    "price_per_100g": 4.55,
+                    "price_per_oz": 1.29
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 2.59,
+                    "weight_g": 161.6,
+                    "weight_oz": 5.7,
+                    "price_per_100g": 1.6,
+                    "price_per_oz": 0.45
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste, Value Pack",
+                    "price_total": 8.49,
+                    "weight_g": 311.8,
+                    "weight_oz": 11.0,
+                    "price_per_100g": 2.72,
+                    "price_per_oz": 0.77
+                },
+                {
+                    "name": "Parodontax Complete Gum Protection Toothpaste Mint, Complete Gum Protection Toothpaste Mint",
+                    "price_total": 8.49,
+                    "weight_g": 96.4,
+                    "weight_oz": 3.4,
+                    "price_per_100g": 8.81,
+                    "price_per_oz": 2.5
+                },
+                {
+                    "name": "Crest 3D White Brilliance Vibrant Peppermint Whitening Toothpaste",
+                    "price_total": 8.99,
+                    "weight_g": 110.6,
+                    "weight_oz": 3.9,
+                    "price_per_100g": 8.13,
+                    "price_per_oz": 2.31
+                },
+                {
+                    "name": "Crest Outlast Complete Whitening Toothpaste, Mint",
+                    "price_total": 4.19,
+                    "count": 1.0,
+                    "price_per_count": 4.19
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint, Toothpaste",
+                    "price_total": 1.69,
+                    "weight_g": 24.1,
+                    "weight_oz": 0.8,
+                    "price_per_100g": 7.01,
+                    "price_per_oz": 1.99
+                },
+                {
+                    "name": "Sensodyne Extra Whitening Sensitivity Toothpaste, Extra Whitening Sensitivity Toothpaste",
+                    "price_total": 8.29,
+                    "weight_g": 118.3,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 7.01,
+                    "price_per_oz": 1.99
+                },
+                {
+                    "name": "Crest 3D White Radiant Mint Whitening Toothpaste",
+                    "price_total": 3.89,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 5.08,
+                    "price_per_oz": 1.44
+                },
+                {
+                    "name": "Crest Enamel Repair & Gum Intense Clean Toothpaste",
+                    "price_total": 8.79,
+                    "weight_g": 116.2,
+                    "weight_oz": 4.1,
+                    "price_per_100g": 7.56,
+                    "price_per_oz": 2.14
+                },
+                {
+                    "name": "Colgate Toothpaste, Anticavity Fluoride, Sparkling White",
+                    "price_total": 1.59,
+                    "weight_g": 24.1,
+                    "weight_oz": 0.8,
+                    "price_per_100g": 6.6,
+                    "price_per_oz": 1.87
+                },
+                {
+                    "name": "Crest 3D White Brilliance Vibrant Peppermint Whitening Toothpaste",
+                    "price_total": 8.99,
+                    "weight_g": 110.6,
+                    "weight_oz": 3.9,
+                    "price_per_100g": 8.13,
+                    "price_per_oz": 2.31
+                },
+                {
+                    "name": "Colgate Total Deep Clean for Gums Toothpaste, Antigingivitis, Mint",
+                    "price_total": 4.29,
+                    "weight_g": 96.4,
+                    "weight_oz": 3.4,
+                    "price_per_100g": 4.45,
+                    "price_per_oz": 1.26
+                },
+                {
+                    "name": "Arm & Hammer Advanced White Extreme Whitening Toothpaste -Clean Mint - Fluoride Toothpaste",
+                    "price_total": 5.29,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.11,
+                    "price_per_oz": 0.88
+                },
+                {
+                    "name": "Colgate Total Deep Clean for Gums Toothpaste, Antigingivitis, Mint",
+                    "price_total": 8.69,
+                    "weight_g": 289.2,
+                    "weight_oz": 10.2,
+                    "price_per_100g": 3.01,
+                    "price_per_oz": 0.85
+                },
+                {
+                    "name": "Sensodyne Pronamel Intensive Repair Sensitivity Toothpaste, Intensive Repair Sensitivity Toothpaste",
+                    "price_total": 8.29,
+                    "weight_g": 96.4,
+                    "weight_oz": 3.4,
+                    "price_per_100g": 8.6,
+                    "price_per_oz": 2.44
+                },
+                {
+                    "name": "Colgate Optic White Advanced Teeth Whitening Toothpaste, Sparkling White",
+                    "price_total": 6.59,
+                    "weight_g": 99.2,
+                    "weight_oz": 3.5,
+                    "price_per_100g": 6.64,
+                    "price_per_oz": 1.88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Family Dollar",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Caress 2-In-1 Beauty Bar Soap Shea Butter And Brown Sugar",
+                    "price_total": 3.69,
+                    "weight_g": 89.3,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 4.13,
+                    "price_per_oz": 1.17
+                },
+                {
+                    "name": "Ivory Bar Soap Original Scent",
+                    "price_total": 2.49,
+                    "weight_g": 87.9,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 2.83,
+                    "price_per_oz": 0.8
+                },
+                {
+                    "name": "Ivory Bar Soap Original Scent",
+                    "price_total": 5.79,
+                    "weight_g": 8788.2,
+                    "weight_oz": 310.0,
+                    "price_per_100g": 0.07,
+                    "price_per_oz": 0.02
+                },
+                {
+                    "name": "Irish Spring Men's Bar Soap, Original Clean",
+                    "price_total": 3.19,
+                    "weight_g": 318.9,
+                    "weight_oz": 11.2,
+                    "price_per_100g": 1.0,
+                    "price_per_oz": 0.28
+                },
+                {
+                    "name": "Dial Skin Care Bar Soap, Power Berries",
+                    "price_total": 5.59,
+                    "count": 32.0,
+                    "price_per_count": 0.17
+                },
+                {
+                    "name": "Caress Beauty Bar Soap Brazilian Gardenia & Coconut Milk",
+                    "price_total": 3.69,
+                    "weight_g": 89.3,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 4.13,
+                    "price_per_oz": 1.17
+                },
+                {
+                    "name": "Irish Spring Original Soap Bar",
+                    "price_total": 6.29,
+                    "weight_g": 839.1,
+                    "weight_oz": 29.6,
+                    "price_per_100g": 0.75,
+                    "price_per_oz": 0.21
+                },
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, White",
+                    "price_total": 5.59,
+                    "weight_g": 907.2,
+                    "weight_oz": 32.0,
+                    "price_per_100g": 0.62,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Caress Beauty Bar Soap Daily Silk",
+                    "price_total": 6.89,
+                    "weight_g": 89.3,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 7.72,
+                    "price_per_oz": 2.19
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 7.99,
+                    "weight_g": 562.5,
+                    "weight_oz": 19.8,
+                    "price_per_100g": 1.42,
+                    "price_per_oz": 0.4
+                },
+                {
+                    "name": "Irish Spring Men's Bar Soap, Icy Blast",
+                    "price_total": 3.19,
+                    "weight_g": 850.5,
+                    "weight_oz": 30.0,
+                    "price_per_100g": 0.38,
+                    "price_per_oz": 0.11
+                }
+            ],
+            "gallon freezer bag": [
+                {
+                    "name": "Value Double-Zip Gallon Freezer Bags",
+                    "price_total": 1.19,
+                    "count": 10.0,
+                    "price_per_count": 0.12
+                },
+                {
+                    "name": "Hefty Freezer Gallon Slider Bags",
+                    "price_total": 4.89,
+                    "count": 18.0,
+                    "price_per_count": 0.27
+                },
+                {
+                    "name": "Glad Zipper Freezer Storage Plastic Bags, Gallon",
+                    "price_total": 3.99,
+                    "count": 22.0,
+                    "price_per_count": 0.18
+                },
+                {
+                    "name": "Glad Zipper Freezer Storage Plastic Bags, Gallon",
+                    "price_total": 3.99,
+                    "count": 30.0,
+                    "price_per_count": 0.13
+                }
+            ],
+            "steel wool": [
+                {
+                    "name": "Homeline Cuts Through Grease Steel Wool Soap Pads",
+                    "price_total": 1.19,
+                    "count": 10.0,
+                    "price_per_count": 0.12
+                }
+            ],
+            "toothpaste": [
+                {
+                    "name": "Crest + Scope Whitening Toothpaste, Minty Fresh",
+                    "price_total": 3.69,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 2.41,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 6.09,
+                    "weight_g": 238.1,
+                    "weight_oz": 8.4,
+                    "price_per_100g": 2.56,
+                    "price_per_oz": 0.72
+                },
+                {
+                    "name": "Colgate MaxFresh Knockout Whitening Toothpaste with Fluoride, Mint Fusion",
+                    "price_total": 3.69,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 2.17,
+                    "price_per_oz": 0.62
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 4.89,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.96,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Crest Scope Outlast Complete Whitening Toothpaste, Mint",
+                    "price_total": 6.09,
+                    "weight_g": 612.3,
+                    "weight_oz": 21.6,
+                    "price_per_100g": 0.99,
+                    "price_per_oz": 0.28
+                },
+                {
+                    "name": "Crest + Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 6.09,
+                    "weight_g": 306.2,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 1.99,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Crest + Scope Whitening Toothpaste, Minty Fresh",
+                    "price_total": 3.69,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 2.41,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Colgate Toothpaste, Anticavity Fluoride, Baking Soda, Mint Zing, Gel",
+                    "price_total": 1.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 2.09,
+                    "weight_g": 646.4,
+                    "weight_oz": 22.8,
+                    "price_per_100g": 0.32,
+                    "price_per_oz": 0.09
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 6.09,
+                    "weight_g": 1454.3,
+                    "weight_oz": 51.3,
+                    "price_per_100g": 0.42,
+                    "price_per_oz": 0.12
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 3.69,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 3.1,
+                    "price_per_oz": 0.88
+                },
+                {
+                    "name": "Colgate Ultra White Charcoal Toothpaste",
+                    "price_total": 1.49,
+                    "weight_g": 62.4,
+                    "weight_oz": 2.2,
+                    "price_per_100g": 2.39,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Whitening Baking Soda & Peroxide",
+                    "price_total": 1.19,
+                    "weight_g": 68.0,
+                    "weight_oz": 2.4,
+                    "price_per_100g": 1.75,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Arm & Hammer Complete Care Toothpaste, Fresh Mint Flavor, Whole Mouth Protection, Tube",
+                    "price_total": 4.59,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 2.7,
+                    "price_per_oz": 0.77
+                },
+                {
+                    "name": "Tom's of Maine Toothpaste, Natural, Fluoride-Free, Peppermint",
+                    "price_total": 6.09,
+                    "weight_g": 162.7,
+                    "weight_oz": 5.7,
+                    "price_per_100g": 3.74,
+                    "price_per_oz": 1.06
+                },
+                {
+                    "name": "Colgate MaxFresh Whitening Toothpaste with Breath Strips, Clean Mint",
+                    "price_total": 3.69,
+                    "weight_g": 177.4,
+                    "weight_oz": 6.3,
+                    "price_per_100g": 2.08,
+                    "price_per_oz": 0.59
+                },
+                {
+                    "name": "Colgate Toothpaste, Fluoride, Triple Action, Original Mint",
+                    "price_total": 1.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 1.05,
+                    "price_per_oz": 0.3
+                },
+                {
+                    "name": "Crest + Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 6.09,
+                    "weight_g": 306.2,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 1.99,
+                    "price_per_oz": 0.56
+                },
+                {
+                    "name": "Colgate Toothpaste, Anticavity Fluoride, Baking Soda & Peroxide, Whitening, Gel, Frosty Mint Stripe",
+                    "price_total": 2.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 1.46,
+                    "price_per_oz": 0.42
+                },
+                {
+                    "name": "Sensodyne Extra Whitening Toothpaste, Extra Whitening Toothpaste",
+                    "price_total": 5.79,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 7.56,
+                    "price_per_oz": 2.14
+                },
+                {
+                    "name": "Crest + Scope Outlast Complete Whitening Toothpaste, Mint",
+                    "price_total": 3.69,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 2.41,
+                    "price_per_oz": 0.68
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 4.89,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.96,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 2.49,
+                    "weight_g": 161.6,
+                    "weight_oz": 5.7,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Colgate Teeth Whitening Activated Charcoal Toothpaste, Fresh Mint",
+                    "price_total": 6.09,
+                    "weight_g": 130.4,
+                    "weight_oz": 4.6,
+                    "price_per_100g": 4.67,
+                    "price_per_oz": 1.32
+                },
+                {
+                    "name": "Colgate Sensitive Toothpaste for Teeth Whitening, Fresh Mint Gel",
+                    "price_total": 6.09,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.58,
+                    "price_per_oz": 1.02
+                },
+                {
+                    "name": "Colgate Total Whitening Toothpaste Gel with Fluoride, Multi-Protection",
+                    "price_total": 8.39,
+                    "weight_g": 272.2,
+                    "weight_oz": 9.6,
+                    "price_per_100g": 3.08,
+                    "price_per_oz": 0.87
+                },
+                {
+                    "name": "Crest Toothpaste, Fluoride Anticavity, Sparkle Fun",
+                    "price_total": 1.19,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 1.55,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Arm & Hammer Advance White Extreme Whitening Toothpaste,",
+                    "price_total": 4.59,
+                    "weight_g": 121.9,
+                    "weight_oz": 4.3,
+                    "price_per_100g": 3.77,
+                    "price_per_oz": 1.07
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Fresh Market",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 6.99,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 6.16,
+                    "price_per_oz": 1.75
+                },
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 6.99,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 6.16,
+                    "price_per_oz": 1.75
+                },
+                {
+                    "name": "Nubian Heritage Detoxifying Bar Soap African Black Soap",
+                    "price_total": 6.99,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 4.93,
+                    "price_per_oz": 1.4
+                }
+            ],
+            "gallon freezer bag": [],
+            "steel wool": [],
+            "toothpaste": [
+                {
+                    "name": "Tom's of Maine Toothpaste, Natural, Fluoride-Free, Peppermint",
+                    "price_total": 7.99,
+                    "weight_g": 162.7,
+                    "weight_oz": 5.7,
+                    "price_per_100g": 4.91,
+                    "price_per_oz": 1.39
+                },
+                {
+                    "name": "Sensodyne Extra Whitening Sensitivity Toothpaste, Extra Whitening Sensitivity Toothpaste",
+                    "price_total": 9.99,
+                    "weight_g": 118.3,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 8.45,
+                    "price_per_oz": 2.39
+                },
+                {
+                    "name": "Tom's of Maine Toothpaste, Natural, Fluoride-Free, Peppermint",
+                    "price_total": 7.99,
+                    "weight_g": 162.7,
+                    "weight_oz": 5.7,
+                    "price_per_100g": 4.91,
+                    "price_per_oz": 1.39
+                },
+                {
+                    "name": "My Magic Mud Toothpaste, Whitening, Activated Charcoal, Fluoride-Free, Peppermint",
+                    "price_total": 9.99,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 8.81,
+                    "price_per_oz": 2.5
+                }
+            ]
+        }
+    },
+    {
+        "name": "Meijer",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Dove Beauty Bar More Moisturizing Than Bar Soap Sensitive Skin",
+                    "price_total": 11.89,
+                    "weight_g": 106.3,
+                    "weight_oz": 3.8,
+                    "price_per_100g": 11.18,
+                    "price_per_oz": 3.17
+                },
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, Spring Water",
+                    "price_total": 1.49,
+                    "count": 2.0,
+                    "price_per_count": 0.74
+                },
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, Spring Water",
+                    "price_total": 1.49,
+                    "count": 2.0,
+                    "price_per_count": 0.74
+                },
+                {
+                    "name": "Dial Spring Water Antibacterial Deodorant Bar Soap",
+                    "price_total": 2.69,
+                    "count": 4.0,
+                    "price_per_count": 0.67
+                },
+                {
+                    "name": "Dial Gold Bar Soap",
+                    "price_total": 5.29,
+                    "count": 8.0,
+                    "price_per_count": 0.66
+                },
+                {
+                    "name": "Dove White Soap Bar",
+                    "price_total": 4.19,
+                    "count": 2.0,
+                    "price_per_count": 2.1
+                },
+                {
+                    "name": "Irish Spring Men's Bar Soap, Original Clean",
+                    "price_total": 4.79,
+                    "weight_g": 629.3,
+                    "weight_oz": 22.2,
+                    "price_per_100g": 0.76,
+                    "price_per_oz": 0.22
+                },
+                {
+                    "name": "Dr. Bronner's All-One Hemp Lavender Pure-Castile Bar Soap",
+                    "price_total": 4.09,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 2.89,
+                    "price_per_oz": 0.82
+                },
+                {
+                    "name": "Caress 2-In-1 Beauty Bar Soap Shea Butter And Brown Sugar",
+                    "price_total": 3.89,
+                    "weight_g": 89.3,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 4.36,
+                    "price_per_oz": 1.23
+                },
+                {
+                    "name": "Ivory Bar Soap Original Scent",
+                    "price_total": 5.39,
+                    "weight_g": 8788.2,
+                    "weight_oz": 310.0,
+                    "price_per_100g": 0.06,
+                    "price_per_oz": 0.02
+                },
+                {
+                    "name": "Dr. Bronner's Bar Soap, All-One Hemp Citrus",
+                    "price_total": 4.09,
+                    "weight_g": 141.7,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 2.89,
+                    "price_per_oz": 0.82
+                }
+            ],
+            "gallon freezer bag": [
+                {
+                    "name": "Meijer Re-Closable Double Zipper Gallon Freezer Bags",
+                    "price_total": 2.49,
+                    "count": 14.0,
+                    "price_per_count": 0.18
+                },
+                {
+                    "name": "Meijer Gallon Freezer Slider Bags",
+                    "price_total": 4.49,
+                    "count": 24.0,
+                    "price_per_count": 0.19
+                },
+                {
+                    "name": "Meijer 2-Gallon Jumbo Freezer Bags",
+                    "price_total": 3.99,
+                    "count": 10.0,
+                    "price_per_count": 0.4
+                },
+                {
+                    "name": "Ziploc Gallon Size Freezer Bags",
+                    "price_total": 4.49,
+                    "count": 60.0,
+                    "price_per_count": 0.07
+                },
+                {
+                    "name": "Ziploc Freezer Bags Gallon",
+                    "price_total": 14.89,
+                    "count": 80.0,
+                    "price_per_count": 0.19
+                },
+                {
+                    "name": "Ziploc Gallon Freezer Bags",
+                    "price_total": 7.39,
+                    "count": 28.0,
+                    "price_per_count": 0.26
+                },
+                {
+                    "name": "Meijer Gallon Re-Closable Double Zipper Freezer Bags",
+                    "price_total": 3.99,
+                    "count": 28.0,
+                    "price_per_count": 0.14
+                }
+            ],
+            "steel wool": [
+                {
+                    "name": "Meijer Lemon Steel Wool Soap Pads",
+                    "price_total": 1.29,
+                    "count": 10.0,
+                    "price_per_count": 0.13
+                },
+                {
+                    "name": "S.O.S. Steel Wool Soap Pads",
+                    "price_total": 2.89,
+                    "count": 10.0,
+                    "price_per_count": 0.29
+                },
+                {
+                    "name": "S.O.S. Regular Steel Wool Pads",
+                    "price_total": 4.19,
+                    "count": 18.0,
+                    "price_per_count": 0.23
+                }
+            ],
+            "toothpaste": [
+                {
+                    "name": "Crest Stain Eraser Toothpaste, Icy Clean Mint",
+                    "price_total": 3.49,
+                    "weight_g": 87.9,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 3.97,
+                    "price_per_oz": 1.13
+                },
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 13.19,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 5.82,
+                    "price_per_oz": 1.65
+                },
+                {
+                    "name": "Crest + Scope Whitening Toothpaste, Minty Fresh",
+                    "price_total": 3.39,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 2.21,
+                    "price_per_oz": 0.63
+                },
+                {
+                    "name": "Colgate Whitening Toothpaste, Baking Soda and Peroxide, Brisk Mint",
+                    "price_total": 4.79,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.94,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 3.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.03,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Crest Toothpaste, Radiant Mint",
+                    "price_total": 4.69,
+                    "weight_g": 136.1,
+                    "weight_oz": 4.8,
+                    "price_per_100g": 3.45,
+                    "price_per_oz": 0.98
+                },
+                {
+                    "name": "Meijer Alpine Mint Enamel Guard Daily Anti-cavity Fluoride Toothpaste For Sensitive Teeth",
+                    "price_total": 3.99,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Meijer Maximum Strength With Fluoride Sensitive Toothpaste, Fresh Mint",
+                    "price_total": 3.59,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 3.17,
+                    "price_per_oz": 0.9
+                },
+                {
+                    "name": "Meijer Restore And Defend Sensitive Whitening Toothpaste With Fluoride",
+                    "price_total": 5.69,
+                    "weight_g": 96.4,
+                    "weight_oz": 3.4,
+                    "price_per_100g": 5.9,
+                    "price_per_oz": 1.67
+                },
+                {
+                    "name": "Meijer Travel Toothbrush With Colgate Toothpaste Kit",
+                    "price_total": 1.69,
+                    "weight_g": 24.1,
+                    "weight_oz": 0.8,
+                    "price_per_100g": 7.01,
+                    "price_per_oz": 1.99
+                },
+                {
+                    "name": "Meijer Peanut Butter Tartar Control Toothpaste For Dogs",
+                    "price_total": 4.49,
+                    "weight_g": 70.9,
+                    "weight_oz": 2.5,
+                    "price_per_100g": 6.34,
+                    "price_per_oz": 1.8
+                },
+                {
+                    "name": "Crest + Scope Whitening Toothpaste, Minty Fresh",
+                    "price_total": 3.39,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 2.21,
+                    "price_per_oz": 0.63
+                },
+                {
+                    "name": "Arm & Hammer PeroxiCare Deep Clean Clean Mint Toothpaste",
+                    "price_total": 6.99,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 2.05,
+                    "price_per_oz": 0.58
+                },
+                {
+                    "name": "Sensodyne Pronamel Gentle Whitening Enamel Toothpaste",
+                    "price_total": 7.39,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 6.52,
+                    "price_per_oz": 1.85
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 4.79,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.94,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Crest Stain Eraser Toothpaste, Icy Clean Mint",
+                    "price_total": 3.49,
+                    "weight_g": 87.9,
+                    "weight_oz": 3.1,
+                    "price_per_100g": 3.97,
+                    "price_per_oz": 1.13
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 3.49,
+                    "weight_g": 646.4,
+                    "weight_oz": 22.8,
+                    "price_per_100g": 0.54,
+                    "price_per_oz": 0.15
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 3.49,
+                    "weight_g": 340.2,
+                    "weight_oz": 12.0,
+                    "price_per_100g": 1.03,
+                    "price_per_oz": 0.29
+                },
+                {
+                    "name": "Crest Toothpaste, Radiant Mint",
+                    "price_total": 4.69,
+                    "weight_g": 136.1,
+                    "weight_oz": 4.8,
+                    "price_per_100g": 3.45,
+                    "price_per_oz": 0.98
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 3.99,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 3.35,
+                    "price_per_oz": 0.95
+                },
+                {
+                    "name": "Colgate Whitening Toothpaste, Baking Soda and Peroxide, Brisk Mint",
+                    "price_total": 4.79,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.94,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Sensodyne Extra Whitening Sensitivity Toothpaste, Extra Whitening Sensitivity Toothpaste",
+                    "price_total": 7.39,
+                    "weight_g": 118.3,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 6.25,
+                    "price_per_oz": 1.77
+                },
+                {
+                    "name": "3D White Toothpaste Arctic Fresh",
+                    "price_total": 3.49,
+                    "weight_g": 99.2,
+                    "weight_oz": 3.5,
+                    "price_per_100g": 3.52,
+                    "price_per_oz": 1.0
+                },
+                {
+                    "name": "Crest 3D White Whitening Toothpaste, Radiant Mint",
+                    "price_total": 8.29,
+                    "weight_g": 198.4,
+                    "weight_oz": 7.0,
+                    "price_per_100g": 4.18,
+                    "price_per_oz": 1.18
+                },
+                {
+                    "name": "Crest Pro-Health Whitening Gel Toothpaste",
+                    "price_total": 7.89,
+                    "weight_g": 391.2,
+                    "weight_oz": 13.8,
+                    "price_per_100g": 2.02,
+                    "price_per_oz": 0.57
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 2.09,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 1.76,
+                    "price_per_oz": 0.5
+                },
+                {
+                    "name": "Crest Plus Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 7.89,
+                    "weight_g": 459.3,
+                    "weight_oz": 16.2,
+                    "price_per_100g": 1.72,
+                    "price_per_oz": 0.49
+                }
+            ]
+        }
+    },
+    {
+        "name": "Big Lots",
+        "items": {
+            "bar soap": [
+                {
+                    "name": "Dial Antibacterial Deodorant Bar Soap, Gold",
+                    "price_total": 2.19,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 1.93,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Ivory Bar Soap Original Scent",
+                    "price_total": 5.09,
+                    "weight_g": 8788.2,
+                    "weight_oz": 310.0,
+                    "price_per_100g": 0.06,
+                    "price_per_oz": 0.02
+                },
+                {
+                    "name": "Zest Aqua Refreshing Bar Soap",
+                    "price_total": 3.29,
+                    "weight_g": 544.3,
+                    "weight_oz": 19.2,
+                    "price_per_100g": 0.6,
+                    "price_per_oz": 0.17
+                },
+                {
+                    "name": "Lever 2000 Bar Soap Original",
+                    "price_total": 6.09,
+                    "weight_g": 113.4,
+                    "weight_oz": 4.0,
+                    "price_per_100g": 5.37,
+                    "price_per_oz": 1.52
+                }
+            ],
+            "gallon freezer bag": [
+                {
+                    "name": "Hefty Slider Gallon Freezer Bags",
+                    "price_total": 4.39,
+                    "count": 20.0,
+                    "price_per_count": 0.22
+                }
+            ],
+            "steel wool": [
+                {
+                    "name": "Brillo Soap Pads, Steel Wool",
+                    "price_total": 3.29,
+                    "count": 18.0,
+                    "price_per_count": 0.18
+                }
+            ],
+            "toothpaste": [
+                {
+                    "name": "Colgate Whitening Toothpaste, Baking Soda and Peroxide, Brisk Mint",
+                    "price_total": 4.39,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 5.49,
+                    "weight_g": 238.1,
+                    "weight_oz": 8.4,
+                    "price_per_100g": 2.31,
+                    "price_per_oz": 0.65
+                },
+                {
+                    "name": "Colgate MaxFresh Whitening Toothpaste with Breath Strips, Cool Mint",
+                    "price_total": 3.29,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 1.93,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 4.39,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 2.19,
+                    "weight_g": 226.8,
+                    "weight_oz": 8.0,
+                    "price_per_100g": 0.97,
+                    "price_per_oz": 0.27
+                },
+                {
+                    "name": "Crest + Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 5.49,
+                    "weight_g": 306.2,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 1.79,
+                    "price_per_oz": 0.51
+                },
+                {
+                    "name": "Crest Cavity & Tartar Protection Toothpaste, Baking Soda & Peroxide",
+                    "price_total": 3.29,
+                    "weight_g": 646.4,
+                    "weight_oz": 22.8,
+                    "price_per_100g": 0.51,
+                    "price_per_oz": 0.14
+                },
+                {
+                    "name": "Colgate Toothpaste, Anticavity Fluoride, Baking Soda & Peroxide Whitening, Brisk Mint, Paste",
+                    "price_total": 1.09,
+                    "weight_g": 70.9,
+                    "weight_oz": 2.5,
+                    "price_per_100g": 1.54,
+                    "price_per_oz": 0.44
+                },
+                {
+                    "name": "Colgate Whitening Toothpaste, Baking Soda and Peroxide, Brisk Mint",
+                    "price_total": 4.39,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 3.29,
+                    "weight_g": 119.1,
+                    "weight_oz": 4.2,
+                    "price_per_100g": 2.76,
+                    "price_per_oz": 0.78
+                },
+                {
+                    "name": "Crest + Scope Complete Whitening Toothpaste, Minty Fresh",
+                    "price_total": 5.49,
+                    "weight_g": 306.2,
+                    "weight_oz": 10.8,
+                    "price_per_100g": 1.79,
+                    "price_per_oz": 0.51
+                },
+                {
+                    "name": "Sensodyne Extra Whitening Toothpaste, Extra Whitening Toothpaste",
+                    "price_total": 5.29,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 6.91,
+                    "price_per_oz": 1.96
+                },
+                {
+                    "name": "Crest + Scope Outlast Complete Whitening Toothpaste, Mint",
+                    "price_total": 3.29,
+                    "weight_g": 153.1,
+                    "weight_oz": 5.4,
+                    "price_per_100g": 2.15,
+                    "price_per_oz": 0.61
+                },
+                {
+                    "name": "Crest Pro-Health Smooth Formula Toothpaste, Clean Mint Paste",
+                    "price_total": 6.09,
+                    "weight_g": 260.8,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 2.34,
+                    "price_per_oz": 0.66
+                },
+                {
+                    "name": "Colgate Total Whitening Toothpaste with Fluoride, Multi-Protection, Mint",
+                    "price_total": 4.39,
+                    "weight_g": 142.0,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 3.09,
+                    "price_per_oz": 0.88
+                },
+                {
+                    "name": "Crest Pro-Health Whitening Gel Toothpaste",
+                    "price_total": 6.09,
+                    "weight_g": 260.8,
+                    "weight_oz": 9.2,
+                    "price_per_100g": 2.34,
+                    "price_per_oz": 0.66
+                },
+                {
+                    "name": "Colgate Cavity Protection Fluoride Toothpaste, Mint",
+                    "price_total": 4.39,
+                    "weight_g": 510.3,
+                    "weight_oz": 18.0,
+                    "price_per_100g": 0.86,
+                    "price_per_oz": 0.24
+                },
+                {
+                    "name": "Crest Deep Clean Complete Whitening Toothpaste, Effervescent Mint",
+                    "price_total": 5.49,
+                    "weight_g": 612.3,
+                    "weight_oz": 21.6,
+                    "price_per_100g": 0.9,
+                    "price_per_oz": 0.25
+                },
+                {
+                    "name": "Crest Deep Clean Toothpaste",
+                    "price_total": 7.69,
+                    "weight_g": 116.2,
+                    "weight_oz": 4.1,
+                    "price_per_100g": 6.62,
+                    "price_per_oz": 1.88
+                },
+                {
+                    "name": "Colgate Optic White Stain Fighter Teeth Whitening Toothpaste, Clean Mint",
+                    "price_total": 5.49,
+                    "weight_g": 238.1,
+                    "weight_oz": 8.4,
+                    "price_per_100g": 2.31,
+                    "price_per_oz": 0.65
+                },
+                {
+                    "name": "Colgate Total Whitening Toothpaste with Fluoride, Multi-Protection, Mint",
+                    "price_total": 4.39,
+                    "weight_g": 142.0,
+                    "weight_oz": 5.0,
+                    "price_per_100g": 3.09,
+                    "price_per_oz": 0.88
+                },
+                {
+                    "name": "Colgate MaxFresh Whitening Toothpaste with Breath Strips, Cool Mint",
+                    "price_total": 3.29,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 1.93,
+                    "price_per_oz": 0.55
+                },
+                {
+                    "name": "Sensodyne Pronamel Toothpaste",
+                    "price_total": 5.29,
+                    "weight_g": 76.5,
+                    "weight_oz": 2.7,
+                    "price_per_100g": 6.91,
+                    "price_per_oz": 1.96
+                },
+                {
+                    "name": "Colgate Sensitive Toothpaste for Teeth Whitening, Fresh Mint Gel",
+                    "price_total": 5.49,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 3.23,
+                    "price_per_oz": 0.91
+                },
+                {
+                    "name": "Crest Deep Clean Toothpaste",
+                    "price_total": 7.69,
+                    "weight_g": 116.2,
+                    "weight_oz": 4.1,
+                    "price_per_100g": 6.62,
+                    "price_per_oz": 1.88
+                },
+                {
+                    "name": "Crest Toothpaste, Advanced Whitening",
+                    "price_total": 7.69,
+                    "weight_g": 116.2,
+                    "weight_oz": 4.1,
+                    "price_per_100g": 6.62,
+                    "price_per_oz": 1.88
+                },
+                {
+                    "name": "Crest Cavity Protection Toothpaste, Regular Paste",
+                    "price_total": 2.19,
+                    "weight_g": 161.6,
+                    "weight_oz": 5.7,
+                    "price_per_100g": 1.36,
+                    "price_per_oz": 0.38
+                },
+                {
+                    "name": "Arm & Hammer Complete Care Toothpaste, Fresh Mint Flavor, Whole Mouth Protection, Tube",
+                    "price_total": 3.89,
+                    "weight_g": 170.1,
+                    "weight_oz": 6.0,
+                    "price_per_100g": 2.29,
+                    "price_per_oz": 0.65
+                }
+            ]
+        }
+    }
+]
