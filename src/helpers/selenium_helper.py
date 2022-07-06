@@ -146,7 +146,7 @@ def search_items(search_term):
     '''
     Searches a store's items, then clears the search input. If the search input could not be found, returns False. Otherwise, returns True.
     '''
-    search_input = try_find_visible_element(By.CSS_SELECTOR, 'input[aria-label="search"]')
+    search_input = try_find_visible_element(By.CSS_SELECTOR, 'input[aria-describedby="search-term-accessibility-navigation"]')
     if search_input is None:
         print(Fore.YELLOW + f'  Unable to find search input element while searching for {search_term}.' + Fore.RESET)
         return False
